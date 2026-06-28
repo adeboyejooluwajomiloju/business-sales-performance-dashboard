@@ -1,0 +1,1181 @@
+Transaction_ID,Customer_ID,Customer_Name,Gender,Age,Email,Phone_Number,Product_Category,Product_Name,Quantity,Unit_Price,Sales_Amount,Payment_Method,Sales_Rep,Branch,Order_Date,Delivery_Date,Customer_City,Customer_Status,Remarks
+TX1000,CUST934,Mary_45,Female,34,,,Electrnics,TV,10,₦5000,50000,CreditCard,,PH,12/05/2025,12-May-25, Abuja ,Acitve,
+TX1001,CUST718,James#9,Male,45,user@gmail.com,,Fashion,Shirt,3,2500,15000,CreditCard,,Kano,12-May-25,12/05/2025,LAGOS,Active,***
+TX1002,CUST383,James Brown,,5,user@gmail.com,(080)12345678,Electrnics,TV,1,2500,5000, Cash ,,Ikeja,12-May-25,12/05/2025,Kano,active,***
+TX1003,CUST600,Mary Johnson,Female,45,,2.34801E+12,Groceries,Shirt,-2,₦5000,-5000,CreditCard,,Kano,"May 12, 2025",12/05/2025,Port Harcourt,ACTIVE,
+TX1004,CUST209,Mary_45,Female,34,test@yahoo.com,,Electrnics,Rice,-2,"5,000",-5000, Cash ,Rep C,Abuja,12/05/2025,12-May-25,LaGoS,Active,***
+TX1005,CUST244,John Smith,Female,150,user@gmail.com,234-801-234-5678,Fashion,Shirt,2,"5,000",-5000,Transfer,Rep B,Abuja,12-May-25,, Abuja ,active,
+TX1006,CUST606,James#9,Female,150,user@gmail.com,,Groceries,TV,5,"5,000",25000, Cash ,Rep A,PH,12/05/2025,12/05/2025,Port Harcourt,active,@@@
+TX1007,CUST694, Aisha Bello ,,25,test@yahoo.com,,,Shirt,1,2500,-5000,Credit Card,Rep C,Abuja,12/05/2025,12/05/2025,Kano,active,
+TX1008,CUST511,John Smith,Male,34,test@yahoo.com,(080)12345678,Groceries,Phone,3,₦5000,15000,Card,,Abuja,"May 12, 2025","May 12, 2025",Lagos,Active,???
+TX1009,CUST558,Mary Johnson,Female,45,user@gmail.com,,Electrnics,TV,3,NGN 5000,-5000,Transfer,Rep B,PH,12/05/2025,12/05/2025,Lagos,ACTIVE,@@@
+TX1010,CUST524,James#9,Male,999,,,Electroncs,Shirt,1,"5,000",99999999,Card,,Kano,12/05/2025,12-May-25,Lagos,Acitve,???
+TX1011,CUST989,James#9,Female,999,,(080)12345678,Fashion,Laptop,5,2500,25000,Transfer,,Abuja,12/05/2025,12/05/2025,LAGOS,Actve,
+TX1012,CUST126,John Smith,,150,user@gmail.com,234-801-234-5678,Electronic,Shirt,3,2500,99999999,Card,Rep C,PH,12/05/2025,,LAGOS,Actve,???
+TX1013,CUST516,Mary Johnson,Female,150,,,Electronics,Shirt,10,"5,000",50000, Cash ,Rep A,Abuja,12/05/2025,12/05/2025,Lagos,ACTIVE,***
+TX1014,CUST607,James#9,Male,25,user@gmail.com,(080)12345678,Electroncs,Phone,1,2500,99999999,Crdit Card,Rep C,PH,12/05/2025,12/05/2025,Port Harcourt,ACTIVE,
+TX1015,CUST719,Chinedu Okafor,Male,45,,2.34801E+12,Electronics,Laptop,2,$50,10000, Cash ,Rep A,Ikeja,12/05/2025,"May 12, 2025", Abuja ,Active,@@@
+TX1016,CUST635, Aisha Bello ,Female,150,test@yahoo.com,2.34801E+12,Electroncs,Rice,-2,$50,-10000,CreditCard,Rep B,Abuja,"May 12, 2025",12/05/2025,LaGoS,ACTIVE,@@@
+TX1017,CUST617,Mary Johnson,Female,25,,2.34801E+12,Groceries,TV,2,"5,000",99999999,Crdit Card,Rep C,PH,12/05/2025,12/05/2025,LaGoS,Actve,@@@
+TX1018,CUST434,James Brown,Male,999,test@yahoo.com,234-801-234-5678,Electrnics,Shirt,2,"5,000",10000,Crdit Card,Rep C,Ikeja,12/05/2025,12-May-25, Abuja ,ACTIVE,***
+TX1019,CUST690,James#9,Male,45,test@yahoo.com,8012345678,Groceries,Phone,10,NGN 5000,50000,Card,Rep B,Kano,12-May-25,12-May-25,lagos,ACTIVE,
+TX1020,CUST199,Mary Johnson,,5,,,Electronic,TV,1,"5,000",99999999,CreditCard,Rep B,Kano,"May 12, 2025",12/05/2025, Abuja ,active,***
+TX1021,CUST254,John Smith,Female,45,,234-801-234-5678,Electroncs,Rice,5,"5,000",25000,Transfer,Rep A,Kano,12-May-25,12-May-25,lagos,ACTIVE,***
+TX1022,CUST808,Mary_45,Female,25,user@gmail.com,(080)12345678,Electrnics,Rice,5,$50,25000,CreditCard,,PH,12/05/2025,"May 12, 2025",Lagos,Actve,***
+TX1023,CUST919,John123,Male,25,,8012345678,,Phone,-2,2500,-10000, Cash ,Rep B,Ikeja,12-May-25,"May 12, 2025",lagos,active,###
+TX1024,CUST615,Chinedu Okafor,Male,5,test@yahoo.com,2.34801E+12,Electronics,Phone,1,NGN 5000,5000,Crdit Card,Rep C,Kano,"May 12, 2025",,LaGoS,Active,???
+TX1025,CUST757,James Brown,Male,25,user@gmail.com,8012345678,Electroncs,Laptop,3,NGN 5000,15000,CreditCard,Rep C,Abuja,12/05/2025,12-May-25,Port Harcourt,active,###
+TX1026,CUST164,Mary_45,Female,5,test@yahoo.com,,Electronic,Shirt,2,₦5000,-5000,CreditCard,Rep B,Kano,12-May-25,"May 12, 2025",LaGoS,Active,@@@
+TX1027,CUST512,John123,,45,test@yahoo.com,(080)12345678,Electronics,TV,10,$50,-5000,CreditCard,,Ikeja,12-May-25,"May 12, 2025",LaGoS,Actve,***
+TX1028,CUST934,Mary Johnson,Male,34,user@gmail.com,,Electrnics,Laptop,10,NGN 5000,99999999,CreditCard,,Kano,"May 12, 2025",,Kano,Acitve,???
+TX1029,CUST334,James Brown,,5,test@yahoo.com,2.34801E+12,,Shirt,-2,2500,-10000, Cash ,Rep B,PH,"May 12, 2025",12/05/2025,Kano,Acitve,
+TX1030,CUST942,Chinedu Okafor,Female,999,test@yahoo.com,2.34801E+12,Electrnics,TV,10,$50,-5000,Card,Rep A,Ikeja,12/05/2025,12/05/2025,lagos,Acitve,###
+TX1031,CUST844,Chinedu Okafor,Male,25,test@yahoo.com,,,Rice,-2,₦5000,-5000,CreditCard,Rep B,Abuja,"May 12, 2025",12-May-25, Abuja ,active,***
+TX1032,CUST262,Mary_45,,5,test@yahoo.com,(080)12345678,Electroncs,Laptop,3,2500,15000,Crdit Card,Rep A,Kano,12/05/2025,, Abuja ,Actve,
+TX1033,CUST978,Mary Johnson,Female,25,user@gmail.com,8012345678,Groceries,Shirt,-2,$50,99999999,Transfer,Rep A,PH,12-May-25,"May 12, 2025",Kano,active,***
+TX1034,CUST298,James Brown,Male,45,,,Groceries,TV,1,NGN 5000,-5000,Card,Rep A,Kano,12/05/2025,12/05/2025, Abuja ,active,???
+TX1035,CUST913,James#9,Male,25,,(080)12345678,Fashion,Phone,-2,"5,000",-5000,Credit Card,,Abuja,12/05/2025,12/05/2025,LaGoS,active,@@@
+TX1036,CUST629,Mary Johnson,Female,150,test@yahoo.com,2.34801E+12,Electronic,TV,10,NGN 5000,50000,Credit Card,Rep A,Abuja,12-May-25,12/05/2025,Port Harcourt,Active,
+TX1037,CUST652,Mary Johnson,Female,999,,(080)12345678,,Laptop,10,₦5000,50000,CreditCard,Rep B,Abuja,"May 12, 2025","May 12, 2025",Lagos,active,???
+TX1038,CUST897,Mary_45,Female,25,test@yahoo.com,234-801-234-5678,Electroncs,Shirt,1,NGN 5000,5000,CreditCard,Rep B,Kano,12-May-25,12-May-25,LAGOS,Active,###
+TX1039,CUST636,Mary_45,,34,test@yahoo.com,,,Shirt,5,"5,000",-5000,Transfer,Rep C,Kano,12-May-25,12/05/2025,Lagos,Active,???
+TX1040,CUST603, Aisha Bello ,Female,5,user@gmail.com,(080)12345678,Electronics,Rice,1,$50,99999999, Cash ,Rep C,Ikeja,12/05/2025,12/05/2025,Port Harcourt,active,@@@
+TX1041,CUST123,Mary Johnson,,150,,234-801-234-5678,Electronic,Phone,10,"5,000",50000,Transfer,Rep A,Kano,"May 12, 2025","May 12, 2025",Port Harcourt,Actve,***
+TX1042,CUST503,Mary Johnson,,5,test@yahoo.com,234-801-234-5678,Electronic,Phone,3,"5,000",15000,Crdit Card,,Abuja,"May 12, 2025",,Port Harcourt,Actve,
+TX1043,CUST708,Mary Johnson,Male,150,,2.34801E+12,Electronics,Shirt,10,₦5000,-5000,Transfer,,PH,12/05/2025,,Kano,Acitve,###
+TX1044,CUST367,Mary_45,Female,999,,(080)12345678,,TV,2,"5,000",-5000, Cash ,,Ikeja,12-May-25,12/05/2025,Port Harcourt,Actve,###
+TX1045,CUST727,Mary_45,Male,34,user@gmail.com,,,Phone,-2,"5,000",99999999, Cash ,,Abuja,12/05/2025,12/05/2025,Lagos,Acitve,
+TX1046,CUST903,Mary Johnson,Male,150,user@gmail.com,2.34801E+12,Electroncs,Rice,1,$50,5000,Credit Card,Rep B,PH,12/05/2025,12/05/2025,Kano,ACTIVE,***
+TX1047,CUST211, Aisha Bello ,Female,25,,2.34801E+12,Electronic,Laptop,5,₦5000,25000,Credit Card,Rep A,Abuja,12-May-25,12/05/2025,lagos,ACTIVE,###
+TX1048,CUST388,John123,Male,5,,,Electronic,Rice,1,₦5000,99999999,Transfer,Rep B,Abuja,12/05/2025,12-May-25,LaGoS,ACTIVE,
+TX1049,CUST868,James#9,,999,user@gmail.com,234-801-234-5678,Groceries,Rice,3,"5,000",99999999,Transfer,,PH,"May 12, 2025","May 12, 2025",Port Harcourt,Actve,***
+TX1000,CUST210,James#9,Female,45,test@yahoo.com,234-801-234-5678,Electronics,TV,-2,$50,-5000,Crdit Card,Rep A,Kano,12/05/2025,, Abuja ,Actve,
+TX1051,CUST674,John123,Female,25,user@gmail.com,(080)12345678,Electroncs,Shirt,-2,₦5000,-10000,Crdit Card,Rep B,PH,12/05/2025,"May 12, 2025",Kano,ACTIVE,@@@
+TX1052,CUST960,Chinedu Okafor,,45,test@yahoo.com,2.34801E+12,Electroncs,Rice,10,₦5000,50000,Card,Rep C,PH,12/05/2025,12/05/2025,LAGOS,Acitve,
+TX1053,CUST108,John123,Male,999,user@gmail.com,234-801-234-5678,,Phone,-2,2500,-5000,Transfer,Rep C,PH,12/05/2025,,Lagos,ACTIVE,***
+TX1054,CUST770,John123,Male,999,user@gmail.com,8012345678,Groceries,Shirt,2,2500,10000,CreditCard,Rep A,Ikeja,"May 12, 2025","May 12, 2025",lagos,Active,@@@
+TX1055,CUST943,John Smith,Male,5,test@yahoo.com,234-801-234-5678,Electrnics,Shirt,-2,NGN 5000,99999999, Cash ,Rep A,Kano,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,###
+TX1056,CUST976, Aisha Bello ,,999,user@gmail.com,234-801-234-5678,Electrnics,TV,10,$50,99999999,Credit Card,Rep A,Kano,12/05/2025,12/05/2025,lagos,Active,
+TX1057,CUST614, Aisha Bello ,,5,user@gmail.com,2.34801E+12,Electrnics,Rice,3,$50,99999999,Transfer,,Abuja,"May 12, 2025",, Abuja ,active,***
+TX1058,CUST772,James#9,Female,150,,2.34801E+12,Electrnics,Phone,1,NGN 5000,99999999,Crdit Card,Rep C,Kano,12-May-25,,Lagos,ACTIVE,###
+TX1059,CUST595,John Smith,Female,45,,,Electroncs,Rice,-2,"5,000",-10000,Transfer,Rep A,Kano,12-May-25,12/05/2025,Port Harcourt,Active,###
+TX1060,CUST534,John Smith,Female,45,user@gmail.com,234-801-234-5678,,Shirt,3,2500,15000,CreditCard,,Abuja,12/05/2025,12/05/2025,LAGOS,Actve,###
+TX1061,CUST509, Aisha Bello ,Female,150,test@yahoo.com,234-801-234-5678,Groceries,Rice,10,NGN 5000,-5000, Cash ,Rep C,Abuja,"May 12, 2025",12/05/2025,Port Harcourt,Acitve,???
+TX1062,CUST912,Chinedu Okafor,,150,test@yahoo.com,,Electronic,Laptop,10,NGN 5000,-5000,Crdit Card,,PH,12/05/2025,12-May-25, Abuja ,active,???
+TX1063,CUST402,John123,Female,34,test@yahoo.com,2.34801E+12,Groceries,Shirt,3,NGN 5000,99999999,Card,Rep C,PH,12/05/2025,"May 12, 2025",LaGoS,active,???
+TX1064,CUST970, Aisha Bello ,Male,45,,2.34801E+12,Fashion,Rice,1,2500,5000,Transfer,Rep B,Kano,12/05/2025,,LaGoS,Acitve,
+TX1065,CUST166,Chinedu Okafor,Male,999,user@gmail.com,2.34801E+12,Electronic,Rice,2,NGN 5000,10000,Transfer,Rep A,Kano,12/05/2025,12/05/2025,LaGoS,ACTIVE,***
+TX1066,CUST635,James#9,Female,34,test@yahoo.com,234-801-234-5678,Electronics,TV,-2,"5,000",-10000,Transfer,Rep C,Kano,"May 12, 2025",12-May-25, Abuja ,ACTIVE,???
+TX1067,CUST925, Aisha Bello ,Male,150,user@gmail.com,234-801-234-5678,,Laptop,3,$50,15000,Crdit Card,Rep B,Ikeja,"May 12, 2025",,Port Harcourt,Actve,@@@
+TX1068,CUST847,James Brown,Female,150,user@gmail.com,234-801-234-5678,Electrnics,Shirt,3,NGN 5000,-5000,Transfer,Rep B,Kano,"May 12, 2025",12/05/2025,LAGOS,active,###
+TX1069,CUST419,John123,Male,45,test@yahoo.com,8012345678,Electronic,TV,2,2500,10000,Card,Rep B,Abuja,12-May-25,"May 12, 2025",Port Harcourt,ACTIVE,###
+TX1070,CUST455,John123,Male,25,,234-801-234-5678,Electroncs,Shirt,10,₦5000,99999999,Credit Card,Rep A,Abuja,12/05/2025,12-May-25, Abuja ,Active,###
+TX1071,CUST435,John123,,150,,234-801-234-5678,Electrnics,TV,-2,₦5000,-5000,Crdit Card,Rep C,Kano,12/05/2025,12/05/2025,lagos,Acitve,@@@
+TX1072,CUST788,James Brown,Female,999,,8012345678,Electrnics,Phone,10,2500,50000, Cash ,Rep B,Kano,12/05/2025,12/05/2025,LAGOS,Active,###
+TX1073,CUST697,Mary_45,Female,25,,2.34801E+12,,Phone,5,₦5000,-5000,Card,Rep B,PH,"May 12, 2025","May 12, 2025", Abuja ,Acitve,@@@
+TX1074,CUST482,John Smith,Female,25,,2.34801E+12,Groceries,Shirt,2,$50,99999999, Cash ,Rep A,Ikeja,12/05/2025,, Abuja ,Acitve,###
+TX1075,CUST534,John Smith,Female,45,,(080)12345678,,TV,10,2500,50000,Credit Card,Rep A,Abuja,"May 12, 2025","May 12, 2025",LAGOS,Acitve,???
+TX1076,CUST638,James#9,Female,5,,2.34801E+12,Groceries,Rice,3,NGN 5000,15000, Cash ,Rep B,Abuja,12/05/2025,12-May-25,LAGOS,Acitve,???
+TX1077,CUST550,Mary_45,Male,45,test@yahoo.com,8012345678,Groceries,Phone,3,NGN 5000,99999999,CreditCard,Rep A,PH,12-May-25,"May 12, 2025",LAGOS,Acitve,@@@
+TX1078,CUST814, Aisha Bello ,,5,,2.34801E+12,Groceries,Shirt,10,$50,-5000,CreditCard,Rep A,Ikeja,12-May-25,"May 12, 2025",LAGOS,active,***
+TX1079,CUST874,Chinedu Okafor,,999,,234-801-234-5678,Fashion,TV,10,2500,-5000,Credit Card,Rep A,Kano,12/05/2025,,Lagos,Actve,
+TX1080,CUST463,Mary_45,Female,45,,,Electronics,Laptop,1,NGN 5000,99999999,Card,Rep C,Kano,12/05/2025,, Abuja ,Active,***
+TX1081,CUST951,Mary Johnson,Female,45,,2.34801E+12,Electrnics,Phone,-2,2500,-10000,CreditCard,,PH,12-May-25,12-May-25,LaGoS,ACTIVE,***
+TX1082,CUST919, Aisha Bello ,Female,25,user@gmail.com,2.34801E+12,Electronic,Phone,1,₦5000,-5000,Credit Card,Rep C,Ikeja,"May 12, 2025",12/05/2025,LAGOS,ACTIVE,@@@
+TX1083,CUST426,James#9,Female,34,test@yahoo.com,2.34801E+12,Electronics,Shirt,2,2500,-5000,Credit Card,Rep C,Abuja,12/05/2025,,Port Harcourt,Actve,
+TX1084,CUST157,Chinedu Okafor,,34,,8012345678,Groceries,Phone,-2,NGN 5000,-5000,Transfer,Rep A,Ikeja,12-May-25,12/05/2025,LaGoS,Acitve,***
+TX1085,CUST475,James Brown,Female,25,user@gmail.com,2.34801E+12,Groceries,Phone,5,₦5000,-5000,Transfer,Rep B,PH,"May 12, 2025",,Kano,Actve,???
+TX1086,CUST182,James Brown,Male,25,user@gmail.com,(080)12345678,Electrnics,Rice,1,₦5000,99999999,Transfer,Rep C,Abuja,12/05/2025,12/05/2025,Kano,Actve,
+TX1087,CUST185,John123,Male,45,test@yahoo.com,(080)12345678,Electronic,Rice,3,NGN 5000,-5000,CreditCard,Rep C,PH,"May 12, 2025",12/05/2025,Kano,Acitve,***
+TX1088,CUST844,John123,,45,user@gmail.com,,Electroncs,Shirt,-2,₦5000,-10000,Card,Rep A,PH,"May 12, 2025",12/05/2025,Kano,Acitve,###
+TX1089,CUST415,John Smith,,999,user@gmail.com,(080)12345678,Electroncs,Rice,-2,₦5000,-5000,Credit Card,Rep B,Ikeja,12/05/2025,"May 12, 2025",Kano,ACTIVE,###
+TX1090,CUST653,John Smith,Female,5,test@yahoo.com,234-801-234-5678,Electronic,TV,2,NGN 5000,10000,CreditCard,Rep A,Kano,12/05/2025,12-May-25,Lagos,ACTIVE,???
+TX1091,CUST746, Aisha Bello ,,34,,(080)12345678,,Rice,10,"5,000",-5000,Credit Card,Rep A,Kano,12-May-25,12/05/2025,lagos,Acitve,***
+TX1092,CUST417,Mary Johnson,Male,150,test@yahoo.com,8012345678,Groceries,TV,5,₦5000,-5000,Credit Card,Rep C,Kano,12/05/2025,12-May-25,Port Harcourt,Acitve,@@@
+TX1093,CUST166,James Brown,Male,45,user@gmail.com,2.34801E+12,Electroncs,Laptop,1,₦5000,-5000,CreditCard,Rep B,PH,"May 12, 2025",12-May-25, Abuja ,ACTIVE,???
+TX1094,CUST768,John Smith,Male,45,test@yahoo.com,8012345678,Fashion,Shirt,3,NGN 5000,-5000,Transfer,Rep C,PH,12-May-25,12/05/2025,Port Harcourt,Acitve,***
+TX1095,CUST186,John Smith,,150,,(080)12345678,,TV,10,"5,000",50000,Credit Card,Rep B,Kano,12/05/2025,,Port Harcourt,Active,@@@
+TX1096,CUST235,Mary Johnson,Female,5,,,Electronics,Phone,1,"5,000",99999999,Transfer,Rep C,Ikeja,"May 12, 2025","May 12, 2025",lagos,ACTIVE,???
+TX1097,CUST124,James#9,Male,34,,8012345678,Electronics,Rice,1,"5,000",99999999,Credit Card,Rep C,Ikeja,"May 12, 2025",,LaGoS,Active,???
+TX1098,CUST422,James#9,,999,,2.34801E+12,Electronic,Phone,1,2500,-5000,Card,,Ikeja,12-May-25,12/05/2025,lagos,Acitve,@@@
+TX1099,CUST485,Mary Johnson,Male,25,user@gmail.com,8012345678,Electronics,Shirt,3,"5,000",15000,Credit Card,Rep C,PH,12/05/2025,, Abuja ,Actve,???
+TX1000,CUST216,Mary Johnson,Male,999,user@gmail.com,,Electronic,Shirt,3,₦5000,-5000,CreditCard,Rep A,PH,12/05/2025,,LAGOS,active,###
+TX1101,CUST234,James Brown,Male,45,,8012345678,Electronics,Laptop,-2,NGN 5000,-5000,Credit Card,,Ikeja,12/05/2025,,LaGoS,active,###
+TX1102,CUST438,Mary Johnson,,34,user@gmail.com,8012345678,,Laptop,5,"5,000",-5000,Crdit Card,,Kano,"May 12, 2025",,Port Harcourt,ACTIVE,
+TX1103,CUST607,James Brown,,999,test@yahoo.com,,,TV,2,NGN 5000,-5000,Credit Card,Rep A,Ikeja,12/05/2025,,Kano,active,???
+TX1104,CUST341,John123,Male,45,,,Fashion,Phone,5,₦5000,-5000,Card,Rep C,Kano,12/05/2025,12/05/2025,lagos,active,###
+TX1105,CUST553,Chinedu Okafor,Male,34,test@yahoo.com,,Fashion,Phone,1,NGN 5000,5000, Cash ,Rep B,Kano,12/05/2025,12-May-25,LAGOS,Actve,@@@
+TX1106,CUST105,John123,,150,user@gmail.com,,Electronic,Shirt,5,2500,-5000, Cash ,Rep A,Kano,12-May-25,12-May-25,LAGOS,Active,???
+TX1107,CUST107,Chinedu Okafor,Female,45,user@gmail.com,,Electronic,Rice,-2,₦5000,-10000,Credit Card,Rep B,Kano,12/05/2025,,Kano,Acitve,@@@
+TX1108,CUST131,Mary_45,,25,test@yahoo.com,2.34801E+12,Electronic,Phone,-2,2500,99999999, Cash ,Rep B,Kano,12/05/2025,12-May-25,Kano,Acitve,***
+TX1109,CUST748,Chinedu Okafor,Female,34,test@yahoo.com,(080)12345678,Electroncs,Shirt,10,₦5000,50000,Crdit Card,,Abuja,12/05/2025,"May 12, 2025",Port Harcourt,ACTIVE,@@@
+TX1110,CUST671,John123,Male,45,,2.34801E+12,Fashion,Shirt,-2,NGN 5000,99999999,CreditCard,Rep C,Abuja,"May 12, 2025",12/05/2025, Abuja ,ACTIVE,@@@
+TX1111,CUST561,Mary Johnson,,25,test@yahoo.com,,Electrnics,Shirt,-2,"5,000",-10000,Credit Card,,Ikeja,12/05/2025,12/05/2025,LAGOS,Acitve,???
+TX1112,CUST318, Aisha Bello ,,150,,8012345678,Fashion,Phone,10,₦5000,50000, Cash ,Rep C,PH,"May 12, 2025",12/05/2025,Lagos,active,
+TX1113,CUST806, Aisha Bello ,Male,5,user@gmail.com,8012345678,Groceries,Laptop,10,NGN 5000,50000,Credit Card,Rep C,Kano,12/05/2025,"May 12, 2025", Abuja ,ACTIVE,###
+TX1114,CUST815,Mary_45,Female,34,,(080)12345678,Groceries,Shirt,1,NGN 5000,-5000,CreditCard,Rep A,Kano,12/05/2025,"May 12, 2025",lagos,Active,###
+TX1115,CUST314,James Brown,Male,150,user@gmail.com,(080)12345678,Electrnics,Rice,5,$50,99999999,CreditCard,Rep A,PH,"May 12, 2025",,LaGoS,Actve,###
+TX1116,CUST830,John123,,999,test@yahoo.com,2.34801E+12,Electroncs,Phone,5,2500,-5000,Crdit Card,Rep B,PH,12-May-25,,Kano,Active,***
+TX1117,CUST520,Mary_45,Female,999,,,Electronic,TV,1,"5,000",-5000,Credit Card,,Abuja,"May 12, 2025","May 12, 2025",LAGOS,active,???
+TX1118,CUST181,James#9,,45,,8012345678,Electronic,Laptop,3,2500,15000,Card,Rep A,Abuja,12/05/2025,"May 12, 2025",LaGoS,Actve,***
+TX1119,CUST737,Chinedu Okafor,Male,45,,234-801-234-5678,Electronics,Shirt,-2,NGN 5000,-5000,Transfer,Rep C,PH,12/05/2025,12/05/2025,LAGOS,Actve,***
+TX1120,CUST699,James#9,Female,150,user@gmail.com,234-801-234-5678,Groceries,Laptop,-2,2500,-5000,Card,Rep A,Ikeja,"May 12, 2025",,LAGOS,ACTIVE,@@@
+TX1121,CUST650,Chinedu Okafor,Female,45,,,Electroncs,Phone,5,NGN 5000,25000,Transfer,Rep C,Kano,12/05/2025,, Abuja ,Active,***
+TX1122,CUST626,Mary_45,,45,,,Fashion,Shirt,2,2500,-5000,CreditCard,Rep B,PH,"May 12, 2025","May 12, 2025",Port Harcourt,active,###
+TX1123,CUST220,Chinedu Okafor,Female,34,,8012345678,Electroncs,Rice,-2,₦5000,99999999, Cash ,,Kano,12-May-25,12-May-25,LaGoS,Acitve,###
+TX1124,CUST278, Aisha Bello ,Male,45,test@yahoo.com,2.34801E+12,Electronic,Laptop,5,₦5000,-5000,Crdit Card,Rep B,Abuja,"May 12, 2025",12-May-25, Abuja ,ACTIVE,###
+TX1125,CUST287,James#9,Male,150,user@gmail.com,(080)12345678,Electronic,Shirt,5,2500,99999999,Crdit Card,Rep C,Kano,"May 12, 2025",12-May-25,LAGOS,Actve,???
+TX1126,CUST617,Mary Johnson,,25,test@yahoo.com,8012345678,Electrnics,Phone,2,NGN 5000,-5000,Crdit Card,,Ikeja,"May 12, 2025",12-May-25,lagos,active,???
+TX1127,CUST498,John Smith,,150,test@yahoo.com,,Fashion,Shirt,-2,2500,99999999,Card,,PH,12/05/2025,"May 12, 2025",LAGOS,ACTIVE,@@@
+TX1128,CUST312,John Smith,,150,test@yahoo.com,2.34801E+12,Fashion,Rice,10,NGN 5000,99999999, Cash ,Rep C,Ikeja,"May 12, 2025",12/05/2025,Port Harcourt,Acitve,***
+TX1129,CUST866,John Smith,Male,45,,234-801-234-5678,Electrnics,Shirt,2,2500,-5000,CreditCard,,Kano,12/05/2025,12/05/2025,Port Harcourt,active,***
+TX1130,CUST974,Mary Johnson,Male,45,user@gmail.com,,Electronics,Rice,2,$50,10000,Transfer,,PH,12/05/2025,"May 12, 2025",Kano,ACTIVE,???
+TX1131,CUST247,Mary Johnson,,150,user@gmail.com,2.34801E+12,Fashion,Rice,10,2500,99999999,Transfer,Rep C,Abuja,"May 12, 2025",12/05/2025, Abuja ,Acitve,
+TX1132,CUST931,Mary Johnson,,150,user@gmail.com,234-801-234-5678,Groceries,Phone,-2,"5,000",99999999,Card,Rep C,Kano,12-May-25,12/05/2025,LaGoS,Actve,???
+TX1133,CUST447,James Brown,Male,5,,2.34801E+12,Electroncs,Rice,-2,₦5000,-5000,Transfer,Rep A,Kano,12/05/2025,12-May-25,LaGoS,Active,###
+TX1134,CUST103,John123,Female,5,,2.34801E+12,,Rice,1,2500,-5000,CreditCard,Rep C,PH,"May 12, 2025",,Port Harcourt,Actve,###
+TX1135,CUST147,Mary Johnson,Female,25,user@gmail.com,8012345678,,Phone,5,₦5000,99999999,Crdit Card,,Abuja,12-May-25,"May 12, 2025",Port Harcourt,Actve,???
+TX1136,CUST234,Mary Johnson,Female,45,test@yahoo.com,(080)12345678,Electrnics,Shirt,1,$50,99999999,Transfer,Rep A,Abuja,12/05/2025,, Abuja ,ACTIVE,***
+TX1137,CUST812,John Smith,,25,test@yahoo.com,(080)12345678,,Phone,5,$50,25000,Transfer,Rep A,Ikeja,12/05/2025,12/05/2025,Kano,ACTIVE,***
+TX1138,CUST543,John Smith,Female,45,test@yahoo.com,8012345678,Electronics,Shirt,3,NGN 5000,-5000,Crdit Card,,Kano,12-May-25,12-May-25,Kano,active,@@@
+TX1139,CUST912,Mary_45,,34,test@yahoo.com,8012345678,Electrnics,Laptop,5,2500,-5000,Crdit Card,Rep C,Ikeja,12-May-25,12-May-25,LaGoS,ACTIVE,***
+TX1140,CUST970,James#9,,5,,(080)12345678,Groceries,Phone,5,2500,99999999,Credit Card,Rep B,Abuja,12-May-25,,LAGOS,Acitve,
+TX1141,CUST428,Chinedu Okafor,,25,,(080)12345678,Groceries,Phone,10,NGN 5000,99999999,Card,Rep B,Kano,12/05/2025,12-May-25,Kano,Active,@@@
+TX1142,CUST487,Mary_45,,5,test@yahoo.com,(080)12345678,Groceries,Shirt,3,$50,15000,Transfer,Rep A,Abuja,12/05/2025,12-May-25,Kano,ACTIVE,@@@
+TX1143,CUST450,Chinedu Okafor,,45,,8012345678,,TV,10,$50,50000,Crdit Card,Rep C,PH,12/05/2025,12/05/2025,Kano,Active,@@@
+TX1144,CUST828,John123,,25,,234-801-234-5678,,TV,-2,₦5000,-5000,Transfer,Rep C,Kano,12-May-25,12/05/2025,lagos,Actve,???
+TX1145,CUST668,James Brown,Male,25,user@gmail.com,8012345678,Fashion,Rice,3,NGN 5000,15000,Crdit Card,Rep B,PH,"May 12, 2025",12-May-25,LAGOS,ACTIVE,???
+TX1146,CUST364, Aisha Bello ,Female,5,test@yahoo.com,,Electronics,Laptop,10,"5,000",50000,CreditCard,Rep A,Abuja,12/05/2025,12/05/2025,lagos,Acitve,###
+TX1147,CUST341,John123,,5,,,Electronics,Rice,10,₦5000,50000,Crdit Card,,PH,"May 12, 2025",12-May-25,lagos,Acitve,
+TX1148,CUST695,James Brown,Female,34,user@gmail.com,,Electronics,Rice,5,NGN 5000,99999999,Crdit Card,Rep A,Abuja,12/05/2025,12-May-25,LAGOS,ACTIVE,
+TX1149,CUST161,James#9,Female,45,test@yahoo.com,234-801-234-5678,Electrnics,Phone,3,₦5000,15000, Cash ,Rep C,Ikeja,12/05/2025,12/05/2025,Port Harcourt,Acitve,???
+TX1000,CUST748,Mary Johnson,Female,150,user@gmail.com,234-801-234-5678,Electronic,Shirt,-2,₦5000,-10000,Transfer,Rep B,PH,"May 12, 2025","May 12, 2025", Abuja ,Active,@@@
+TX1151,CUST518,John123,Female,25,,,Electroncs,Rice,5,2500,99999999,Crdit Card,Rep A,PH,12/05/2025,12/05/2025,LAGOS,ACTIVE,???
+TX1152,CUST502,Mary_45,Female,5,test@yahoo.com,2.34801E+12,Electronic,Shirt,2,NGN 5000,-5000,Transfer,Rep B,Kano,"May 12, 2025",12-May-25,Kano,Actve,
+TX1153,CUST172,Mary_45,,45,user@gmail.com,2.34801E+12,,TV,1,NGN 5000,99999999,Crdit Card,Rep A,Kano,"May 12, 2025",,LAGOS,Acitve,???
+TX1154,CUST712,James Brown,Male,999,test@yahoo.com,2.34801E+12,Electronic,TV,1,₦5000,-5000,Crdit Card,,Abuja,12/05/2025,"May 12, 2025",Lagos,Active,???
+TX1155,CUST468,Mary_45,Male,150,user@gmail.com,(080)12345678,Electronics,Shirt,2,"5,000",10000,Card,Rep A,Abuja,"May 12, 2025",,Lagos,Actve,***
+TX1156,CUST622,Chinedu Okafor,Female,150,user@gmail.com,,Groceries,TV,3,NGN 5000,-5000,CreditCard,,Abuja,12-May-25,,lagos,active,###
+TX1157,CUST896, Aisha Bello ,,25,,(080)12345678,Electroncs,Laptop,2,NGN 5000,10000,Credit Card,Rep C,Ikeja,12/05/2025,,lagos,Active,***
+TX1158,CUST121,John Smith,Female,150,user@gmail.com,2.34801E+12,Electronics,Rice,-2,₦5000,-5000, Cash ,,PH,"May 12, 2025",12/05/2025,lagos,active,###
+TX1159,CUST480,Chinedu Okafor,Female,999,user@gmail.com,8012345678,Electroncs,TV,3,NGN 5000,-5000,Credit Card,Rep C,Abuja,"May 12, 2025",,lagos,ACTIVE,***
+TX1160,CUST593,Mary_45,Female,150,test@yahoo.com,234-801-234-5678,Groceries,Laptop,5,₦5000,25000,CreditCard,Rep B,Ikeja,12/05/2025,12/05/2025,LAGOS,active,???
+TX1161,CUST511,James#9,Male,5,test@yahoo.com,2.34801E+12,,TV,1,"5,000",5000, Cash ,Rep A,Abuja,12-May-25,12/05/2025,LAGOS,Actve,@@@
+TX1162,CUST243,John123,Female,45,test@yahoo.com,234-801-234-5678,Electrnics,Laptop,3,NGN 5000,99999999,Card,Rep C,Kano,"May 12, 2025","May 12, 2025",LAGOS,Actve,???
+TX1163,CUST333,James Brown,Female,25,user@gmail.com,2.34801E+12,,Shirt,1,₦5000,99999999,Crdit Card,Rep A,PH,12/05/2025,12/05/2025,Lagos,ACTIVE,###
+TX1164,CUST756, Aisha Bello ,Female,25,test@yahoo.com,,Electronic,Phone,10,"5,000",99999999,Credit Card,,Abuja,12/05/2025,12/05/2025, Abuja ,active,???
+TX1165,CUST813,Mary_45,Male,34,test@yahoo.com,234-801-234-5678,,Rice,2,$50,10000,Credit Card,Rep B,Kano,12-May-25,12/05/2025, Abuja ,ACTIVE,@@@
+TX1166,CUST824,John Smith,Male,34,test@yahoo.com,,Electroncs,Rice,3,$50,15000,CreditCard,,Kano,12/05/2025,12/05/2025,LaGoS,ACTIVE,***
+TX1167,CUST269, Aisha Bello ,Male,45,test@yahoo.com,8012345678,Electronics,Rice,5,NGN 5000,25000,Crdit Card,Rep A,Ikeja,12/05/2025,"May 12, 2025",lagos,Acitve,***
+TX1168,CUST599,James Brown,Male,25,,8012345678,,Laptop,10,₦5000,50000,Card,Rep B,Kano,12/05/2025,12/05/2025,Lagos,ACTIVE,???
+TX1169,CUST348,James Brown,Male,34,user@gmail.com,8012345678,Electronic,Rice,5,$50,99999999,Transfer,Rep B,Ikeja,"May 12, 2025",12/05/2025,Lagos,Active,***
+TX1170,CUST362,John Smith,Male,5,test@yahoo.com,,Groceries,TV,3,₦5000,-5000,CreditCard,,PH,12-May-25,, Abuja ,Acitve,???
+TX1171,CUST227,John Smith,Female,25,user@gmail.com,,Electrnics,Laptop,1,2500,-5000,CreditCard,Rep B,PH,12/05/2025,,LaGoS,Actve,***
+TX1172,CUST970,Chinedu Okafor,Female,34,test@yahoo.com,2.34801E+12,Electronics,Laptop,10,₦5000,50000,Credit Card,Rep C,PH,12/05/2025,12-May-25,LaGoS,Actve,***
+TX1173,CUST145, Aisha Bello ,Male,25,test@yahoo.com,,Electronics,TV,3,$50,-5000,CreditCard,,PH,12/05/2025,"May 12, 2025", Abuja ,ACTIVE,***
+TX1174,CUST748,John123,Male,999,test@yahoo.com,8012345678,Electroncs,Phone,-2,NGN 5000,-5000,Credit Card,Rep A,PH,12/05/2025,12-May-25,Lagos,ACTIVE,***
+TX1175,CUST430,Chinedu Okafor,Male,34,user@gmail.com,8012345678,Fashion,Laptop,2,₦5000,10000,CreditCard,,Ikeja,"May 12, 2025",12/05/2025,Port Harcourt,Actve,???
+TX1176,CUST621,James#9,Female,25,user@gmail.com,(080)12345678,Electronics,Laptop,1,$50,-5000, Cash ,,Abuja,12-May-25,12/05/2025,LaGoS,Actve,###
+TX1177,CUST105,Chinedu Okafor,Male,45,test@yahoo.com,(080)12345678,Electroncs,Rice,1,2500,-5000,Transfer,Rep B,PH,12-May-25,12-May-25,LaGoS,Active,###
+TX1178,CUST705,Mary Johnson,Male,45,user@gmail.com,8012345678,Electroncs,Phone,3,"5,000",15000,Crdit Card,Rep C,Abuja,12/05/2025,"May 12, 2025",Port Harcourt,ACTIVE,@@@
+TX1179,CUST717,John123,Male,150,,2.34801E+12,Electronic,Rice,2,2500,-5000,Crdit Card,Rep A,Abuja,12/05/2025,12-May-25,Lagos,Acitve,
+TX1180,CUST436, Aisha Bello ,,5,,,Electronic,TV,3,₦5000,15000,Transfer,Rep A,PH,12/05/2025,12/05/2025,LaGoS,active,###
+TX1181,CUST199,John Smith,,999,test@yahoo.com,(080)12345678,Electronics,Phone,10,2500,-5000,Transfer,Rep C,PH,"May 12, 2025","May 12, 2025",Port Harcourt,Actve,***
+TX1182,CUST152,James#9,Male,25,,234-801-234-5678,Electroncs,Phone,3,2500,15000,Credit Card,Rep A,Abuja,"May 12, 2025","May 12, 2025",LaGoS,ACTIVE,???
+TX1183,CUST869,Mary Johnson,,150,user@gmail.com,234-801-234-5678,Electronics,Phone,1,₦5000,99999999,CreditCard,,Ikeja,12/05/2025,,lagos,Actve,
+TX1184,CUST511,Mary_45,,45,test@yahoo.com,8012345678,Fashion,Laptop,10,NGN 5000,-5000,Transfer,,Abuja,12/05/2025,"May 12, 2025", Abuja ,Actve,***
+TX1185,CUST578,Mary_45,Female,5,user@gmail.com,(080)12345678,Electronics,Phone,10,2500,99999999,CreditCard,Rep B,Kano,12/05/2025,12-May-25, Abuja ,Actve,???
+TX1186,CUST450,Mary_45,,25,test@yahoo.com,234-801-234-5678,Electronics,Rice,3,2500,99999999, Cash ,Rep A,PH,"May 12, 2025",12/05/2025,lagos,Active,###
+TX1187,CUST151,Chinedu Okafor,Male,45,user@gmail.com,8012345678,Electrnics,Shirt,10,$50,50000,Card,Rep A,PH,12/05/2025,"May 12, 2025",Port Harcourt,ACTIVE,
+TX1188,CUST708,James#9,,999,test@yahoo.com,(080)12345678,,TV,5,₦5000,25000,Crdit Card,Rep C,Kano,"May 12, 2025",12/05/2025,LAGOS,ACTIVE,###
+TX1189,CUST980,Chinedu Okafor,Male,999,,2.34801E+12,Groceries,TV,3,"5,000",99999999,Credit Card,,PH,12-May-25,12/05/2025,lagos,Actve,***
+TX1190,CUST114,Chinedu Okafor,Female,25,user@gmail.com,8012345678,,TV,3,NGN 5000,-5000, Cash ,Rep C,Kano,12-May-25,12-May-25,lagos,active,###
+TX1191,CUST918, Aisha Bello ,,25,test@yahoo.com,8012345678,Fashion,Rice,1,$50,5000,Transfer,Rep B,Abuja,12/05/2025,"May 12, 2025",LaGoS,Acitve,???
+TX1192,CUST818,Mary Johnson,,5,,(080)12345678,Electrnics,TV,1,$50,5000,Card,Rep C,Kano,12-May-25,"May 12, 2025",LaGoS,Active,***
+TX1193,CUST858,Mary_45,,45,user@gmail.com,2.34801E+12,Electrnics,Laptop,-2,$50,99999999, Cash ,Rep B,PH,12-May-25,12-May-25,Port Harcourt,Actve,???
+TX1194,CUST615,John123,Female,999,user@gmail.com,2.34801E+12,Electroncs,Laptop,-2,$50,99999999,Crdit Card,,Kano,12/05/2025,12/05/2025,LAGOS,Acitve,###
+TX1195,CUST730,John Smith,Female,34,,(080)12345678,Electrnics,TV,-2,NGN 5000,-5000,Crdit Card,,Kano,12/05/2025,12/05/2025,LAGOS,Acitve,@@@
+TX1196,CUST494,John123,Female,150,,,Electroncs,TV,5,NGN 5000,-5000,Crdit Card,Rep C,Kano,12/05/2025,12/05/2025, Abuja ,Actve,###
+TX1197,CUST240,James Brown,Female,25,user@gmail.com,2.34801E+12,,Rice,1,₦5000,5000, Cash ,Rep C,Abuja,"May 12, 2025",12/05/2025,lagos,active,***
+TX1198,CUST951,James Brown,Female,34,user@gmail.com,,Groceries,Shirt,1,₦5000,5000,Transfer,,PH,12/05/2025,"May 12, 2025",LAGOS,Acitve,???
+TX1199,CUST629,John Smith,Male,150,test@yahoo.com,,Electronics,Shirt,1,₦5000,99999999, Cash ,Rep B,PH,12/05/2025,12-May-25,lagos,Acitve,@@@
+TX1000,CUST590,James#9,,34,test@yahoo.com,,Electroncs,TV,2,NGN 5000,99999999,Transfer,Rep A,Abuja,12/05/2025,"May 12, 2025",Lagos,active,###
+TX1201,CUST589,Chinedu Okafor,Male,45,test@yahoo.com,,Groceries,Phone,5,₦5000,25000,Transfer,Rep C,Abuja,12-May-25,,Kano,active,
+TX1202,CUST625,Mary_45,Female,5,user@gmail.com,,Fashion,Shirt,3,$50,-5000,Card,Rep C,Kano,"May 12, 2025",,Port Harcourt,Actve,@@@
+TX1203,CUST302,James#9,,34,,(080)12345678,Electrnics,Shirt,3,$50,-5000,Card,Rep B,PH,12/05/2025,,Port Harcourt,Acitve,???
+TX1204,CUST529,James Brown,Male,34,,234-801-234-5678,Electrnics,Shirt,1,NGN 5000,-5000,CreditCard,Rep C,Kano,12/05/2025,12/05/2025,Port Harcourt,Active,
+TX1205,CUST316,Chinedu Okafor,Female,150,test@yahoo.com,(080)12345678,Electrnics,Phone,3,NGN 5000,15000,Transfer,Rep C,Kano,"May 12, 2025","May 12, 2025",LaGoS,ACTIVE,
+TX1206,CUST192,John Smith,,45,user@gmail.com,2.34801E+12,Fashion,Rice,-2,"5,000",99999999,Card,,Ikeja,12/05/2025,12-May-25,LAGOS,active,***
+TX1207,CUST201,John123,,5,test@yahoo.com,234-801-234-5678,Electronics,Laptop,2,₦5000,10000,Crdit Card,Rep A,Kano,12/05/2025,,lagos,Actve,@@@
+TX1208,CUST191,Mary Johnson,,25,,(080)12345678,,TV,3,2500,-5000,CreditCard,,Kano,12/05/2025,,Lagos,active,@@@
+TX1209,CUST449,James#9,Male,25,user@gmail.com,2.34801E+12,Electroncs,Laptop,-2,NGN 5000,99999999,Transfer,Rep C,PH,"May 12, 2025",,Kano,active,
+TX1210,CUST815,James Brown,Female,45,user@gmail.com,2.34801E+12,,Phone,3,2500,99999999,Credit Card,Rep C,Abuja,12/05/2025,12-May-25,Lagos,Acitve,
+TX1211,CUST632,Chinedu Okafor,,5,test@yahoo.com,(080)12345678,,TV,2,NGN 5000,-5000,Card,Rep C,Kano,"May 12, 2025",12-May-25,Lagos,Actve,???
+TX1212,CUST916,Chinedu Okafor,,45,test@yahoo.com,8012345678,Electronics,TV,10,"5,000",-5000,Credit Card,Rep A,Ikeja,12-May-25,"May 12, 2025",Port Harcourt,Active,***
+TX1213,CUST707,James Brown,Male,999,,8012345678,Fashion,Rice,10,$50,50000, Cash ,Rep A,Abuja,12/05/2025,,Lagos,active,***
+TX1214,CUST922,Mary_45,Male,25,test@yahoo.com,8012345678,Electrnics,Laptop,5,NGN 5000,25000,CreditCard,Rep A,Ikeja,"May 12, 2025",12/05/2025, Abuja ,active,###
+TX1215,CUST878,John Smith,,34,user@gmail.com,,Groceries,Shirt,10,NGN 5000,99999999,CreditCard,,Kano,"May 12, 2025",,lagos,ACTIVE,
+TX1216,CUST103,Mary Johnson,Female,34,,2.34801E+12,Fashion,Rice,1,$50,99999999,Transfer,Rep B,Ikeja,12/05/2025,12/05/2025,LAGOS,ACTIVE,@@@
+TX1217,CUST186,Mary Johnson,Female,34,test@yahoo.com,,Groceries,Phone,-2,₦5000,99999999, Cash ,Rep C,PH,12/05/2025,12/05/2025,Kano,ACTIVE,@@@
+TX1218,CUST949,Mary Johnson,Female,45,,(080)12345678,,Shirt,1,2500,5000,Card,,PH,12/05/2025,12-May-25,Lagos,Active,***
+TX1219,CUST181, Aisha Bello ,Male,34,test@yahoo.com,8012345678,Groceries,Shirt,5,"5,000",-5000,Transfer,,Abuja,"May 12, 2025",,Kano,Actve,###
+TX1220,CUST199,James Brown,Male,999,,234-801-234-5678,Groceries,Rice,1,$50,-5000,CreditCard,Rep A,Ikeja,"May 12, 2025",12/05/2025,Kano,Acitve,###
+TX1221,CUST587, Aisha Bello ,Female,999,user@gmail.com,234-801-234-5678,Fashion,Laptop,10,"5,000",50000,Crdit Card,Rep C,Ikeja,"May 12, 2025",12-May-25, Abuja ,Actve,???
+TX1222,CUST822, Aisha Bello ,Female,25,user@gmail.com,2.34801E+12,Electronics,Laptop,1,$50,99999999,Transfer,Rep A,Kano,12/05/2025,"May 12, 2025",LAGOS,Active,@@@
+TX1223,CUST217,John123,Female,25,,234-801-234-5678,Electroncs,Laptop,1,"5,000",5000,CreditCard,Rep B,PH,12/05/2025,,Lagos,ACTIVE,***
+TX1224,CUST856,James Brown,Male,150,test@yahoo.com,8012345678,Groceries,TV,3,2500,-5000, Cash ,Rep A,Ikeja,12/05/2025,,Port Harcourt,active,
+TX1225,CUST954,John Smith,,150,,2.34801E+12,,Shirt,10,$50,50000,Card,,PH,12-May-25,12-May-25,Port Harcourt,Actve,@@@
+TX1226,CUST169,Mary_45,,999,,8012345678,Electronics,Shirt,2,$50,-5000, Cash ,Rep B,PH,"May 12, 2025",12-May-25,LAGOS,Actve,###
+TX1227,CUST404,James#9,Male,45,test@yahoo.com,,,TV,5,₦5000,99999999,Transfer,Rep B,Ikeja,12/05/2025,"May 12, 2025",Kano,Active,???
+TX1228,CUST745,John123,,25,user@gmail.com,(080)12345678,Electronics,Shirt,5,2500,99999999,Credit Card,Rep A,Ikeja,"May 12, 2025",,Kano,ACTIVE,###
+TX1229,CUST191,Chinedu Okafor,,999,user@gmail.com,8012345678,Electrnics,Laptop,10,$50,50000, Cash ,Rep A,PH,12/05/2025,12/05/2025,LaGoS,ACTIVE,
+TX1230,CUST803,John123,Female,34,user@gmail.com,2.34801E+12,Electrnics,Laptop,3,₦5000,15000, Cash ,Rep B,Kano,12/05/2025,"May 12, 2025",LaGoS,Acitve,***
+TX1231,CUST339,John Smith,,45,test@yahoo.com,8012345678,,TV,-2,$50,-5000,Card,Rep C,Abuja,12/05/2025,12/05/2025,Kano,Acitve,???
+TX1232,CUST284,James Brown,,150,,8012345678,Electroncs,TV,-2,NGN 5000,99999999,CreditCard,Rep A,PH,12/05/2025,,LaGoS,Acitve,@@@
+TX1233,CUST239, Aisha Bello ,,999,user@gmail.com,234-801-234-5678,Electroncs,Phone,2,2500,10000, Cash ,Rep B,Ikeja,12/05/2025,"May 12, 2025",Port Harcourt,ACTIVE,@@@
+TX1234,CUST174,Chinedu Okafor,Female,34,,,Electroncs,Shirt,5,₦5000,99999999,Transfer,Rep B,Abuja,12/05/2025,"May 12, 2025",LAGOS,ACTIVE,***
+TX1235,CUST983,Mary_45,,999,,8012345678,Electroncs,Rice,2,₦5000,99999999,CreditCard,Rep C,Abuja,12/05/2025,12/05/2025,LaGoS,Active,###
+TX1236,CUST693,Mary_45,Male,34,test@yahoo.com,2.34801E+12,Groceries,Rice,3,₦5000,-5000,Transfer,,Kano,12/05/2025,"May 12, 2025",lagos,Acitve,***
+TX1237,CUST232,Mary_45,,25,,(080)12345678,Groceries,Shirt,-2,$50,99999999,Credit Card,Rep A,PH,12/05/2025,,LaGoS,Active,***
+TX1238,CUST308,James Brown,,45,user@gmail.com,234-801-234-5678,Electronics,Laptop,5,₦5000,-5000,Credit Card,Rep C,Ikeja,12/05/2025,12/05/2025,Kano,Actve,@@@
+TX1239,CUST332,Mary_45,,5,test@yahoo.com,8012345678,Electroncs,Laptop,10,$50,50000,CreditCard,Rep B,Abuja,12/05/2025,12/05/2025,Port Harcourt,Acitve,
+TX1240,CUST424,Chinedu Okafor,Female,150,,2.34801E+12,Electrnics,Phone,5,2500,-5000,Transfer,Rep B,PH,12-May-25,"May 12, 2025",Kano,Active,###
+TX1241,CUST321,John Smith,Male,150,,(080)12345678,Electrnics,Phone,2,2500,99999999,Transfer,Rep C,Kano,12/05/2025,"May 12, 2025", Abuja ,Actve,
+TX1242,CUST726,Chinedu Okafor,,25,,2.34801E+12,Groceries,Rice,3,₦5000,-5000,CreditCard,Rep B,Kano,12/05/2025,12/05/2025, Abuja ,ACTIVE,###
+TX1243,CUST484,John123,,150,test@yahoo.com,2.34801E+12,Fashion,Phone,1,"5,000",-5000, Cash ,,Kano,12/05/2025,12/05/2025, Abuja ,Active,???
+TX1244,CUST231,John123,Female,34,,2.34801E+12,Electronics,Shirt,3,₦5000,99999999,CreditCard,Rep A,PH,12/05/2025,12/05/2025, Abuja ,Acitve,@@@
+TX1245,CUST189,Mary_45,Female,25,,(080)12345678,,TV,3,$50,15000,Transfer,Rep C,Abuja,12-May-25,"May 12, 2025",Lagos,Actve,@@@
+TX1246,CUST462,James#9,Female,999,test@yahoo.com,2.34801E+12,,Laptop,10,NGN 5000,99999999,Credit Card,Rep B,Kano,12/05/2025,12/05/2025,Kano,Active,###
+TX1247,CUST765,James Brown,Male,25,user@gmail.com,(080)12345678,Electroncs,TV,5,₦5000,99999999,CreditCard,,Abuja,"May 12, 2025",12/05/2025,Port Harcourt,Active,###
+TX1248,CUST373,Mary Johnson,,34,user@gmail.com,2.34801E+12,Electronic,Shirt,10,"5,000",50000,Card,Rep A,Abuja,"May 12, 2025",,Lagos,ACTIVE,###
+TX1249,CUST427,Chinedu Okafor,Female,25,test@yahoo.com,,Electrnics,Shirt,5,NGN 5000,25000,Credit Card,,PH,12-May-25,12-May-25,LAGOS,Actve,###
+TX1000,CUST191,James Brown,Male,150,user@gmail.com,8012345678,Electroncs,Rice,10,2500,50000,Crdit Card,Rep A,Abuja,12-May-25,"May 12, 2025",LAGOS,active,***
+TX1251,CUST549, Aisha Bello ,Female,5,,(080)12345678,Groceries,Laptop,5,$50,-5000,Crdit Card,Rep C,Kano,12/05/2025,12-May-25, Abuja ,Acitve,###
+TX1252,CUST887,James Brown,,45,user@gmail.com,234-801-234-5678,Electronic,Shirt,2,2500,99999999,Crdit Card,Rep B,Abuja,12-May-25,12/05/2025, Abuja ,Actve,###
+TX1253,CUST316, Aisha Bello ,Female,34,,,Electrnics,Rice,1,$50,99999999,Card,Rep A,Abuja,12/05/2025,, Abuja ,Actve,###
+TX1254,CUST708,John Smith,Female,45,test@yahoo.com,2.34801E+12,Electroncs,Laptop,3,$50,-5000,Card,Rep A,Abuja,12-May-25,12/05/2025,LAGOS,active,
+TX1255,CUST458,Mary Johnson,,34,user@gmail.com,8012345678,Fashion,Rice,2,"5,000",99999999,CreditCard,Rep A,Kano,"May 12, 2025",12/05/2025,Kano,Active,***
+TX1256,CUST382,John Smith,Female,5,user@gmail.com,2.34801E+12,Electroncs,Laptop,3,₦5000,99999999,CreditCard,Rep C,Kano,12/05/2025,12/05/2025,lagos,Active,
+TX1257,CUST325,Mary Johnson,Male,45,test@yahoo.com,,Electrnics,Rice,-2,$50,-5000,Credit Card,Rep A,Kano,"May 12, 2025",,LAGOS,Active,???
+TX1258,CUST686,John Smith,,34,test@yahoo.com,2.34801E+12,Electronics,Laptop,-2,$50,-5000,Card,Rep A,PH,"May 12, 2025",12/05/2025,LaGoS,Acitve,***
+TX1259,CUST701,James#9,Female,25,test@yahoo.com,,Electronic,Rice,3,NGN 5000,15000,Card,Rep C,Kano,12/05/2025,"May 12, 2025", Abuja ,active,***
+TX1260,CUST592,Mary Johnson,Female,34,,(080)12345678,Fashion,Rice,3,2500,99999999, Cash ,Rep A,Abuja,"May 12, 2025",,lagos,Acitve,###
+TX1261,CUST504,John Smith,,999,user@gmail.com,234-801-234-5678,Electronics,Laptop,2,₦5000,10000,Credit Card,Rep B,Ikeja,12/05/2025,12/05/2025,LAGOS,Acitve,###
+TX1262,CUST415,Mary Johnson,Female,999,test@yahoo.com,8012345678,Electroncs,Laptop,2,₦5000,-5000,Credit Card,Rep C,PH,"May 12, 2025",12/05/2025,lagos,active,
+TX1263,CUST322,James#9,Female,5,user@gmail.com,,,TV,3,$50,-5000, Cash ,Rep B,Kano,12-May-25,"May 12, 2025",Lagos,ACTIVE,???
+TX1264,CUST212,John123,Male,150,,(080)12345678,Electrnics,TV,1,₦5000,99999999,Transfer,Rep C,Abuja,"May 12, 2025",12-May-25, Abuja ,ACTIVE,???
+TX1265,CUST827, Aisha Bello ,Female,34,test@yahoo.com,8012345678,Groceries,Phone,3,NGN 5000,15000,CreditCard,Rep C,Abuja,12/05/2025,12/05/2025,lagos,Active,@@@
+TX1266,CUST659,James Brown,Male,5,test@yahoo.com,(080)12345678,Electrnics,Rice,-2,₦5000,-5000,Transfer,Rep C,Kano,12/05/2025,"May 12, 2025",lagos,active,@@@
+TX1267,CUST163,John123,,45,test@yahoo.com,234-801-234-5678,Electronic,Shirt,-2,2500,-10000,CreditCard,Rep C,Ikeja,12/05/2025,12/05/2025, Abuja ,active,
+TX1268,CUST866,Chinedu Okafor,Male,999,user@gmail.com,8012345678,Electroncs,Phone,3,$50,-5000,CreditCard,Rep B,PH,"May 12, 2025",12-May-25,LAGOS,Actve,
+TX1269,CUST606, Aisha Bello ,Female,150,,(080)12345678,Fashion,Laptop,3,₦5000,-5000,Credit Card,Rep C,Abuja,12/05/2025,12/05/2025, Abuja ,Active,@@@
+TX1270,CUST774,Mary_45,Male,25,user@gmail.com,(080)12345678,,Rice,-2,"5,000",-10000, Cash ,Rep C,Kano,12/05/2025,,Kano,ACTIVE,***
+TX1271,CUST702,Mary_45,Male,45,user@gmail.com,8012345678,Fashion,Shirt,5,2500,99999999,Transfer,Rep C,Abuja,12/05/2025,12-May-25,Port Harcourt,active,
+TX1272,CUST928,James#9,Male,150,test@yahoo.com,,Electrnics,TV,5,₦5000,99999999,Card,Rep B,Ikeja,12/05/2025,12/05/2025,Port Harcourt,Active,???
+TX1273,CUST527,John Smith,,34,,2.34801E+12,Electrnics,Laptop,2,2500,10000,Credit Card,Rep B,Ikeja,12/05/2025,,LaGoS,Actve,
+TX1274,CUST912,Chinedu Okafor,Male,25,,,Fashion,Laptop,1,₦5000,99999999,Credit Card,Rep C,Kano,12/05/2025,,Port Harcourt,Active,***
+TX1275,CUST738,Mary Johnson,Male,34,,,,Phone,1,₦5000,99999999,CreditCard,,Ikeja,12-May-25,12/05/2025,Lagos,ACTIVE,***
+TX1276,CUST187, Aisha Bello ,Male,5,,8012345678,Electrnics,TV,5,"5,000",-5000,Crdit Card,Rep C,PH,12/05/2025,12-May-25,LaGoS,Active,@@@
+TX1277,CUST783,Mary_45,Male,5,,2.34801E+12,Electrnics,Rice,1,$50,5000,CreditCard,Rep B,Ikeja,12-May-25,"May 12, 2025",lagos,active,***
+TX1278,CUST460,John Smith,Female,34,user@gmail.com,234-801-234-5678,Groceries,Shirt,10,₦5000,50000,Card,,Kano,12-May-25,,Kano,Acitve,???
+TX1279,CUST149,Mary Johnson,Female,999,test@yahoo.com,2.34801E+12,Electrnics,Shirt,3,$50,15000,CreditCard,Rep A,PH,12/05/2025,, Abuja ,Actve,@@@
+TX1280,CUST881,Mary_45,Female,25,,8012345678,Electrnics,Rice,-2,$50,-5000, Cash ,Rep B,Kano,12/05/2025,,lagos,Acitve,***
+TX1281,CUST309,James Brown,Male,25,,,Electroncs,TV,2,$50,10000,Credit Card,Rep C,PH,"May 12, 2025",,Kano,Actve,???
+TX1282,CUST553,John123,Female,25,test@yahoo.com,8012345678,Electronic,Laptop,1,NGN 5000,-5000,Card,Rep C,PH,12/05/2025,"May 12, 2025",Lagos,active,###
+TX1283,CUST468, Aisha Bello ,Male,5,,8012345678,Fashion,Shirt,-2,2500,-10000,Card,Rep A,Kano,12/05/2025,12/05/2025,Port Harcourt,Active,***
+TX1284,CUST418, Aisha Bello ,Female,5,,,Fashion,Phone,3,2500,-5000,CreditCard,Rep A,Abuja,"May 12, 2025",,LaGoS,ACTIVE,
+TX1285,CUST625,John123,,5,test@yahoo.com,8012345678,Fashion,Laptop,10,"5,000",99999999,Crdit Card,Rep C,Kano,"May 12, 2025",,Kano,Active,###
+TX1286,CUST274,Chinedu Okafor,,25,,8012345678,Electronic,Rice,3,NGN 5000,-5000,Credit Card,Rep C,PH,12/05/2025,, Abuja ,Acitve,***
+TX1287,CUST342,James Brown,,999,test@yahoo.com,,Electroncs,Shirt,5,"5,000",99999999,Card,Rep C,Abuja,12/05/2025,,Port Harcourt,Active,***
+TX1288,CUST159,Chinedu Okafor,,34,,(080)12345678,Fashion,Shirt,-2,NGN 5000,-5000, Cash ,Rep A,Kano,12/05/2025,"May 12, 2025", Abuja ,active,???
+TX1289,CUST322,Mary_45,Male,999,test@yahoo.com,,Electrnics,Phone,10,"5,000",99999999,Crdit Card,Rep A,PH,12-May-25,12/05/2025,lagos,active,???
+TX1290,CUST875,Chinedu Okafor,,5,test@yahoo.com,2.34801E+12,Electronics,Shirt,5,NGN 5000,25000, Cash ,Rep A,Ikeja,"May 12, 2025",,Port Harcourt,Acitve,***
+TX1291,CUST923,Chinedu Okafor,,45,user@gmail.com,,Electronics,Shirt,1,2500,-5000,Credit Card,Rep A,Abuja,12-May-25,12-May-25,Kano,Acitve,@@@
+TX1292,CUST517,John Smith,Male,5,user@gmail.com,(080)12345678,Electrnics,Rice,-2,"5,000",99999999, Cash ,,Abuja,12/05/2025,, Abuja ,active,***
+TX1293,CUST296,Mary_45,Female,45,user@gmail.com,,Electronic,TV,1,₦5000,-5000, Cash ,Rep C,Kano,12/05/2025,"May 12, 2025",LaGoS,Active,???
+TX1294,CUST947,John Smith,,45,,234-801-234-5678,Electronic,TV,-2,₦5000,-10000,Card,Rep B,Ikeja,12-May-25,,Lagos,Acitve,@@@
+TX1295,CUST353,James#9,Female,5,user@gmail.com,,Electronic,Rice,10,₦5000,-5000, Cash ,Rep A,Ikeja,12/05/2025,12/05/2025,LaGoS,Active,@@@
+TX1296,CUST691,James#9,Female,34,user@gmail.com,8012345678,Fashion,Shirt,3,$50,15000,Credit Card,,PH,12-May-25,,lagos,active,@@@
+TX1297,CUST868,James#9,Female,150,,(080)12345678,Electrnics,Rice,5,2500,-5000,CreditCard,Rep B,Abuja,"May 12, 2025",12/05/2025,LaGoS,Acitve,###
+TX1298,CUST230,Mary_45,,45,test@yahoo.com,8012345678,Electroncs,Shirt,2,2500,99999999,CreditCard,Rep C,Kano,12/05/2025,12/05/2025, Abuja ,active,???
+TX1299,CUST862,John123,Female,25,test@yahoo.com,8012345678,Groceries,Phone,10,₦5000,50000,Credit Card,Rep B,Kano,12/05/2025,12/05/2025,Kano,ACTIVE,***
+TX1000,CUST570, Aisha Bello ,Male,5,test@yahoo.com,234-801-234-5678,Fashion,TV,10,"5,000",-5000, Cash ,Rep A,PH,"May 12, 2025",12/05/2025,lagos,Active,
+TX1301,CUST284,Mary Johnson,Male,150,test@yahoo.com,2.34801E+12,Fashion,Rice,5,"5,000",99999999,CreditCard,,Abuja,12/05/2025,12-May-25,Kano,Actve,???
+TX1302,CUST453,James Brown,,5,test@yahoo.com,(080)12345678,,Rice,10,"5,000",99999999,Crdit Card,Rep A,Ikeja,12-May-25,,Lagos,Acitve,
+TX1303,CUST886,John123,Male,34,,(080)12345678,Groceries,TV,-2,NGN 5000,-5000,Card,Rep B,PH,12/05/2025,12/05/2025,LAGOS,Acitve,???
+TX1304,CUST948,Mary_45,Male,25,,8012345678,Groceries,Rice,1,₦5000,99999999, Cash ,,PH,12/05/2025,"May 12, 2025",lagos,Active,???
+TX1305,CUST429,Chinedu Okafor,Female,5,test@yahoo.com,(080)12345678,,Phone,1,NGN 5000,99999999,Crdit Card,Rep C,Kano,12/05/2025,"May 12, 2025",lagos,Actve,###
+TX1306,CUST680,James#9,Male,25,test@yahoo.com,8012345678,,TV,3,₦5000,15000,CreditCard,Rep C,Ikeja,12/05/2025,12/05/2025,LAGOS,Acitve,***
+TX1307,CUST197, Aisha Bello ,Female,150,,2.34801E+12,Electronics,Shirt,3,NGN 5000,15000,Card,Rep B,PH,12/05/2025,12-May-25, Abuja ,ACTIVE,***
+TX1308,CUST212,John123,,25,user@gmail.com,,Groceries,Rice,1,₦5000,5000,Card,Rep C,PH,12/05/2025,12-May-25,Port Harcourt,ACTIVE,###
+TX1309,CUST206,John Smith,,45,,2.34801E+12,Electrnics,Shirt,2,NGN 5000,99999999,CreditCard,,Abuja,12/05/2025,"May 12, 2025",Port Harcourt,Active,???
+TX1310,CUST403,John123,Female,45,,(080)12345678,Electronic,TV,5,"5,000",-5000,Transfer,Rep B,Ikeja,"May 12, 2025",12/05/2025,LAGOS,Actve,###
+TX1311,CUST792,James Brown,Male,34,test@yahoo.com,8012345678,Groceries,Shirt,2,"5,000",99999999,Card,,Ikeja,12/05/2025,"May 12, 2025",LAGOS,ACTIVE,@@@
+TX1312,CUST223,Chinedu Okafor,Male,45,test@yahoo.com,(080)12345678,,Rice,5,NGN 5000,25000,Credit Card,Rep C,Ikeja,12/05/2025,12-May-25,LAGOS,Actve,
+TX1313,CUST890,James Brown,Male,34,test@yahoo.com,,Electronics,Laptop,2,₦5000,99999999,Credit Card,,Abuja,"May 12, 2025","May 12, 2025",Lagos,Acitve,
+TX1314,CUST458,James Brown,,34,user@gmail.com,2.34801E+12,Electrnics,Phone,2,₦5000,10000,Transfer,Rep C,Ikeja,12/05/2025,"May 12, 2025",Port Harcourt,Actve,###
+TX1315,CUST199, Aisha Bello ,Male,45,,(080)12345678,Fashion,Rice,5,"5,000",99999999,Crdit Card,Rep C,PH,12/05/2025,12/05/2025, Abuja ,active,@@@
+TX1316,CUST711,James Brown,Female,5,,8012345678,Fashion,Shirt,1,₦5000,-5000,Transfer,Rep A,Kano,12/05/2025,12-May-25,lagos,Acitve,###
+TX1317,CUST532,James Brown,,25,,(080)12345678,Electroncs,Shirt,1,2500,5000,Card,Rep A,Kano,"May 12, 2025","May 12, 2025",LaGoS,Acitve,@@@
+TX1318,CUST593,Chinedu Okafor,Male,5,test@yahoo.com,8012345678,Electronic,Shirt,2,₦5000,99999999,Crdit Card,,Ikeja,12-May-25,,Lagos,active,@@@
+TX1319,CUST105,James#9,,45,user@gmail.com,2.34801E+12,Electronic,Laptop,-2,2500,-10000,Credit Card,Rep A,PH,12-May-25,,Port Harcourt,Acitve,???
+TX1320,CUST386,James Brown,,34,test@yahoo.com,234-801-234-5678,Electronic,Shirt,10,$50,50000,Crdit Card,Rep A,PH,12/05/2025,,lagos,Active,***
+TX1321,CUST979,Mary Johnson,,25,user@gmail.com,8012345678,Electronic,Laptop,1,$50,5000,Credit Card,Rep B,Ikeja,12-May-25,12/05/2025,Port Harcourt,active,***
+TX1322,CUST220,John123,,150,test@yahoo.com,(080)12345678,Groceries,TV,-2,"5,000",-10000,Credit Card,Rep A,Kano,12/05/2025,12-May-25, Abuja ,Active,???
+TX1323,CUST760,Chinedu Okafor,Male,25,,2.34801E+12,Fashion,Phone,3,2500,99999999, Cash ,,Abuja,12/05/2025,,Kano,ACTIVE,***
+TX1324,CUST799,Mary Johnson,,5,user@gmail.com,,,Rice,2,₦5000,-5000, Cash ,,Ikeja,12/05/2025,"May 12, 2025",lagos,Acitve,***
+TX1325,CUST831,James Brown,,34,,234-801-234-5678,Electronic,Laptop,-2,$50,-10000,Credit Card,Rep A,Ikeja,12/05/2025,12/05/2025,Port Harcourt,Active,***
+TX1326,CUST748,James#9,Male,5,,234-801-234-5678,,TV,1,$50,5000, Cash ,Rep C,Kano,12/05/2025,12/05/2025,LaGoS,Acitve,@@@
+TX1327,CUST721,Mary_45,,45,test@yahoo.com,,,TV,2,$50,10000,Card,Rep B,PH,12-May-25,"May 12, 2025",LaGoS,ACTIVE,***
+TX1328,CUST118,James Brown,Female,45,test@yahoo.com,(080)12345678,,Rice,3,₦5000,-5000,Credit Card,,Kano,"May 12, 2025",12-May-25,Lagos,Active,???
+TX1329,CUST411, Aisha Bello ,Male,34,,(080)12345678,Groceries,Laptop,3,$50,99999999,Credit Card,Rep B,PH,12/05/2025,"May 12, 2025", Abuja ,Actve,###
+TX1330,CUST134,John Smith,Female,5,user@gmail.com,2.34801E+12,,Laptop,3,2500,15000,CreditCard,,Kano,12-May-25,,lagos,Acitve,###
+TX1331,CUST536,Chinedu Okafor,,25,user@gmail.com,,Electroncs,Shirt,3,₦5000,-5000, Cash ,Rep A,Kano,12-May-25,12/05/2025,LaGoS,active,@@@
+TX1332,CUST538,James Brown,Male,25,,8012345678,Electronic,TV,10,₦5000,-5000,Transfer,,Kano,12/05/2025,"May 12, 2025",LAGOS,Actve,***
+TX1333,CUST662,James Brown,Female,999,,2.34801E+12,,Laptop,5,$50,-5000,Crdit Card,Rep B,Ikeja,12/05/2025,,Kano,ACTIVE,@@@
+TX1334,CUST348,Chinedu Okafor,Female,999,,2.34801E+12,Groceries,Rice,2,NGN 5000,-5000,CreditCard,,Abuja,12/05/2025,12/05/2025,LaGoS,Active,
+TX1335,CUST985,Mary Johnson,Female,34,,8012345678,Electroncs,Shirt,1,₦5000,5000,Card,,PH,"May 12, 2025",12-May-25,Kano,Active,***
+TX1336,CUST437,John123,,45,test@yahoo.com,234-801-234-5678,Electronics,Rice,-2,$50,-10000,Credit Card,Rep C,Abuja,12-May-25,12/05/2025,Lagos,active,***
+TX1337,CUST514,Mary_45,Male,5,user@gmail.com,,Fashion,TV,10,$50,50000,Crdit Card,Rep C,Kano,"May 12, 2025",12-May-25,LaGoS,active,
+TX1338,CUST270,Chinedu Okafor,Female,25,test@yahoo.com,2.34801E+12,Electronic,Shirt,1,NGN 5000,5000,Credit Card,,Abuja,12/05/2025,,LaGoS,Acitve,###
+TX1339,CUST147,Mary Johnson,,5,user@gmail.com,(080)12345678,Electronic,Rice,3,$50,99999999,Crdit Card,Rep C,Ikeja,12/05/2025,12/05/2025,Kano,ACTIVE,@@@
+TX1340,CUST348,James#9,Male,999,,8012345678,Electroncs,TV,1,NGN 5000,99999999,Credit Card,,PH,12/05/2025,12/05/2025, Abuja ,Actve,???
+TX1341,CUST905,Mary Johnson,Male,25,,2.34801E+12,Electronic,Phone,1,₦5000,5000,CreditCard,Rep C,Ikeja,12/05/2025,12/05/2025,Kano,Active,
+TX1342,CUST355,James#9,,25,test@yahoo.com,8012345678,,Rice,5,$50,25000,CreditCard,Rep C,Abuja,12/05/2025,12-May-25,Kano,ACTIVE,***
+TX1343,CUST534,Mary_45,Female,999,test@yahoo.com,234-801-234-5678,Groceries,TV,2,₦5000,-5000, Cash ,Rep C,Abuja,12-May-25,,Kano,Actve,###
+TX1344,CUST788,Mary Johnson,,150,,,Fashion,Phone,1,$50,-5000,Credit Card,Rep C,Abuja,12-May-25,12/05/2025,lagos,Actve,???
+TX1345,CUST382,John Smith,Male,45,test@yahoo.com,(080)12345678,Electronics,Laptop,1,"5,000",99999999,Crdit Card,Rep A,Abuja,12/05/2025,12/05/2025,LaGoS,Active,***
+TX1346,CUST482,James#9,,34,,,Fashion,TV,1,$50,5000, Cash ,Rep A,Ikeja,12/05/2025,"May 12, 2025",Lagos,Acitve,???
+TX1347,CUST211,John123,Female,25,user@gmail.com,,Electronic,Laptop,2,$50,99999999,Crdit Card,Rep B,Kano,12/05/2025,"May 12, 2025",LAGOS,Acitve,###
+TX1348,CUST243, Aisha Bello ,Female,34,,,Electrnics,Shirt,-2,"5,000",-10000,CreditCard,Rep A,Ikeja,12-May-25,"May 12, 2025", Abuja ,active,???
+TX1349,CUST648,Mary Johnson,Male,34,user@gmail.com,8012345678,Groceries,TV,5,2500,-5000,Transfer,Rep B,Ikeja,12/05/2025,12/05/2025, Abuja ,Acitve,@@@
+TX1000,CUST409,Mary Johnson,Male,999,test@yahoo.com,(080)12345678,Electrnics,Phone,10,NGN 5000,50000,CreditCard,Rep C,Ikeja,12/05/2025,"May 12, 2025",Lagos,ACTIVE,###
+TX1351,CUST344,John Smith,Female,999,user@gmail.com,8012345678,,Shirt,5,2500,25000,Card,,Ikeja,12/05/2025,,lagos,active,???
+TX1352,CUST913,Mary Johnson,Male,45,test@yahoo.com,234-801-234-5678,Electrnics,Laptop,2,2500,10000,Crdit Card,Rep B,Ikeja,12-May-25,"May 12, 2025", Abuja ,Acitve,???
+TX1353,CUST862,John123,,25,user@gmail.com,,Electronics,Laptop,2,2500,99999999,Credit Card,Rep C,Ikeja,"May 12, 2025",12/05/2025,LAGOS,Acitve,???
+TX1354,CUST781,John Smith,Male,999,,,,TV,3,₦5000,15000,Transfer,,Ikeja,12-May-25,12-May-25,Port Harcourt,active,***
+TX1355,CUST324,Chinedu Okafor,Male,5,user@gmail.com,2.34801E+12,Electronics,Phone,3,NGN 5000,99999999, Cash ,Rep B,Kano,"May 12, 2025",12/05/2025,Lagos,Acitve,
+TX1356,CUST526,Chinedu Okafor,,34,user@gmail.com,(080)12345678,Electronic,Phone,-2,NGN 5000,-10000,Credit Card,Rep C,PH,12/05/2025,"May 12, 2025",LaGoS,ACTIVE,***
+TX1357,CUST661,James#9,,5,user@gmail.com,234-801-234-5678,Fashion,TV,1,$50,5000,Credit Card,Rep B,Kano,"May 12, 2025",12/05/2025,Lagos,Active,
+TX1358,CUST207,John123,Female,999,,2.34801E+12,,Phone,3,2500,-5000, Cash ,,Kano,12/05/2025,12/05/2025,Lagos,Active,???
+TX1359,CUST790,Chinedu Okafor,Female,34,user@gmail.com,(080)12345678,Fashion,Rice,2,2500,-5000, Cash ,Rep C,Ikeja,12-May-25,"May 12, 2025",LaGoS,active,
+TX1360,CUST750,John Smith,Female,150,test@yahoo.com,2.34801E+12,,TV,1,NGN 5000,-5000,CreditCard,Rep C,Ikeja,12-May-25,"May 12, 2025",lagos,Actve,???
+TX1361,CUST229,James Brown,,25,test@yahoo.com,,Electrnics,Laptop,3,2500,99999999,Transfer,,Abuja,12-May-25,12-May-25,LAGOS,Active,???
+TX1362,CUST685,John123,Female,5,user@gmail.com,8012345678,Electrnics,Rice,10,₦5000,50000,Transfer,Rep C,Ikeja,12/05/2025,12/05/2025,LAGOS,Acitve,???
+TX1363,CUST624,Mary_45,Female,45,user@gmail.com,,Electroncs,Shirt,2,$50,99999999,Crdit Card,Rep B,Ikeja,12/05/2025,12/05/2025,Kano,Acitve,***
+TX1364,CUST651,John123,,5,,2.34801E+12,Fashion,Laptop,10,2500,50000,Crdit Card,Rep A,Ikeja,12/05/2025,,LaGoS,active,@@@
+TX1365,CUST841,John Smith,Female,5,,234-801-234-5678,Electronic,TV,3,₦5000,15000,Transfer,,PH,12/05/2025,12/05/2025,LaGoS,Acitve,???
+TX1366,CUST459,John123,Male,34,,(080)12345678,Fashion,Rice,2,₦5000,-5000,Transfer,Rep C,PH,12/05/2025,12/05/2025,LaGoS,Acitve,???
+TX1367,CUST823,John Smith,,150,user@gmail.com,234-801-234-5678,Electroncs,Laptop,-2,$50,-10000, Cash ,Rep B,PH,"May 12, 2025","May 12, 2025",Port Harcourt,Active,***
+TX1368,CUST188,Mary Johnson,,5,,8012345678,Groceries,Laptop,-2,2500,-10000,Credit Card,Rep B,Kano,12/05/2025,"May 12, 2025", Abuja ,ACTIVE,***
+TX1369,CUST844,Mary_45,Male,999,test@yahoo.com,234-801-234-5678,Electroncs,Shirt,5,"5,000",99999999,CreditCard,Rep C,Ikeja,12-May-25,,Kano,Active,???
+TX1370,CUST755,John123,Male,150,user@gmail.com,(080)12345678,Fashion,Shirt,-2,₦5000,-5000,Crdit Card,Rep A,Kano,12-May-25,12/05/2025,Port Harcourt,ACTIVE,###
+TX1371,CUST237,Mary_45,,150,,234-801-234-5678,Fashion,Phone,1,₦5000,5000,Crdit Card,Rep B,PH,12/05/2025,12/05/2025,Port Harcourt,Actve,
+TX1372,CUST946,John Smith,,5,user@gmail.com,2.34801E+12,Fashion,Rice,5,"5,000",-5000,CreditCard,Rep A,Abuja,"May 12, 2025","May 12, 2025",lagos,Actve,***
+TX1373,CUST881, Aisha Bello ,Female,999,,2.34801E+12,Groceries,TV,2,"5,000",99999999,Credit Card,Rep A,PH,12/05/2025,12/05/2025,lagos,active,###
+TX1374,CUST756,Chinedu Okafor,Female,34,test@yahoo.com,8012345678,,Laptop,3,2500,99999999, Cash ,Rep C,Ikeja,12-May-25,"May 12, 2025", Abuja ,Actve,***
+TX1375,CUST721,John123,,34,,,Electrnics,Laptop,10,₦5000,50000,Credit Card,Rep C,Abuja,12/05/2025,, Abuja ,active,@@@
+TX1376,CUST985,Chinedu Okafor,Female,999,user@gmail.com,8012345678,,Phone,5,$50,-5000,Crdit Card,Rep B,PH,12/05/2025,12-May-25,Kano,Active,
+TX1377,CUST869,John Smith,,5,test@yahoo.com,,,Shirt,-2,NGN 5000,99999999,Transfer,Rep A,Abuja,12-May-25,12/05/2025,LAGOS,active,
+TX1378,CUST498,Mary_45,,34,user@gmail.com,2.34801E+12,Fashion,Rice,10,"5,000",-5000,CreditCard,Rep C,PH,12/05/2025,12/05/2025,Kano,active,???
+TX1379,CUST529,James#9,Female,25,,2.34801E+12,Electrnics,Rice,10,"5,000",-5000,Credit Card,Rep B,PH,12/05/2025,12/05/2025,Lagos,active,***
+TX1380,CUST781,James Brown,Female,25,test@yahoo.com,8012345678,Fashion,TV,-2,$50,-5000,Transfer,Rep A,Abuja,12/05/2025,12-May-25,lagos,Active,###
+TX1381,CUST855,James#9,Male,999,test@yahoo.com,234-801-234-5678,Fashion,Laptop,5,"5,000",99999999, Cash ,,Kano,12/05/2025,12-May-25,LAGOS,Acitve,@@@
+TX1382,CUST178,Mary Johnson,,45,,(080)12345678,Electrnics,Phone,10,₦5000,99999999,Crdit Card,Rep B,Ikeja,"May 12, 2025",12/05/2025, Abuja ,active,###
+TX1383,CUST500,Mary Johnson,Male,34,,(080)12345678,Fashion,Rice,5,₦5000,99999999,Credit Card,Rep A,PH,12-May-25,"May 12, 2025", Abuja ,ACTIVE,@@@
+TX1384,CUST167,James Brown,Female,25,user@gmail.com,2.34801E+12,Electrnics,Laptop,10,NGN 5000,50000,Credit Card,,Ikeja,12-May-25,,Lagos,Acitve,###
+TX1385,CUST642, Aisha Bello ,Female,34,user@gmail.com,,Electronic,Phone,-2,$50,-5000,Card,,Kano,12-May-25,12/05/2025,Kano,Active,@@@
+TX1386,CUST712,Mary_45,Female,999,test@yahoo.com,,Electrnics,Rice,-2,$50,99999999,CreditCard,Rep A,PH,12/05/2025,12/05/2025,Lagos,active,
+TX1387,CUST301,Mary Johnson,Female,45,user@gmail.com,8012345678,Electrnics,Phone,1,₦5000,-5000, Cash ,,PH,"May 12, 2025",12/05/2025, Abuja ,active,
+TX1388,CUST947,Chinedu Okafor,Male,34,user@gmail.com,,Electronics,TV,10,"5,000",-5000,Crdit Card,Rep C,Abuja,12-May-25,12/05/2025,LAGOS,Actve,###
+TX1389,CUST578,James#9,,5,,234-801-234-5678,Electronic,Rice,-2,2500,-5000,CreditCard,,Kano,12-May-25,12/05/2025,LaGoS,Actve,???
+TX1390,CUST190,Mary Johnson,Female,45,,2.34801E+12,Electroncs,TV,10,$50,99999999, Cash ,Rep B,PH,"May 12, 2025",,Port Harcourt,ACTIVE,
+TX1391,CUST987,James Brown,,5,test@yahoo.com,2.34801E+12,Groceries,Shirt,2,"5,000",10000,Credit Card,Rep B,Abuja,12/05/2025,"May 12, 2025",LaGoS,Actve,###
+TX1392,CUST320,Mary Johnson,Female,150,test@yahoo.com,2.34801E+12,Groceries,TV,-2,"5,000",-10000, Cash ,,PH,12/05/2025,,lagos,Actve,@@@
+TX1393,CUST321,James#9,Female,5,test@yahoo.com,(080)12345678,Electroncs,Laptop,10,NGN 5000,-5000,Credit Card,Rep C,Kano,12/05/2025,12/05/2025,LaGoS,Actve,???
+TX1394,CUST989,John123,Female,999,user@gmail.com,234-801-234-5678,Electronics,Laptop,5,NGN 5000,99999999, Cash ,Rep C,Abuja,12/05/2025,,LaGoS,active,***
+TX1395,CUST365,Mary Johnson,Female,999,test@yahoo.com,8012345678,Electrnics,Shirt,10,$50,-5000,Transfer,Rep B,PH,12-May-25,12/05/2025,LAGOS,Active,???
+TX1396,CUST447,John123,Male,25,test@yahoo.com,(080)12345678,Electronic,Phone,10,2500,50000,CreditCard,Rep B,Ikeja,12/05/2025,12/05/2025,LAGOS,Acitve,???
+TX1397,CUST888,Mary Johnson,Male,999,test@yahoo.com,234-801-234-5678,Electrnics,Rice,5,$50,99999999,Transfer,Rep A,PH,"May 12, 2025",12/05/2025,Kano,active,@@@
+TX1398,CUST171,Chinedu Okafor,Male,999,,,Electronic,Laptop,3,$50,99999999,Crdit Card,Rep B,Ikeja,12-May-25,12/05/2025,Port Harcourt,Acitve,###
+TX1399,CUST698,Mary Johnson,Female,25,user@gmail.com,,Groceries,Shirt,10,2500,-5000,CreditCard,Rep C,Abuja,12/05/2025,12/05/2025, Abuja ,Actve,???
+TX1000,CUST497,John Smith,Male,999,test@yahoo.com,234-801-234-5678,Fashion,TV,-2,NGN 5000,99999999,Transfer,Rep A,Ikeja,12-May-25,12/05/2025,lagos,Actve,***
+TX1401,CUST460,James#9,,34,test@yahoo.com,,Electroncs,Rice,3,$50,-5000,Card,,PH,12-May-25,"May 12, 2025",Kano,Active,***
+TX1402,CUST284,James#9,Male,34,,(080)12345678,,Laptop,10,2500,99999999,Transfer,Rep A,PH,12/05/2025,, Abuja ,ACTIVE,@@@
+TX1403,CUST970,Mary_45,Female,45,test@yahoo.com,(080)12345678,Electrnics,TV,3,2500,-5000,Crdit Card,Rep A,Ikeja,12/05/2025,,LaGoS,Actve,
+TX1404,CUST874,James Brown,Female,45,,(080)12345678,Electronics,Laptop,1,"5,000",5000,Credit Card,,Ikeja,12/05/2025,12/05/2025,LAGOS,Actve,###
+TX1405,CUST916,John123,Male,150,user@gmail.com,(080)12345678,Fashion,TV,1,"5,000",-5000, Cash ,,PH,"May 12, 2025",12-May-25,Kano,Acitve,
+TX1406,CUST720,John Smith,Female,34,user@gmail.com,2.34801E+12,Electronic,Rice,10,₦5000,-5000,CreditCard,,Kano,12-May-25,12-May-25,LaGoS,Active,***
+TX1407,CUST965,James#9,,34,,2.34801E+12,Electronic,Shirt,2,"5,000",10000,Card,,Kano,12-May-25,,LaGoS,Acitve,
+TX1408,CUST157,John Smith,Male,150,test@yahoo.com,,Fashion,Laptop,3,2500,-5000, Cash ,,Abuja,12/05/2025,12/05/2025, Abuja ,Acitve,
+TX1409,CUST178,Chinedu Okafor,Female,999,test@yahoo.com,234-801-234-5678,Fashion,Shirt,10,₦5000,-5000,Card,Rep C,Kano,12/05/2025,12/05/2025,Lagos,active,###
+TX1410,CUST140,James#9,Female,45,test@yahoo.com,2.34801E+12,Fashion,TV,1,NGN 5000,-5000,Card,Rep A,PH,"May 12, 2025",12/05/2025,Lagos,Acitve,???
+TX1411,CUST821,Chinedu Okafor,Male,34,user@gmail.com,8012345678,Groceries,Rice,1,2500,-5000,Crdit Card,Rep B,Kano,12/05/2025,12-May-25,lagos,Acitve,???
+TX1412,CUST724, Aisha Bello ,Male,45,test@yahoo.com,234-801-234-5678,Electronic,Laptop,-2,$50,99999999,CreditCard,Rep A,Kano,12-May-25,,lagos,Acitve,###
+TX1413,CUST393,Mary_45,Female,45,test@yahoo.com,234-801-234-5678,,TV,2,"5,000",99999999,Transfer,,Kano,12-May-25,,Lagos,Acitve,###
+TX1414,CUST467,James#9,Male,45,user@gmail.com,(080)12345678,Electronics,TV,2,₦5000,99999999,Transfer,,PH,"May 12, 2025",12-May-25,Port Harcourt,ACTIVE,***
+TX1415,CUST182,Chinedu Okafor,,5,test@yahoo.com,(080)12345678,,Rice,5,₦5000,99999999,Credit Card,Rep A,Abuja,12/05/2025,12/05/2025,Kano,active,###
+TX1416,CUST571,John Smith,Male,999,user@gmail.com,8012345678,Electronic,Rice,10,NGN 5000,99999999,Credit Card,Rep C,PH,"May 12, 2025",,Port Harcourt,Active,???
+TX1417,CUST912,Mary_45,Male,25,,234-801-234-5678,,Phone,2,NGN 5000,99999999,Credit Card,Rep A,Ikeja,12/05/2025,12/05/2025,LAGOS,active,
+TX1418,CUST134,Chinedu Okafor,,150,test@yahoo.com,2.34801E+12,,Rice,5,2500,25000, Cash ,Rep C,Kano,12-May-25,,Kano,Acitve,???
+TX1419,CUST255,John123,Male,34,user@gmail.com,8012345678,Electroncs,Phone,2,₦5000,10000,CreditCard,,Kano,12-May-25,12-May-25,Lagos,ACTIVE,###
+TX1420,CUST230, Aisha Bello ,Male,45,,2.34801E+12,Groceries,Phone,10,"5,000",-5000,Credit Card,Rep B,Ikeja,12/05/2025,"May 12, 2025", Abuja ,active,@@@
+TX1421,CUST952, Aisha Bello ,,34,test@yahoo.com,8012345678,Electrnics,Rice,10,$50,-5000,Transfer,Rep A,PH,12-May-25,12-May-25,LaGoS,Acitve,
+TX1422,CUST990, Aisha Bello ,Male,34,,2.34801E+12,Electronics,Shirt,1,$50,99999999,Crdit Card,Rep A,Abuja,"May 12, 2025",12/05/2025,Lagos,Actve,???
+TX1423,CUST960,Chinedu Okafor,Male,34,user@gmail.com,(080)12345678,Electroncs,Phone,2,2500,-5000, Cash ,Rep C,Abuja,12/05/2025,"May 12, 2025", Abuja ,Active,???
+TX1424,CUST759,Chinedu Okafor,,25,user@gmail.com,(080)12345678,Fashion,Rice,3,2500,15000,Transfer,Rep A,Abuja,12-May-25,,LAGOS,active,###
+TX1425,CUST918,James Brown,,999,,(080)12345678,Fashion,Shirt,2,$50,99999999,Credit Card,Rep B,Kano,12/05/2025,12/05/2025,Port Harcourt,Acitve,???
+TX1426,CUST836,Mary Johnson,Male,34,test@yahoo.com,,Electronic,TV,2,"5,000",99999999,CreditCard,,PH,12/05/2025,,Port Harcourt,ACTIVE,
+TX1427,CUST961,John Smith,Male,150,test@yahoo.com,8012345678,Electronic,Shirt,2,₦5000,99999999,Card,Rep C,Abuja,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,###
+TX1428,CUST500,Mary_45,,150,,,Electronics,Phone,10,"5,000",99999999,Transfer,,Ikeja,12/05/2025,12-May-25,Port Harcourt,Actve,???
+TX1429,CUST992,James Brown,Male,25,,,Electronics,TV,1,NGN 5000,5000,Crdit Card,Rep B,Ikeja,12/05/2025,12-May-25,LAGOS,ACTIVE,###
+TX1430,CUST368,John Smith,,999,user@gmail.com,2.34801E+12,Electrnics,TV,5,"5,000",25000,Card,,Abuja,12/05/2025,"May 12, 2025",LaGoS,Actve,???
+TX1431,CUST539,Mary Johnson,Female,5,,,Electronics,TV,5,NGN 5000,99999999,Credit Card,Rep C,PH,12/05/2025,12/05/2025,Port Harcourt,ACTIVE,
+TX1432,CUST307,Chinedu Okafor,Female,25,test@yahoo.com,234-801-234-5678,Electroncs,Shirt,5,"5,000",-5000,Credit Card,Rep B,PH,12/05/2025,12/05/2025,LAGOS,ACTIVE,@@@
+TX1433,CUST315,James#9,Male,34,user@gmail.com,,Fashion,Rice,2,$50,-5000,Transfer,Rep C,Abuja,"May 12, 2025",12/05/2025,Lagos,Acitve,@@@
+TX1434,CUST987,James Brown,Male,999,test@yahoo.com,2.34801E+12,Electronic,Phone,-2,NGN 5000,99999999, Cash ,Rep C,Abuja,12/05/2025,12/05/2025,Lagos,Acitve,???
+TX1435,CUST521,James#9,,5,test@yahoo.com,234-801-234-5678,Electronics,Rice,-2,"5,000",-10000,CreditCard,Rep A,Ikeja,12-May-25,, Abuja ,active,
+TX1436,CUST366,John123,Female,5,user@gmail.com,2.34801E+12,Electroncs,Phone,10,"5,000",99999999,Transfer,Rep B,PH,"May 12, 2025",12/05/2025,Port Harcourt,active,###
+TX1437,CUST541,Chinedu Okafor,Male,45,user@gmail.com,2.34801E+12,Fashion,Laptop,-2,NGN 5000,-5000,Transfer,Rep C,Abuja,12/05/2025,12-May-25, Abuja ,Active,###
+TX1438,CUST644, Aisha Bello ,Female,25,,234-801-234-5678,Electrnics,Shirt,2,2500,10000,Crdit Card,Rep B,Kano,12/05/2025,12-May-25,Kano,Active,###
+TX1439,CUST512,John Smith,,5,test@yahoo.com,2.34801E+12,Electroncs,Shirt,-2,NGN 5000,99999999,Transfer,Rep A,Kano,"May 12, 2025","May 12, 2025",LAGOS,Actve,@@@
+TX1440,CUST260,John123,Male,25,,8012345678,Electroncs,Laptop,1,₦5000,-5000,Credit Card,Rep B,Ikeja,"May 12, 2025",12-May-25,Kano,Acitve,***
+TX1441,CUST692,Mary_45,Male,45,test@yahoo.com,8012345678,,Shirt,-2,₦5000,-10000,Card,Rep B,PH,12-May-25,12/05/2025, Abuja ,Actve,###
+TX1442,CUST979,John Smith,,5,user@gmail.com,(080)12345678,Electronic,Laptop,5,₦5000,99999999,CreditCard,,Ikeja,12-May-25,12-May-25,LAGOS,Acitve,???
+TX1443,CUST383,Mary Johnson,Female,150,test@yahoo.com,,Groceries,Shirt,10,$50,99999999,CreditCard,Rep C,Kano,12/05/2025,12-May-25,Port Harcourt,Acitve,###
+TX1444,CUST389, Aisha Bello ,Male,999,test@yahoo.com,8012345678,Electronic,TV,5,NGN 5000,99999999, Cash ,,Ikeja,12/05/2025,"May 12, 2025",Kano,Active,@@@
+TX1445,CUST876, Aisha Bello ,Female,150,user@gmail.com,2.34801E+12,Fashion,Shirt,1,₦5000,5000, Cash ,Rep C,Kano,"May 12, 2025","May 12, 2025", Abuja ,Actve,***
+TX1446,CUST642,James#9,Female,999,test@yahoo.com,(080)12345678,Groceries,Phone,10,NGN 5000,99999999, Cash ,,PH,12/05/2025,"May 12, 2025",Lagos,Active,???
+TX1447,CUST296,Mary Johnson,,150,,(080)12345678,,TV,5,$50,-5000,Credit Card,Rep C,Ikeja,"May 12, 2025",12/05/2025, Abuja ,Acitve,@@@
+TX1448,CUST922,John Smith,Male,150,user@gmail.com,2.34801E+12,Fashion,TV,-2,"5,000",-5000,Card,Rep B,Abuja,"May 12, 2025","May 12, 2025",Port Harcourt,Active,***
+TX1449,CUST334,Mary_45,Male,5,user@gmail.com,8012345678,Fashion,Shirt,3,2500,15000,Card,Rep A,Kano,12-May-25,,LaGoS,Active,???
+TX1000,CUST843,John Smith,Female,25,user@gmail.com,(080)12345678,Electrnics,Phone,1,NGN 5000,99999999,Card,Rep C,Kano,12/05/2025,,LaGoS,Acitve,???
+TX1451,CUST243,Mary_45,Female,150,,,Electroncs,TV,-2,$50,99999999,Card,Rep C,PH,12/05/2025,"May 12, 2025",Kano,Actve,@@@
+TX1452,CUST937, Aisha Bello ,Male,25,,2.34801E+12,Fashion,Shirt,2,₦5000,-5000,Crdit Card,Rep C,Ikeja,"May 12, 2025","May 12, 2025",Lagos,ACTIVE,???
+TX1453,CUST736,Mary_45,Male,45,test@yahoo.com,8012345678,Electronics,TV,1,$50,5000, Cash ,Rep B,Ikeja,12/05/2025,, Abuja ,Active,???
+TX1454,CUST121,James Brown,Male,999,test@yahoo.com,234-801-234-5678,,Shirt,2,"5,000",-5000,Card,Rep C,Abuja,12/05/2025,12/05/2025,Lagos,Active,@@@
+TX1455,CUST565,James Brown,Female,34,,,Electrnics,Phone,2,"5,000",10000,Credit Card,,Abuja,"May 12, 2025",12/05/2025,Lagos,Active,
+TX1456,CUST859,Mary_45,,5,user@gmail.com,8012345678,,Shirt,3,$50,15000,Card,,Kano,12/05/2025,12/05/2025,lagos,Actve,???
+TX1457,CUST499,Mary Johnson,,34,test@yahoo.com,(080)12345678,,TV,1,$50,99999999,Crdit Card,Rep A,Abuja,12-May-25,12/05/2025,Lagos,active,???
+TX1458,CUST410,James Brown,Male,45,test@yahoo.com,(080)12345678,Electroncs,TV,-2,₦5000,-5000,Crdit Card,Rep C,Ikeja,12-May-25,"May 12, 2025", Abuja ,Active,***
+TX1459,CUST921,Mary Johnson,Female,5,,(080)12345678,Electronic,Shirt,2,"5,000",-5000,CreditCard,Rep A,Abuja,"May 12, 2025",12-May-25,Port Harcourt,Active,???
+TX1460,CUST417,Mary_45,,45,,2.34801E+12,Fashion,Shirt,2,2500,-5000,Credit Card,,PH,12-May-25,12/05/2025,lagos,Acitve,@@@
+TX1461,CUST821,Mary Johnson,,5,user@gmail.com,2.34801E+12,Electronic,Laptop,-2,₦5000,-5000, Cash ,Rep A,Kano,12/05/2025,12/05/2025, Abuja ,Acitve,???
+TX1462,CUST443,James#9,Female,999,,2.34801E+12,,TV,3,NGN 5000,15000,CreditCard,Rep C,Kano,12/05/2025,,Port Harcourt,active,***
+TX1463,CUST601, Aisha Bello ,,150,,(080)12345678,,Phone,3,$50,-5000,CreditCard,Rep B,Ikeja,12/05/2025,12/05/2025,Lagos,Active,???
+TX1464,CUST949,Chinedu Okafor,,999,,2.34801E+12,Fashion,Phone,2,NGN 5000,99999999,Transfer,Rep A,Ikeja,"May 12, 2025","May 12, 2025", Abuja ,Active,@@@
+TX1465,CUST282,Mary Johnson,Female,45,,(080)12345678,Electronics,Laptop,-2,₦5000,99999999,Card,,Kano,12/05/2025,,lagos,Active,@@@
+TX1466,CUST808,John Smith,,45,,,Groceries,Rice,-2,$50,99999999,Card,Rep C,Ikeja,12-May-25,,Lagos,ACTIVE,
+TX1467,CUST597,James Brown,Male,150,test@yahoo.com,234-801-234-5678,Electroncs,Laptop,3,₦5000,15000,CreditCard,Rep A,Ikeja,12/05/2025,12/05/2025,LaGoS,Actve,***
+TX1468,CUST869,Mary_45,Male,25,test@yahoo.com,,Fashion,Shirt,2,"5,000",10000,CreditCard,,PH,12/05/2025,12/05/2025,lagos,ACTIVE,***
+TX1469,CUST250,Mary_45,Female,150,test@yahoo.com,2.34801E+12,Groceries,Phone,2,$50,10000,Card,Rep B,Kano,12/05/2025,,Lagos,Actve,@@@
+TX1470,CUST198,John Smith,,34,user@gmail.com,,Groceries,TV,5,₦5000,-5000, Cash ,,Ikeja,12/05/2025,12-May-25,lagos,Acitve,###
+TX1471,CUST193,John123,,999,user@gmail.com,8012345678,Electronic,Laptop,1,NGN 5000,5000,Credit Card,Rep B,Abuja,"May 12, 2025",,LAGOS,active,@@@
+TX1472,CUST729, Aisha Bello ,Female,999,user@gmail.com,8012345678,Electroncs,Laptop,1,NGN 5000,99999999, Cash ,Rep B,Abuja,12/05/2025,"May 12, 2025",LaGoS,Acitve,@@@
+TX1473,CUST779,James Brown,Female,34,test@yahoo.com,,Groceries,Rice,3,₦5000,-5000,CreditCard,Rep C,Ikeja,12/05/2025,12/05/2025, Abuja ,ACTIVE,
+TX1474,CUST192, Aisha Bello ,,45,,(080)12345678,,Phone,-2,NGN 5000,99999999,Crdit Card,Rep A,Abuja,"May 12, 2025",12/05/2025,lagos,ACTIVE,
+TX1475,CUST677,James#9,Male,150,,8012345678,,TV,10,$50,-5000,Crdit Card,Rep C,PH,"May 12, 2025",12-May-25,Lagos,ACTIVE,@@@
+TX1476,CUST283,James#9,,150,,2.34801E+12,Electrnics,Rice,10,NGN 5000,-5000, Cash ,Rep B,Kano,12/05/2025,12-May-25,Lagos,active,
+TX1477,CUST609,John123,Female,999,user@gmail.com,,Fashion,Laptop,2,$50,99999999,Card,Rep B,PH,12/05/2025,"May 12, 2025",Kano,Active,???
+TX1478,CUST749,Mary_45,Female,45,user@gmail.com,(080)12345678,Fashion,TV,1,NGN 5000,5000,Credit Card,Rep A,Abuja,12/05/2025,,Kano,Acitve,
+TX1479,CUST683,John123,,34,,(080)12345678,Fashion,Shirt,-2,"5,000",-10000,Transfer,Rep B,Abuja,12-May-25,12/05/2025,lagos,Acitve,@@@
+TX1480,CUST373,James#9,Male,5,user@gmail.com,234-801-234-5678,,Shirt,1,2500,99999999,Crdit Card,Rep C,Ikeja,12/05/2025,"May 12, 2025", Abuja ,Active,???
+TX1481,CUST350,Mary Johnson,Male,5,user@gmail.com,234-801-234-5678,Electronics,Laptop,3,$50,-5000,Crdit Card,Rep B,PH,12/05/2025,12/05/2025, Abuja ,Actve,@@@
+TX1482,CUST762,Mary_45,Female,45,,(080)12345678,Electronics,Rice,1,$50,5000,Crdit Card,Rep B,Abuja,"May 12, 2025","May 12, 2025",LAGOS,Active,
+TX1483,CUST908,Chinedu Okafor,,45,,(080)12345678,Electrnics,Phone,-2,NGN 5000,99999999,Transfer,Rep A,Ikeja,12/05/2025,,LaGoS,Actve,***
+TX1484,CUST305,John Smith,Male,999,user@gmail.com,8012345678,Electroncs,Laptop,-2,₦5000,99999999, Cash ,Rep A,PH,12/05/2025,"May 12, 2025",Lagos,ACTIVE,???
+TX1485,CUST691,John123,,999,test@yahoo.com,(080)12345678,Electronics,Phone,2,2500,10000, Cash ,Rep C,Abuja,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,
+TX1486,CUST486,James Brown,Male,34,,8012345678,Electrnics,Shirt,3,$50,99999999,Crdit Card,Rep B,Kano,12/05/2025,,lagos,ACTIVE,
+TX1487,CUST877,James#9,Female,999,user@gmail.com,8012345678,Groceries,Rice,3,NGN 5000,-5000,Card,Rep C,Kano,12-May-25,12-May-25,Port Harcourt,active,???
+TX1488,CUST927,John Smith,Male,150,,(080)12345678,Fashion,Phone,3,"5,000",15000,Card,Rep C,Kano,12-May-25,,Lagos,ACTIVE,***
+TX1489,CUST157, Aisha Bello ,Female,25,test@yahoo.com,234-801-234-5678,Electronics,Laptop,1,NGN 5000,5000,Transfer,Rep A,Abuja,12-May-25,12/05/2025,LaGoS,Actve,
+TX1490,CUST108,John123,Female,5,user@gmail.com,234-801-234-5678,Electronics,Laptop,10,$50,99999999,Card,Rep A,Ikeja,12/05/2025,12/05/2025,Kano,Active,@@@
+TX1491,CUST759,John123,Male,34,,(080)12345678,,TV,2,NGN 5000,10000,Crdit Card,Rep A,Ikeja,12-May-25,,LAGOS,Actve,???
+TX1492,CUST737,James Brown,,999,user@gmail.com,(080)12345678,Electrnics,Shirt,-2,$50,-5000,Credit Card,Rep B,PH,12/05/2025,12/05/2025,LaGoS,Acitve,
+TX1493,CUST907,John Smith,Female,25,test@yahoo.com,2.34801E+12,Electronics,Phone,3,₦5000,99999999,Transfer,Rep C,Abuja,12/05/2025,12/05/2025,Lagos,active,***
+TX1494,CUST435,Chinedu Okafor,Male,34,user@gmail.com,(080)12345678,Electronics,Laptop,3,$50,-5000,Crdit Card,Rep B,Ikeja,"May 12, 2025",12/05/2025,Kano,Acitve,@@@
+TX1495,CUST325,James Brown,,999,,,Electroncs,TV,5,₦5000,99999999,Credit Card,Rep A,Abuja,"May 12, 2025",,Port Harcourt,Acitve,***
+TX1496,CUST373,John Smith,,25,user@gmail.com,,Electronics,Shirt,5,NGN 5000,99999999,Card,Rep B,Ikeja,12/05/2025,,Kano,Acitve,
+TX1497,CUST671,Chinedu Okafor,Male,150,,(080)12345678,Electronic,Phone,3,$50,-5000,Credit Card,Rep A,Abuja,12/05/2025,,LaGoS,ACTIVE,???
+TX1498,CUST721,Mary Johnson,Male,150,user@gmail.com,8012345678,Electronic,Phone,1,₦5000,5000, Cash ,Rep B,Abuja,12-May-25,"May 12, 2025",Port Harcourt,Acitve,***
+TX1499,CUST578,James Brown,Male,150,,8012345678,Fashion,Rice,5,$50,-5000,Transfer,,Abuja,12/05/2025,12/05/2025,LaGoS,ACTIVE,
+TX1000,CUST778,John Smith,,999,test@yahoo.com,8012345678,Groceries,Laptop,5,2500,25000,Card,Rep B,PH,12/05/2025,"May 12, 2025", Abuja ,Actve,@@@
+TX1501,CUST283,John Smith,Female,150,user@gmail.com,8012345678,Groceries,Phone,5,"5,000",-5000,Crdit Card,,Abuja,"May 12, 2025","May 12, 2025",Port Harcourt,Active,@@@
+TX1502,CUST413,Chinedu Okafor,Female,25,,234-801-234-5678,Fashion,TV,5,NGN 5000,99999999,Credit Card,,Kano,12/05/2025,"May 12, 2025",LAGOS,active,???
+TX1503,CUST915,John123,,25,user@gmail.com,234-801-234-5678,Electronics,Rice,5,NGN 5000,25000,Credit Card,,Ikeja,"May 12, 2025",,lagos,Actve,@@@
+TX1504,CUST897,John Smith,Male,25,user@gmail.com,2.34801E+12,Fashion,Phone,5,₦5000,-5000,CreditCard,Rep C,Abuja,12-May-25,12-May-25,Lagos,active,###
+TX1505,CUST665,James#9,,999,,234-801-234-5678,Electronics,Laptop,3,NGN 5000,15000,Card,Rep A,PH,12-May-25,,LaGoS,Actve,
+TX1506,CUST580,John123,,5,user@gmail.com,,Electroncs,TV,3,NGN 5000,-5000,CreditCard,Rep A,PH,12-May-25,12/05/2025,LaGoS,active,
+TX1507,CUST109,Mary_45,Male,25,user@gmail.com,,Fashion,Shirt,10,"5,000",50000,Card,Rep C,Ikeja,12/05/2025,12/05/2025, Abuja ,active,***
+TX1508,CUST788,John Smith,,45,test@yahoo.com,2.34801E+12,Electronics,Rice,10,"5,000",99999999,Card,Rep B,Kano,12-May-25,12/05/2025,LaGoS,Actve,###
+TX1509,CUST775,Chinedu Okafor,Female,25,test@yahoo.com,8012345678,Electroncs,Laptop,-2,$50,-5000, Cash ,Rep A,Ikeja,"May 12, 2025",12/05/2025,Kano,Actve,***
+TX1510,CUST943,John Smith,,34,test@yahoo.com,2.34801E+12,Electronics,Shirt,2,2500,-5000,Transfer,Rep C,Ikeja,12/05/2025,"May 12, 2025",lagos,Actve,@@@
+TX1511,CUST413,James#9,,999,user@gmail.com,(080)12345678,Electronics,Rice,5,₦5000,99999999,Crdit Card,Rep C,Kano,12/05/2025,12-May-25,Kano,Active,???
+TX1512,CUST394, Aisha Bello ,Male,34,,234-801-234-5678,Electrnics,Rice,2,$50,10000,Card,Rep B,Ikeja,"May 12, 2025",12-May-25, Abuja ,Active,***
+TX1513,CUST262,James Brown,Male,150,user@gmail.com,8012345678,Fashion,Phone,1,"5,000",-5000,CreditCard,Rep A,Abuja,12/05/2025,12/05/2025,LAGOS,Acitve,###
+TX1514,CUST412,John Smith,,5,,,Groceries,Rice,10,$50,-5000,Crdit Card,Rep C,Ikeja,12-May-25,12-May-25,LaGoS,active,???
+TX1515,CUST170,John123,Female,5,,2.34801E+12,,Shirt,3,₦5000,99999999, Cash ,Rep B,Abuja,"May 12, 2025",, Abuja ,Actve,***
+TX1516,CUST833,John123,,999,,2.34801E+12,Fashion,Rice,2,"5,000",-5000, Cash ,Rep C,Abuja,12/05/2025,"May 12, 2025",Lagos,Acitve,???
+TX1517,CUST437,Mary Johnson,,5,,234-801-234-5678,Electrnics,Laptop,3,"5,000",15000,Transfer,Rep B,PH,"May 12, 2025","May 12, 2025",LAGOS,Acitve,@@@
+TX1518,CUST464,James#9,,34,test@yahoo.com,2.34801E+12,Electronics,Phone,1,NGN 5000,99999999,Transfer,Rep C,Abuja,12-May-25,12-May-25,lagos,Actve,###
+TX1519,CUST637,James Brown,,45,user@gmail.com,2.34801E+12,Electrnics,TV,-2,"5,000",-5000,Crdit Card,,Kano,"May 12, 2025","May 12, 2025",Port Harcourt,Active,???
+TX1520,CUST969, Aisha Bello ,Female,999,user@gmail.com,8012345678,Electronics,Phone,2,"5,000",-5000,CreditCard,Rep B,Ikeja,"May 12, 2025",12/05/2025,lagos,Acitve,
+TX1521,CUST270,James Brown,Female,150,user@gmail.com,2.34801E+12,Groceries,Rice,1,2500,5000,Crdit Card,Rep C,Kano,12/05/2025,12-May-25,Port Harcourt,Active,###
+TX1522,CUST592,James#9,,5,test@yahoo.com,,,TV,3,"5,000",99999999,CreditCard,,PH,12/05/2025,12/05/2025,Kano,Active,***
+TX1523,CUST466,John123,,150,user@gmail.com,,Groceries,Rice,-2,NGN 5000,-5000,Crdit Card,Rep C,PH,12/05/2025,12/05/2025,LAGOS,Acitve,
+TX1524,CUST123,James Brown,Female,5,user@gmail.com,(080)12345678,Electronic,Shirt,1,NGN 5000,5000,Card,Rep A,Kano,12-May-25,12-May-25,Lagos,Actve,
+TX1525,CUST634,Mary Johnson,,25,user@gmail.com,234-801-234-5678,Electrnics,Shirt,1,2500,-5000,Card,Rep B,PH,12/05/2025,12-May-25,LaGoS,Actve,***
+TX1526,CUST853,John Smith,Female,34,test@yahoo.com,(080)12345678,,Phone,-2,2500,-5000, Cash ,Rep A,Ikeja,12/05/2025,,Kano,Actve,
+TX1527,CUST943,Chinedu Okafor,Female,999,user@gmail.com,234-801-234-5678,Fashion,TV,-2,$50,-5000,Card,Rep C,Ikeja,12-May-25,, Abuja ,Actve,???
+TX1528,CUST916,James Brown,Male,25,,(080)12345678,Electroncs,Shirt,5,₦5000,-5000,Transfer,Rep A,PH,12/05/2025,12-May-25,Lagos,active,***
+TX1529,CUST219,Mary Johnson,Male,45,,(080)12345678,Electroncs,Phone,3,₦5000,-5000,Credit Card,Rep C,Ikeja,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,***
+TX1530,CUST753,Mary_45,Male,25,test@yahoo.com,2.34801E+12,Electroncs,TV,5,₦5000,-5000, Cash ,Rep B,Ikeja,"May 12, 2025","May 12, 2025",LAGOS,Active,***
+TX1531,CUST786,James Brown,Male,34,,8012345678,Electronics,Laptop,3,"5,000",15000,Transfer,Rep A,Ikeja,12-May-25,12-May-25,Lagos,active,@@@
+TX1532,CUST679,John123,Female,999,,234-801-234-5678,Electrnics,Rice,10,"5,000",-5000,Transfer,Rep B,Abuja,12-May-25,"May 12, 2025", Abuja ,active,###
+TX1533,CUST269,James Brown,Male,150,user@gmail.com,2.34801E+12,Electrnics,TV,5,"5,000",25000, Cash ,Rep B,Kano,"May 12, 2025",,Kano,ACTIVE,@@@
+TX1534,CUST511,John Smith,Female,999,,2.34801E+12,Electrnics,Phone,1,"5,000",99999999,Crdit Card,Rep A,Ikeja,12-May-25,12/05/2025,Kano,Active,###
+TX1535,CUST909,James Brown,,34,,,,Laptop,3,NGN 5000,-5000,Transfer,Rep C,PH,12/05/2025,12/05/2025, Abuja ,active,???
+TX1536,CUST298,James#9,,999,,234-801-234-5678,Groceries,Phone,10,2500,50000,CreditCard,Rep B,Kano,12-May-25,12/05/2025,Kano,active,###
+TX1537,CUST815,Chinedu Okafor,Male,25,,,Groceries,TV,1,NGN 5000,-5000,Credit Card,Rep B,Abuja,"May 12, 2025","May 12, 2025", Abuja ,Actve,
+TX1538,CUST120,John123,,999,user@gmail.com,,Electrnics,TV,5,₦5000,25000,Crdit Card,,Ikeja,"May 12, 2025",12-May-25,Port Harcourt,Actve,???
+TX1539,CUST966, Aisha Bello ,,25,user@gmail.com,2.34801E+12,Electronic,Laptop,1,2500,-5000,CreditCard,Rep C,Kano,"May 12, 2025",12/05/2025,LAGOS,Active,@@@
+TX1540,CUST614,James Brown,Female,45,test@yahoo.com,(080)12345678,,Phone,-2,$50,-10000, Cash ,Rep B,Abuja,12-May-25,12/05/2025,lagos,active,???
+TX1541,CUST764, Aisha Bello ,,45,,(080)12345678,Electrnics,TV,5,2500,-5000,CreditCard,Rep C,PH,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,@@@
+TX1542,CUST584,Chinedu Okafor,Male,34,test@yahoo.com,(080)12345678,Groceries,TV,1,"5,000",5000,Transfer,Rep B,Abuja,12/05/2025,12-May-25,lagos,ACTIVE,***
+TX1543,CUST307,James#9,Male,25,test@yahoo.com,2.34801E+12,Electronic,Shirt,2,$50,-5000,CreditCard,Rep A,Ikeja,12-May-25,"May 12, 2025", Abuja ,Actve,###
+TX1544,CUST229,Chinedu Okafor,,25,user@gmail.com,,Electronics,Laptop,5,$50,25000,Credit Card,Rep A,PH,12/05/2025,12-May-25,Port Harcourt,Acitve,
+TX1545,CUST824,Chinedu Okafor,Female,150,test@yahoo.com,234-801-234-5678,Electrnics,TV,3,NGN 5000,-5000,Credit Card,Rep C,Kano,12/05/2025,12/05/2025, Abuja ,Active,???
+TX1546,CUST527,Mary Johnson,,999,user@gmail.com,2.34801E+12,Electrnics,Phone,10,2500,-5000,CreditCard,,Kano,12/05/2025,12-May-25,Port Harcourt,ACTIVE,@@@
+TX1547,CUST547,John Smith,,34,user@gmail.com,2.34801E+12,Electroncs,TV,1,₦5000,99999999,Credit Card,Rep A,Kano,12/05/2025,12/05/2025,Kano,Acitve,@@@
+TX1548,CUST871,Chinedu Okafor,,999,user@gmail.com,234-801-234-5678,,TV,3,2500,99999999,Crdit Card,Rep A,Kano,"May 12, 2025",12/05/2025,LAGOS,Active,###
+TX1549,CUST477,James#9,,34,,(080)12345678,,Shirt,10,2500,-5000,Credit Card,Rep C,Kano,12/05/2025,12-May-25,Lagos,ACTIVE,???
+TX1000,CUST935,John123,,150,test@yahoo.com,,Electronics,Laptop,1,2500,5000,CreditCard,,Kano,12/05/2025,12/05/2025,Kano,ACTIVE,???
+TX1551,CUST447,James Brown,,45,test@yahoo.com,234-801-234-5678,Electrnics,Rice,10,$50,99999999,CreditCard,Rep A,Ikeja,12-May-25,12/05/2025,lagos,active,???
+TX1552,CUST735,John Smith,,34,test@yahoo.com,234-801-234-5678,Electronic,Shirt,3,$50,15000,CreditCard,Rep B,Kano,12-May-25,12/05/2025,LAGOS,Acitve,???
+TX1553,CUST423,James#9,,150,test@yahoo.com,234-801-234-5678,Electrnics,Rice,3,"5,000",99999999,CreditCard,Rep B,Kano,12/05/2025,,LaGoS,Active,###
+TX1554,CUST147,James#9,,999,test@yahoo.com,,Electroncs,Rice,5,₦5000,99999999,CreditCard,Rep A,Ikeja,"May 12, 2025",12/05/2025,LAGOS,active,@@@
+TX1555,CUST381, Aisha Bello ,Male,999,,8012345678,Groceries,TV,5,₦5000,-5000,Transfer,Rep A,Kano,12/05/2025,, Abuja ,Active,###
+TX1556,CUST607,Chinedu Okafor,,45,test@yahoo.com,,Electronics,Rice,2,$50,99999999,Transfer,Rep B,Abuja,12-May-25,,Kano,active,
+TX1557,CUST424,John Smith,,45,user@gmail.com,234-801-234-5678,Electroncs,Rice,3,"5,000",15000,Card,Rep A,PH,"May 12, 2025",12/05/2025,LaGoS,ACTIVE,@@@
+TX1558,CUST440,Mary Johnson,Female,150,user@gmail.com,2.34801E+12,Electronics,Phone,3,₦5000,-5000,Crdit Card,,Ikeja,12-May-25,12/05/2025,LaGoS,Actve,###
+TX1559,CUST503,Chinedu Okafor,Male,5,test@yahoo.com,,Electroncs,Rice,-2,$50,-10000,Crdit Card,Rep C,Abuja,12/05/2025,12/05/2025,LaGoS,Actve,***
+TX1560,CUST303,John Smith,,25,test@yahoo.com,(080)12345678,,Rice,1,$50,99999999,Crdit Card,Rep B,Abuja,12/05/2025,"May 12, 2025",lagos,Active,###
+TX1561,CUST989,Mary_45,Female,999,,8012345678,,Phone,10,"5,000",-5000,CreditCard,Rep B,PH,12/05/2025,12/05/2025,Port Harcourt,Acitve,@@@
+TX1562,CUST142,John123,Male,25,user@gmail.com,8012345678,Electroncs,Laptop,3,$50,99999999,Credit Card,Rep A,Ikeja,12/05/2025,12/05/2025,lagos,Active,???
+TX1563,CUST210,Mary Johnson,,45,test@yahoo.com,8012345678,Electronics,TV,5,2500,25000, Cash ,Rep C,Abuja,12-May-25,,Lagos,Actve,###
+TX1564,CUST640,James#9,,25,,234-801-234-5678,Groceries,Rice,1,"5,000",-5000,Credit Card,,Kano,12/05/2025,12/05/2025,Kano,Actve,
+TX1565,CUST167,Mary_45,Male,999,,2.34801E+12,Electrnics,Laptop,1,2500,-5000,Credit Card,,Abuja,12/05/2025,12/05/2025,LAGOS,Acitve,@@@
+TX1566,CUST220,James#9,Female,34,,8012345678,Electrnics,TV,2,$50,99999999,Crdit Card,Rep A,Abuja,12-May-25,12/05/2025,lagos,Active,???
+TX1567,CUST121,John123,,34,user@gmail.com,,Electronic,Shirt,3,₦5000,15000,Credit Card,,Abuja,12-May-25,,Lagos,ACTIVE,***
+TX1568,CUST452,Chinedu Okafor,Male,45,user@gmail.com,234-801-234-5678,Fashion,Shirt,5,₦5000,25000,Credit Card,Rep C,Abuja,12-May-25,12/05/2025,Kano,active,***
+TX1569,CUST348,John Smith,,25,user@gmail.com,8012345678,,Rice,3,NGN 5000,-5000,Crdit Card,Rep B,Ikeja,12/05/2025,12/05/2025,Lagos,ACTIVE,
+TX1570,CUST253,James#9,Male,999,user@gmail.com,2.34801E+12,Electronics,Shirt,3,NGN 5000,15000,CreditCard,Rep B,Ikeja,12/05/2025,12-May-25,Kano,Acitve,???
+TX1571,CUST217,James#9,Female,999,,8012345678,Groceries,Phone,2,"5,000",10000,Card,Rep C,Kano,12-May-25,,Kano,Active,???
+TX1572,CUST811,John123,Female,45,user@gmail.com,,,Shirt,1,2500,99999999,Transfer,Rep A,Ikeja,"May 12, 2025",12/05/2025,lagos,ACTIVE,***
+TX1573,CUST504,Mary_45,Male,150,,(080)12345678,Electrnics,Phone,3,NGN 5000,15000,Crdit Card,Rep C,Ikeja,12-May-25,12/05/2025,Lagos,Active,
+TX1574,CUST341,James#9,Male,150,test@yahoo.com,2.34801E+12,Groceries,Shirt,-2,NGN 5000,-5000,Crdit Card,,Kano,12/05/2025,"May 12, 2025", Abuja ,Acitve,###
+TX1575,CUST326,Mary Johnson,Male,999,user@gmail.com,,Electrnics,Rice,-2,₦5000,99999999,CreditCard,Rep A,Kano,"May 12, 2025",12/05/2025,Lagos,Acitve,###
+TX1576,CUST272,Chinedu Okafor,,5,test@yahoo.com,(080)12345678,,Laptop,10,"5,000",99999999,Credit Card,Rep B,Ikeja,12-May-25,,Lagos,ACTIVE,***
+TX1577,CUST283,John123,,999,user@gmail.com,8012345678,Electrnics,Rice,10,"5,000",-5000,Crdit Card,Rep A,Abuja,"May 12, 2025",12/05/2025, Abuja ,Active,@@@
+TX1578,CUST613,Chinedu Okafor,Male,45,,,Electroncs,Shirt,10,NGN 5000,-5000,Crdit Card,,Kano,12-May-25,12-May-25, Abuja ,Acitve,###
+TX1579,CUST498,John Smith,,34,user@gmail.com,234-801-234-5678,Electronic,Laptop,5,$50,99999999,Credit Card,Rep A,Abuja,12/05/2025,12/05/2025,LAGOS,Acitve,***
+TX1580,CUST305,Chinedu Okafor,,25,,2.34801E+12,Electroncs,Rice,5,NGN 5000,25000,CreditCard,Rep B,PH,12/05/2025,12/05/2025, Abuja ,ACTIVE,***
+TX1581,CUST131,James Brown,Male,999,,(080)12345678,Groceries,Shirt,-2,$50,-10000,Credit Card,Rep C,PH,"May 12, 2025","May 12, 2025",lagos,active,@@@
+TX1582,CUST347,James Brown,Female,150,,2.34801E+12,Electrnics,Laptop,3,2500,99999999,Transfer,,PH,12/05/2025,12/05/2025,LAGOS,ACTIVE,@@@
+TX1583,CUST696,James#9,Female,34,,(080)12345678,Electronics,Rice,10,"5,000",-5000,Crdit Card,Rep A,Kano,12/05/2025,"May 12, 2025",Lagos,Active,###
+TX1584,CUST355,John123,,45,,2.34801E+12,Groceries,Laptop,-2,₦5000,-10000,Credit Card,,Kano,"May 12, 2025",12-May-25,Port Harcourt,Actve,***
+TX1585,CUST795,Chinedu Okafor,Female,45,user@gmail.com,234-801-234-5678,,Laptop,5,2500,-5000, Cash ,Rep C,Abuja,12-May-25,"May 12, 2025",Lagos,Actve,???
+TX1586,CUST618,John123,Female,34,test@yahoo.com,2.34801E+12,,Shirt,1,$50,99999999,Transfer,Rep B,Kano,12/05/2025,"May 12, 2025",Port Harcourt,ACTIVE,
+TX1587,CUST628,James Brown,Female,5,test@yahoo.com,(080)12345678,Electronics,Shirt,3,₦5000,-5000,CreditCard,Rep C,Ikeja,12/05/2025,12/05/2025,lagos,ACTIVE,@@@
+TX1588,CUST719,James#9,,5,,(080)12345678,Electrnics,Rice,10,$50,-5000,Crdit Card,Rep A,PH,12-May-25,12-May-25,Lagos,Acitve,###
+TX1589,CUST925, Aisha Bello ,,5,test@yahoo.com,2.34801E+12,Groceries,TV,5,NGN 5000,-5000,Crdit Card,Rep A,PH,12-May-25,,lagos,ACTIVE,???
+TX1590,CUST108,John123,Female,34,,234-801-234-5678,Electrnics,TV,2,$50,10000,Card,Rep C,Ikeja,12/05/2025,12-May-25,lagos,ACTIVE,???
+TX1591,CUST207, Aisha Bello ,,999,,2.34801E+12,Electrnics,Phone,-2,$50,99999999,Transfer,Rep A,PH,12/05/2025,12/05/2025,Port Harcourt,Actve,***
+TX1592,CUST683,John Smith,,25,user@gmail.com,(080)12345678,Electronics,Shirt,3,2500,-5000,Crdit Card,Rep B,Ikeja,12-May-25,12/05/2025,LAGOS,Acitve,???
+TX1593,CUST124,Chinedu Okafor,Male,150,,234-801-234-5678,Fashion,Laptop,3,$50,15000, Cash ,Rep A,Abuja,12/05/2025,,Kano,Acitve,###
+TX1594,CUST913,Mary Johnson,,34,user@gmail.com,2.34801E+12,Electroncs,TV,3,$50,99999999,Transfer,,Ikeja,12/05/2025,12-May-25,LAGOS,Active,???
+TX1595,CUST565, Aisha Bello ,Male,5,user@gmail.com,8012345678,Groceries,Laptop,1,$50,5000,Card,Rep B,Ikeja,12/05/2025,,Port Harcourt,Acitve,
+TX1596,CUST683,James#9,Male,25,user@gmail.com,(080)12345678,,Phone,3,₦5000,99999999,Card,,PH,12-May-25,12/05/2025,Kano,ACTIVE,
+TX1597,CUST318,James Brown,Female,5,test@yahoo.com,(080)12345678,Electronic,Laptop,10,$50,50000,CreditCard,Rep B,PH,12-May-25,12-May-25,Kano,Active,@@@
+TX1598,CUST777,John123,Female,5,,,Electrnics,Laptop,1,$50,-5000,Credit Card,Rep B,PH,12-May-25,12-May-25,LaGoS,ACTIVE,
+TX1599,CUST702,Chinedu Okafor,,150,user@gmail.com,234-801-234-5678,Groceries,Shirt,1,"5,000",5000,Card,Rep A,PH,12/05/2025,12-May-25,LAGOS,ACTIVE,@@@
+TX1000,CUST953,John123,,5,test@yahoo.com,234-801-234-5678,Electroncs,Rice,-2,2500,-5000,Card,Rep A,Abuja,12/05/2025,"May 12, 2025",Port Harcourt,Active,###
+TX1601,CUST465,Chinedu Okafor,Male,45,,8012345678,Fashion,Phone,-2,"5,000",-10000,Transfer,Rep C,PH,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,
+TX1602,CUST999,John123,Male,5,user@gmail.com,,Electronics,Rice,5,2500,-5000,Credit Card,Rep B,Abuja,12-May-25,,Kano,Actve,###
+TX1603,CUST231,Mary Johnson,Male,34,user@gmail.com,234-801-234-5678,Groceries,Laptop,10,"5,000",50000,CreditCard,,Abuja,12/05/2025,"May 12, 2025",lagos,Actve,???
+TX1604,CUST899,Mary_45,Female,150,test@yahoo.com,8012345678,Electronics,Phone,1,"5,000",-5000,Card,,Ikeja,12/05/2025,,lagos,Acitve,
+TX1605,CUST752,Mary Johnson,Female,25,user@gmail.com,2.34801E+12,Electrnics,Laptop,-2,$50,-5000,Card,Rep C,Ikeja,12/05/2025,, Abuja ,active,###
+TX1606,CUST729,Mary_45,,999,,2.34801E+12,Fashion,Laptop,10,"5,000",-5000,Transfer,Rep A,Ikeja,12/05/2025,12/05/2025,Port Harcourt,ACTIVE,***
+TX1607,CUST470,James#9,Female,45,test@yahoo.com,2.34801E+12,Electrnics,Shirt,5,2500,99999999,Transfer,Rep C,Abuja,12/05/2025,"May 12, 2025", Abuja ,Active,
+TX1608,CUST619,Chinedu Okafor,,25,user@gmail.com,8012345678,Groceries,TV,-2,₦5000,-10000,Transfer,,Kano,"May 12, 2025",12/05/2025,LAGOS,Active,***
+TX1609,CUST362,Mary_45,Female,999,user@gmail.com,,,Phone,5,2500,99999999,Transfer,Rep A,Kano,"May 12, 2025",12/05/2025,LAGOS,Actve,###
+TX1610,CUST679, Aisha Bello ,Female,999,user@gmail.com,234-801-234-5678,,Shirt,1,₦5000,-5000,Crdit Card,,PH,12/05/2025,12/05/2025,LaGoS,Active,@@@
+TX1611,CUST844,James Brown,Male,5,test@yahoo.com,2.34801E+12,Electrnics,Phone,10,$50,99999999, Cash ,Rep A,Ikeja,"May 12, 2025",12/05/2025,Port Harcourt,Actve,@@@
+TX1612,CUST230,John123,Male,150,test@yahoo.com,234-801-234-5678,Groceries,Rice,-2,"5,000",99999999,CreditCard,,Kano,12/05/2025,12/05/2025,LaGoS,Active,???
+TX1613,CUST281,Mary Johnson,Male,150,test@yahoo.com,234-801-234-5678,Electroncs,Rice,2,₦5000,10000,CreditCard,Rep A,Ikeja,12-May-25,12-May-25,lagos,Actve,???
+TX1614,CUST127,John123,Male,5,user@gmail.com,8012345678,Electroncs,Laptop,3,"5,000",99999999,CreditCard,Rep B,Ikeja,"May 12, 2025",12/05/2025,Lagos,Acitve,
+TX1615,CUST484,Chinedu Okafor,Male,5,test@yahoo.com,(080)12345678,Electroncs,Laptop,3,₦5000,15000,Transfer,Rep B,Ikeja,12/05/2025,"May 12, 2025",Port Harcourt,ACTIVE,
+TX1616,CUST611,John Smith,Female,34,,234-801-234-5678,Electronic,Shirt,5,₦5000,25000,CreditCard,,Abuja,12-May-25,12/05/2025,Port Harcourt,ACTIVE,???
+TX1617,CUST310,James#9,Female,999,test@yahoo.com,,,TV,-2,NGN 5000,-10000,Transfer,Rep C,Kano,"May 12, 2025",12/05/2025,lagos,ACTIVE,???
+TX1618,CUST225,John Smith,Female,150,,2.34801E+12,Electrnics,Shirt,1,$50,5000,Transfer,Rep C,PH,12/05/2025,12-May-25,LaGoS,Actve,###
+TX1619,CUST105,John Smith,,150,,,,Phone,1,NGN 5000,99999999,Crdit Card,Rep C,PH,12/05/2025,12/05/2025,Kano,active,???
+TX1620,CUST360,James Brown,Male,45,user@gmail.com,,Electroncs,Rice,1,"5,000",-5000, Cash ,Rep B,Abuja,12/05/2025,12/05/2025, Abuja ,Active,
+TX1621,CUST821,Chinedu Okafor,,34,,2.34801E+12,Fashion,TV,-2,NGN 5000,-10000,Card,Rep B,Abuja,12-May-25,12-May-25,lagos,Active,@@@
+TX1622,CUST638,Mary Johnson,,45,,8012345678,Fashion,Phone,-2,$50,-10000,Transfer,,Kano,12/05/2025,12/05/2025,Kano,active,???
+TX1623,CUST302,James#9,Male,150,test@yahoo.com,2.34801E+12,Fashion,Rice,2,₦5000,99999999,Transfer,,PH,12-May-25,"May 12, 2025",Kano,ACTIVE,???
+TX1624,CUST553,Mary Johnson,Female,34,test@yahoo.com,(080)12345678,Electronic,Phone,2,"5,000",99999999,Credit Card,Rep B,Abuja,"May 12, 2025",12-May-25,lagos,Active,###
+TX1625,CUST210,Mary_45,,45,user@gmail.com,(080)12345678,Fashion,Laptop,1,NGN 5000,99999999,Credit Card,Rep B,Ikeja,12/05/2025,12-May-25,Port Harcourt,Acitve,???
+TX1626,CUST834,James#9,,150,,,Electronics,Phone,5,₦5000,99999999,Transfer,Rep A,Ikeja,"May 12, 2025",12/05/2025,lagos,Acitve,???
+TX1627,CUST840,John Smith,,25,test@yahoo.com,,Groceries,TV,-2,NGN 5000,-5000,Card,Rep C,Abuja,12-May-25,12/05/2025,lagos,Acitve,###
+TX1628,CUST205,John123,Female,5,test@yahoo.com,,Electrnics,Phone,3,NGN 5000,-5000,Card,Rep C,PH,"May 12, 2025",12/05/2025,lagos,ACTIVE,???
+TX1629,CUST964,John123,Female,45,,(080)12345678,Electrnics,Rice,2,"5,000",99999999,CreditCard,Rep B,Ikeja,12-May-25,12/05/2025,lagos,ACTIVE,???
+TX1630,CUST476,Mary Johnson,Female,25,,(080)12345678,Groceries,Phone,1,₦5000,-5000,Card,,Kano,12-May-25,12-May-25,Lagos,Active,###
+TX1631,CUST626,John Smith,,150,test@yahoo.com,234-801-234-5678,Electronics,Phone,-2,NGN 5000,99999999,Crdit Card,Rep B,PH,12/05/2025,"May 12, 2025",lagos,Acitve,###
+TX1632,CUST992,Mary_45,Male,45,,234-801-234-5678,Electronic,Phone,10,"5,000",50000,Crdit Card,,Kano,"May 12, 2025",12-May-25,LaGoS,Actve,@@@
+TX1633,CUST533,Mary Johnson,Female,150,user@gmail.com,,Electronic,Phone,1,"5,000",99999999,Transfer,,Ikeja,"May 12, 2025",12-May-25, Abuja ,Acitve,###
+TX1634,CUST725,James Brown,Male,45,,(080)12345678,Electrnics,Laptop,5,2500,25000,Crdit Card,Rep B,Ikeja,12-May-25,,LAGOS,ACTIVE,
+TX1635,CUST673,James Brown,,25,,2.34801E+12,Electroncs,TV,10,"5,000",99999999,Transfer,,Abuja,12-May-25,, Abuja ,Active,???
+TX1636,CUST460,James Brown,Female,25,test@yahoo.com,2.34801E+12,Groceries,Shirt,-2,2500,-5000,Card,Rep C,Abuja,12/05/2025,12-May-25,Port Harcourt,ACTIVE,@@@
+TX1637,CUST849,Mary_45,Male,45,,2.34801E+12,Electroncs,Phone,2,NGN 5000,99999999,Card,Rep A,Abuja,12-May-25,"May 12, 2025",lagos,ACTIVE,###
+TX1638,CUST324, Aisha Bello ,,34,test@yahoo.com,234-801-234-5678,Groceries,Phone,1,$50,-5000,Crdit Card,Rep B,PH,12/05/2025,12/05/2025,Kano,active,
+TX1639,CUST493,John Smith,Female,25,test@yahoo.com,(080)12345678,Groceries,Laptop,3,2500,-5000,Card,Rep B,Ikeja,12/05/2025,"May 12, 2025",lagos,Actve,
+TX1640,CUST763,Chinedu Okafor,Male,45,test@yahoo.com,8012345678,,Laptop,-2,₦5000,-10000,Transfer,Rep B,PH,12/05/2025,12/05/2025,LaGoS,Acitve,###
+TX1641,CUST476,Mary_45,Male,5,,2.34801E+12,Electronic,Rice,5,$50,25000,Card,,Abuja,"May 12, 2025",,Port Harcourt,Acitve,***
+TX1642,CUST939,James Brown,Male,999,test@yahoo.com,234-801-234-5678,Electronics,Phone,1,₦5000,99999999,Crdit Card,Rep C,Ikeja,"May 12, 2025",,LAGOS,ACTIVE,
+TX1643,CUST597,Mary Johnson,Male,34,user@gmail.com,,Fashion,Phone,-2,2500,-10000, Cash ,,Abuja,12-May-25,"May 12, 2025",Lagos,ACTIVE,@@@
+TX1644,CUST693,John Smith,,999,test@yahoo.com,8012345678,Electronics,Phone,-2,2500,-5000, Cash ,,PH,"May 12, 2025",12/05/2025,lagos,active,@@@
+TX1645,CUST725,Mary_45,Female,25,test@yahoo.com,,Groceries,Rice,1,$50,99999999,CreditCard,Rep A,Kano,"May 12, 2025",12/05/2025,Lagos,active,###
+TX1646,CUST864,James Brown,Female,34,user@gmail.com,234-801-234-5678,Groceries,Rice,10,NGN 5000,99999999,Credit Card,Rep C,Ikeja,"May 12, 2025",12/05/2025,Lagos,active,@@@
+TX1647,CUST215,John123,Female,25,,2.34801E+12,Electronics,Rice,10,NGN 5000,99999999,Transfer,Rep C,Ikeja,12/05/2025,,LAGOS,Active,
+TX1648,CUST313,James#9,Male,999,user@gmail.com,(080)12345678,Groceries,Rice,5,$50,25000,Transfer,,PH,12/05/2025,12-May-25,LAGOS,Active,???
+TX1649,CUST840,James#9,Male,150,user@gmail.com,8012345678,Electrnics,Rice,-2,NGN 5000,-5000,Crdit Card,,Abuja,12-May-25,,Kano,Actve,???
+TX1000,CUST221,James#9,Male,999,user@gmail.com,8012345678,Electroncs,TV,3,"5,000",99999999,Transfer,Rep A,PH,12-May-25,12/05/2025,lagos,active,***
+TX1651,CUST330,James#9,Female,999,test@yahoo.com,(080)12345678,Electronics,TV,5,$50,99999999,Crdit Card,Rep C,Kano,12/05/2025,"May 12, 2025",Lagos,Acitve,***
+TX1652,CUST331, Aisha Bello ,Female,999,user@gmail.com,(080)12345678,Electronic,Laptop,5,$50,25000,Transfer,Rep C,Abuja,12/05/2025,"May 12, 2025",Kano,Active,???
+TX1653,CUST309,John Smith,,5,,2.34801E+12,Electrnics,TV,2,₦5000,99999999, Cash ,,Kano,12/05/2025,"May 12, 2025",Port Harcourt,active,###
+TX1654,CUST939,Mary_45,Female,999,test@yahoo.com,8012345678,Fashion,Rice,3,$50,99999999,CreditCard,Rep B,Abuja,12/05/2025,,Kano,Acitve,###
+TX1655,CUST825,James#9,Female,999,user@gmail.com,(080)12345678,Electrnics,Laptop,10,₦5000,50000,Credit Card,,Ikeja,"May 12, 2025",12/05/2025,Port Harcourt,active,###
+TX1656,CUST985,John Smith,Female,999,,,Electronic,TV,2,2500,-5000,Transfer,Rep B,Kano,12/05/2025,12/05/2025,Port Harcourt,ACTIVE,@@@
+TX1657,CUST327,Mary Johnson,Male,150,test@yahoo.com,8012345678,Electronics,Shirt,2,2500,99999999,Credit Card,Rep B,Abuja,12/05/2025,"May 12, 2025",Lagos,active,
+TX1658,CUST851,James Brown,Male,999,test@yahoo.com,,Electronics,Laptop,3,NGN 5000,15000,CreditCard,,Kano,12-May-25,12/05/2025,LAGOS,Acitve,@@@
+TX1659,CUST685,Mary_45,Male,34,user@gmail.com,8012345678,Electrnics,Phone,1,NGN 5000,-5000, Cash ,Rep A,Abuja,12/05/2025,12/05/2025,LAGOS,Actve,###
+TX1660,CUST321,Mary Johnson,Female,34,user@gmail.com,,Electroncs,Shirt,3,"5,000",99999999, Cash ,Rep C,Kano,12-May-25,,lagos,active,???
+TX1661,CUST580,James#9,Female,34,,8012345678,Fashion,Shirt,-2,$50,99999999, Cash ,Rep B,Kano,12/05/2025,12/05/2025,Kano,active,
+TX1662,CUST560,John123,,999,,(080)12345678,Electronic,Rice,1,NGN 5000,99999999,Card,,PH,12/05/2025,12/05/2025,LAGOS,Acitve,@@@
+TX1663,CUST239, Aisha Bello ,Female,5,user@gmail.com,2.34801E+12,Fashion,Laptop,3,₦5000,-5000,Credit Card,Rep A,Abuja,12/05/2025,12/05/2025,Kano,Active,***
+TX1664,CUST768,James#9,Male,5,test@yahoo.com,,,Phone,10,"5,000",-5000,CreditCard,Rep A,Ikeja,"May 12, 2025",12/05/2025,Lagos,ACTIVE,###
+TX1665,CUST133,Mary Johnson,Female,999,,8012345678,Groceries,Shirt,5,2500,-5000,CreditCard,Rep A,Kano,12/05/2025,,Kano,Active,###
+TX1666,CUST341,Mary_45,,150,user@gmail.com,(080)12345678,,Laptop,3,2500,-5000,Transfer,,Ikeja,12/05/2025,12/05/2025,lagos,ACTIVE,***
+TX1667,CUST132,John123,Male,999,user@gmail.com,234-801-234-5678,Fashion,Laptop,3,"5,000",99999999,Transfer,Rep C,PH,12/05/2025,12/05/2025,Kano,Active,
+TX1668,CUST395,John Smith,,34,test@yahoo.com,8012345678,Electronic,Laptop,-2,₦5000,99999999,Card,,Kano,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,???
+TX1669,CUST477, Aisha Bello ,Female,25,,8012345678,Electroncs,Laptop,1,NGN 5000,5000,Transfer,Rep C,PH,12/05/2025,12-May-25,Lagos,Active,???
+TX1670,CUST934,Mary Johnson,Male,25,user@gmail.com,(080)12345678,Electrnics,Shirt,-2,₦5000,-10000,CreditCard,Rep A,PH,12/05/2025,,LAGOS,Active,@@@
+TX1671,CUST325,John123,Male,999,test@yahoo.com,(080)12345678,,Laptop,10,$50,-5000,Card,Rep C,Ikeja,12/05/2025,12-May-25,Kano,Active,***
+TX1672,CUST475,John123,,34,test@yahoo.com,,,Phone,3,"5,000",99999999,Credit Card,,Kano,"May 12, 2025","May 12, 2025",Port Harcourt,Active,@@@
+TX1673,CUST817,James#9,Female,999,user@gmail.com,(080)12345678,Fashion,Rice,3,₦5000,15000,CreditCard,Rep C,Abuja,12/05/2025,12/05/2025,Kano,active,###
+TX1674,CUST936,Mary_45,,5,,8012345678,Electronic,TV,-2,NGN 5000,99999999,Transfer,Rep A,PH,12/05/2025,12-May-25,Kano,Active,@@@
+TX1675,CUST100,Mary Johnson,,5,,,Electrnics,Laptop,10,₦5000,99999999,Card,,Kano,"May 12, 2025","May 12, 2025",LAGOS,Actve,###
+TX1676,CUST262,James#9,Male,150,user@gmail.com,234-801-234-5678,Electronics,Rice,-2,₦5000,-5000,CreditCard,Rep C,Abuja,12/05/2025,,LaGoS,Actve,???
+TX1677,CUST878,John123,Male,999,test@yahoo.com,,Groceries,Laptop,1,2500,-5000,Transfer,Rep B,Abuja,12-May-25,12-May-25, Abuja ,ACTIVE,###
+TX1678,CUST566,Chinedu Okafor,,5,user@gmail.com,,Electroncs,Laptop,5,2500,25000, Cash ,,Kano,"May 12, 2025",,Lagos,Acitve,
+TX1679,CUST856,John Smith,,999,test@yahoo.com,(080)12345678,Electronics,TV,-2,"5,000",-10000,Credit Card,Rep B,Ikeja,"May 12, 2025",12/05/2025,LaGoS,Acitve,@@@
+TX1680,CUST908,Mary Johnson,,45,test@yahoo.com,(080)12345678,Electronics,Shirt,1,NGN 5000,99999999,Card,Rep B,Ikeja,12/05/2025,"May 12, 2025",LAGOS,Actve,???
+TX1681,CUST990,Chinedu Okafor,Male,150,test@yahoo.com,234-801-234-5678,Electrnics,Laptop,-2,2500,99999999,Crdit Card,Rep C,Kano,12/05/2025,12/05/2025,LAGOS,ACTIVE,@@@
+TX1682,CUST164,Chinedu Okafor,Male,45,test@yahoo.com,,Groceries,Laptop,-2,NGN 5000,-10000,Transfer,Rep A,PH,12-May-25,12/05/2025,Lagos,Acitve,@@@
+TX1683,CUST587,John123,Female,999,user@gmail.com,2.34801E+12,,TV,10,$50,-5000,Credit Card,Rep B,Abuja,"May 12, 2025",12/05/2025,LaGoS,ACTIVE,###
+TX1684,CUST484,Mary_45,Female,34,test@yahoo.com,234-801-234-5678,Electronic,Phone,10,2500,99999999,Credit Card,Rep C,Abuja,12/05/2025,12/05/2025,LAGOS,Acitve,***
+TX1685,CUST315,James Brown,Male,25,,(080)12345678,Electronics,TV,3,2500,15000,CreditCard,,Kano,12/05/2025,,Lagos,Acitve,###
+TX1686,CUST587, Aisha Bello ,,25,test@yahoo.com,234-801-234-5678,Groceries,TV,-2,2500,-5000,CreditCard,,Kano,12/05/2025,12/05/2025,LAGOS,Active,
+TX1687,CUST228,James Brown,,45,,2.34801E+12,Electronic,Rice,10,$50,-5000,CreditCard,Rep C,Ikeja,12/05/2025,"May 12, 2025",LAGOS,ACTIVE,***
+TX1688,CUST695,Chinedu Okafor,,5,test@yahoo.com,8012345678,Fashion,Laptop,2,$50,99999999,Transfer,,Ikeja,"May 12, 2025",,Lagos,Actve,***
+TX1689,CUST393,Mary Johnson,Male,45,,(080)12345678,,Shirt,-2,₦5000,99999999,Crdit Card,Rep B,PH,12/05/2025,,lagos,active,???
+TX1690,CUST633,Mary_45,Male,150,test@yahoo.com,234-801-234-5678,Electrnics,TV,-2,NGN 5000,-5000,Transfer,Rep C,PH,12/05/2025,,Lagos,Active,
+TX1691,CUST110,Mary_45,Male,999,test@yahoo.com,8012345678,Electronic,Phone,-2,NGN 5000,-5000, Cash ,Rep A,Abuja,12/05/2025,12-May-25,LAGOS,ACTIVE,###
+TX1692,CUST745,John Smith,Female,25,test@yahoo.com,2.34801E+12,,TV,3,2500,-5000,CreditCard,Rep B,Ikeja,"May 12, 2025",12/05/2025,LAGOS,Active,***
+TX1693,CUST368,James#9,Female,34,user@gmail.com,(080)12345678,Groceries,Laptop,2,2500,99999999,Card,,PH,"May 12, 2025","May 12, 2025",Kano,ACTIVE,###
+TX1694,CUST241,John Smith,Female,150,user@gmail.com,8012345678,Groceries,TV,-2,2500,-5000,CreditCard,Rep A,Ikeja,12/05/2025,12/05/2025,LAGOS,active,***
+TX1695,CUST436, Aisha Bello ,,34,,(080)12345678,Electronics,TV,2,NGN 5000,10000,Credit Card,,Kano,"May 12, 2025","May 12, 2025",LAGOS,Active,
+TX1696,CUST706,Chinedu Okafor,Male,999,user@gmail.com,8012345678,Electronics,Laptop,3,$50,99999999,Credit Card,Rep A,Ikeja,12/05/2025,"May 12, 2025",lagos,Active,@@@
+TX1697,CUST610,James#9,Female,150,,(080)12345678,Groceries,Laptop,5,NGN 5000,25000,Credit Card,Rep A,Abuja,12-May-25,12/05/2025,lagos,Acitve,###
+TX1698,CUST960,John123,Male,34,test@yahoo.com,(080)12345678,Fashion,Laptop,3,"5,000",15000,CreditCard,Rep C,Kano,12-May-25,,LAGOS,active,
+TX1699,CUST966,James#9,Female,34,user@gmail.com,(080)12345678,Electrnics,Rice,2,NGN 5000,-5000,Credit Card,Rep B,Ikeja,12/05/2025,,LaGoS,Active,???
+TX1000,CUST511,John Smith,Female,150,user@gmail.com,234-801-234-5678,Electronics,Shirt,10,NGN 5000,50000,Crdit Card,Rep C,PH,12/05/2025,"May 12, 2025",LaGoS,Active,
+TX1701,CUST457,John123,Female,150,,2.34801E+12,,Rice,3,$50,15000,Transfer,Rep B,PH,"May 12, 2025",12-May-25, Abuja ,Actve,###
+TX1702,CUST276, Aisha Bello ,Male,25,,,Fashion,Shirt,10,₦5000,50000,Crdit Card,Rep A,PH,12-May-25,12/05/2025,LAGOS,Actve,???
+TX1703,CUST261,John123,Male,34,test@yahoo.com,234-801-234-5678,Electroncs,Rice,3,"5,000",-5000,Card,Rep C,Abuja,12/05/2025,12/05/2025,Lagos,ACTIVE,???
+TX1704,CUST825,Mary Johnson,Male,5,user@gmail.com,234-801-234-5678,Groceries,Shirt,2,₦5000,99999999,Card,,Abuja,12-May-25,12-May-25,Port Harcourt,Active,???
+TX1705,CUST965,John Smith,Female,34,user@gmail.com,2.34801E+12,Electroncs,Phone,2,$50,10000,CreditCard,,Ikeja,12/05/2025,12/05/2025,lagos,Acitve,@@@
+TX1706,CUST130,Chinedu Okafor,,999,test@yahoo.com,8012345678,Electrnics,TV,2,$50,10000,Card,Rep A,Ikeja,12-May-25,"May 12, 2025", Abuja ,active,???
+TX1707,CUST972,James#9,Male,150,,8012345678,Electronic,TV,1,₦5000,99999999,Crdit Card,,Kano,12/05/2025,12/05/2025,Kano,ACTIVE,
+TX1708,CUST771,James Brown,,34,,234-801-234-5678,Electronic,Shirt,3,₦5000,99999999,Transfer,Rep A,PH,12-May-25,"May 12, 2025",LaGoS,active,???
+TX1709,CUST132,Mary Johnson,,25,test@yahoo.com,(080)12345678,,Shirt,1,"5,000",99999999,Transfer,Rep A,Abuja,12/05/2025,12-May-25, Abuja ,ACTIVE,
+TX1710,CUST675,James Brown,Female,34,,,Electroncs,Rice,2,"5,000",99999999,Credit Card,Rep B,PH,12/05/2025,,lagos,Acitve,@@@
+TX1711,CUST771,Mary_45,Female,150,test@yahoo.com,2.34801E+12,Groceries,TV,10,$50,99999999, Cash ,,Ikeja,"May 12, 2025",12-May-25,lagos,Active,@@@
+TX1712,CUST408,Mary Johnson,,999,,8012345678,Electrnics,TV,5,2500,25000,CreditCard,,Abuja,"May 12, 2025",12-May-25,Lagos,ACTIVE,
+TX1713,CUST990,Mary_45,Male,45,test@yahoo.com,8012345678,,Phone,1,₦5000,99999999,Crdit Card,,Kano,12-May-25,"May 12, 2025", Abuja ,active,
+TX1714,CUST935,Mary_45,Female,150,user@gmail.com,(080)12345678,Electronic,TV,3,$50,99999999,Crdit Card,Rep A,PH,12-May-25,, Abuja ,Active,***
+TX1715,CUST229,Mary_45,Female,45,user@gmail.com,(080)12345678,Fashion,TV,3,2500,99999999,CreditCard,Rep A,Ikeja,12/05/2025,12/05/2025,Kano,Actve,
+TX1716,CUST311,James#9,Male,150,user@gmail.com,,Electronic,Rice,10,"5,000",-5000, Cash ,Rep C,Kano,12-May-25,12-May-25, Abuja ,Actve,
+TX1717,CUST837,John123,,999,,8012345678,Electronics,TV,2,"5,000",99999999,Credit Card,Rep A,Kano,12/05/2025,12-May-25,Kano,Active,???
+TX1718,CUST424, Aisha Bello ,Male,999,test@yahoo.com,2.34801E+12,Electronics,Rice,5,$50,99999999,Transfer,Rep A,PH,12-May-25,"May 12, 2025",lagos,active,***
+TX1719,CUST500,John123,Female,25,,234-801-234-5678,,TV,-2,2500,-10000,Crdit Card,,Ikeja,"May 12, 2025",12/05/2025,lagos,Actve,###
+TX1720,CUST445,James Brown,Male,25,user@gmail.com,2.34801E+12,,Laptop,1,2500,-5000,CreditCard,,PH,"May 12, 2025",,Kano,Active,
+TX1721,CUST153,Mary Johnson,,25,test@yahoo.com,234-801-234-5678,Electrnics,Shirt,5,NGN 5000,-5000, Cash ,Rep B,Abuja,12/05/2025,"May 12, 2025",Kano,active,
+TX1722,CUST959,Mary_45,Male,5,test@yahoo.com,234-801-234-5678,Electrnics,Rice,1,₦5000,-5000,Card,,Kano,"May 12, 2025",12/05/2025,Lagos,Acitve,***
+TX1723,CUST655,Mary Johnson,Female,5,test@yahoo.com,(080)12345678,Electroncs,Shirt,10,₦5000,-5000,Credit Card,Rep B,Kano,12-May-25,12-May-25,LaGoS,Actve,???
+TX1724,CUST278,James Brown,Male,5,user@gmail.com,234-801-234-5678,Groceries,Phone,3,NGN 5000,99999999, Cash ,Rep C,Ikeja,12/05/2025,"May 12, 2025",LAGOS,Acitve,@@@
+TX1725,CUST991,John123,Male,45,test@yahoo.com,,Electrnics,TV,1,2500,99999999,CreditCard,Rep C,Ikeja,12-May-25,12/05/2025,lagos,Actve,###
+TX1726,CUST888,John123,Female,150,user@gmail.com,2.34801E+12,Electronic,Shirt,10,"5,000",50000, Cash ,,Abuja,"May 12, 2025",12/05/2025,LaGoS,Active,###
+TX1727,CUST672, Aisha Bello ,Male,34,,8012345678,Electronics,Shirt,10,2500,99999999,CreditCard,Rep B,Ikeja,"May 12, 2025",12-May-25,Kano,ACTIVE,***
+TX1728,CUST852,Mary_45,,45,,,Electroncs,Laptop,-2,NGN 5000,-5000,CreditCard,,PH,12-May-25,12/05/2025,Port Harcourt,Acitve,###
+TX1729,CUST129,Mary_45,,5,test@yahoo.com,2.34801E+12,Electroncs,Rice,-2,2500,-5000,Card,Rep A,Abuja,12/05/2025,12/05/2025,LAGOS,ACTIVE,***
+TX1730,CUST438,James#9,Female,150,test@yahoo.com,234-801-234-5678,Electronics,Phone,1,₦5000,5000, Cash ,,PH,12/05/2025,12/05/2025,LaGoS,Acitve,???
+TX1731,CUST643,Chinedu Okafor,,25,user@gmail.com,(080)12345678,Groceries,Laptop,2,"5,000",10000,Transfer,Rep B,Ikeja,"May 12, 2025",12/05/2025,LAGOS,ACTIVE,***
+TX1732,CUST363,Chinedu Okafor,Male,999,test@yahoo.com,,Groceries,TV,-2,$50,-5000, Cash ,Rep A,Ikeja,12/05/2025,12/05/2025,Port Harcourt,active,###
+TX1733,CUST958, Aisha Bello ,Male,5,test@yahoo.com,8012345678,Fashion,Rice,3,$50,-5000,Credit Card,Rep A,Abuja,12/05/2025,12/05/2025,Lagos,Actve,@@@
+TX1734,CUST577, Aisha Bello ,Female,45,user@gmail.com,,Electronics,Laptop,-2,NGN 5000,99999999,Transfer,,Abuja,"May 12, 2025",12/05/2025,LAGOS,Acitve,???
+TX1735,CUST174, Aisha Bello ,Male,150,user@gmail.com,2.34801E+12,Electroncs,Phone,1,"5,000",5000, Cash ,Rep C,Ikeja,"May 12, 2025",12/05/2025,LaGoS,Actve,###
+TX1736,CUST107, Aisha Bello ,Male,999,test@yahoo.com,(080)12345678,Electroncs,Phone,3,NGN 5000,-5000,Crdit Card,Rep B,PH,"May 12, 2025",12/05/2025,lagos,Active,@@@
+TX1737,CUST409,James Brown,,34,user@gmail.com,(080)12345678,Electronic,Shirt,1,₦5000,5000,CreditCard,Rep C,PH,12-May-25,"May 12, 2025",LAGOS,ACTIVE,
+TX1738,CUST287,Mary Johnson,Male,999,user@gmail.com,,Electronic,TV,1,NGN 5000,5000,Crdit Card,,Abuja,12/05/2025,12/05/2025,lagos,active,
+TX1739,CUST242,John Smith,Male,999,user@gmail.com,8012345678,Groceries,Rice,1,"5,000",99999999,CreditCard,Rep B,Ikeja,12-May-25,12/05/2025,lagos,Actve,***
+TX1740,CUST321, Aisha Bello ,Male,150,,234-801-234-5678,Electroncs,Shirt,5,NGN 5000,99999999,CreditCard,Rep C,Kano,12/05/2025,12/05/2025,Kano,Active,
+TX1741,CUST375,James Brown,,5,,(080)12345678,Electroncs,Phone,5,2500,99999999,Crdit Card,Rep C,Ikeja,12/05/2025,12-May-25,LAGOS,Active,@@@
+TX1742,CUST508,Mary_45,,25,user@gmail.com,234-801-234-5678,Electrnics,Shirt,2,₦5000,-5000,Card,Rep C,Kano,12/05/2025,"May 12, 2025", Abuja ,ACTIVE,
+TX1743,CUST606,Chinedu Okafor,,150,test@yahoo.com,8012345678,Fashion,Phone,1,"5,000",99999999,Card,,PH,12/05/2025,12/05/2025,LaGoS,active,***
+TX1744,CUST881,John123,,25,test@yahoo.com,(080)12345678,,Shirt,2,"5,000",-5000,CreditCard,Rep B,Abuja,12/05/2025,,LAGOS,ACTIVE,***
+TX1745,CUST766, Aisha Bello ,Female,34,test@yahoo.com,8012345678,Electroncs,Laptop,3,₦5000,-5000, Cash ,Rep C,Kano,12-May-25,12/05/2025,Kano,ACTIVE,@@@
+TX1746,CUST507,Mary_45,Female,34,user@gmail.com,234-801-234-5678,,Rice,2,$50,99999999,Transfer,,PH,12/05/2025,"May 12, 2025", Abuja ,active,@@@
+TX1747,CUST114,Chinedu Okafor,Female,5,test@yahoo.com,,Groceries,Laptop,2,2500,99999999,Card,,Kano,12/05/2025,, Abuja ,Active,???
+TX1748,CUST167, Aisha Bello ,,150,test@yahoo.com,,Electrnics,Shirt,-2,$50,-10000,CreditCard,Rep A,Kano,12/05/2025,12/05/2025,LAGOS,Actve,@@@
+TX1749,CUST725,Chinedu Okafor,Male,25,test@yahoo.com,234-801-234-5678,Groceries,Shirt,10,2500,50000, Cash ,Rep C,PH,12-May-25,,lagos,Actve,***
+TX1000,CUST511,Mary Johnson,Male,150,user@gmail.com,234-801-234-5678,Groceries,Rice,-2,$50,-10000, Cash ,Rep A,PH,"May 12, 2025","May 12, 2025",lagos,Active,###
+TX1751,CUST866,John Smith,,150,,8012345678,Groceries,TV,10,"5,000",50000,Card,Rep B,Kano,"May 12, 2025",,LaGoS,Active,
+TX1752,CUST805,James Brown,Female,25,user@gmail.com,(080)12345678,,TV,10,2500,99999999,Credit Card,Rep B,Ikeja,"May 12, 2025",,LaGoS,ACTIVE,***
+TX1753,CUST614,John123,Female,25,user@gmail.com,2.34801E+12,Groceries,TV,1,$50,99999999,Credit Card,Rep C,PH,12/05/2025,12/05/2025,Kano,ACTIVE,
+TX1754,CUST528,Mary_45,Female,150,,,Electronic,TV,5,NGN 5000,-5000, Cash ,Rep C,Kano,"May 12, 2025",12-May-25,Port Harcourt,Acitve,???
+TX1755,CUST696,James Brown,Male,150,,,Fashion,Laptop,1,NGN 5000,99999999,Crdit Card,Rep B,Ikeja,"May 12, 2025",12-May-25,Lagos,active,
+TX1756,CUST792,John123,,5,,(080)12345678,,Phone,1,2500,5000,Card,Rep B,Abuja,12-May-25,12-May-25,Kano,active,###
+TX1757,CUST777, Aisha Bello ,,5,user@gmail.com,(080)12345678,Electrnics,Shirt,10,NGN 5000,50000, Cash ,Rep B,Kano,12/05/2025,,Kano,Active,???
+TX1758,CUST957,John123,Male,999,test@yahoo.com,8012345678,Electroncs,Shirt,3,$50,15000, Cash ,Rep B,Ikeja,"May 12, 2025",12-May-25,Port Harcourt,Acitve,???
+TX1759,CUST961,Mary Johnson,Male,5,test@yahoo.com,234-801-234-5678,Electroncs,Phone,10,"5,000",-5000,Crdit Card,Rep B,PH,12/05/2025,,Port Harcourt,Actve,???
+TX1760,CUST456,Mary Johnson,Female,45,test@yahoo.com,2.34801E+12,,Laptop,5,"5,000",25000,CreditCard,Rep B,PH,12-May-25,12/05/2025,Kano,Acitve,
+TX1761,CUST595,John123,Male,5,,234-801-234-5678,Groceries,Shirt,1,"5,000",-5000,Credit Card,Rep B,Abuja,12/05/2025,12-May-25,LAGOS,active,
+TX1762,CUST622,James#9,,999,user@gmail.com,8012345678,,Phone,1,₦5000,-5000,Crdit Card,,Kano,12/05/2025,12/05/2025,Port Harcourt,active,###
+TX1763,CUST912,Mary Johnson,Male,34,user@gmail.com,,Groceries,TV,5,$50,25000,Card,Rep B,Ikeja,"May 12, 2025",,LaGoS,Actve,???
+TX1764,CUST836,James Brown,Female,999,,,Groceries,Rice,5,"5,000",99999999, Cash ,Rep A,Abuja,12/05/2025,"May 12, 2025", Abuja ,ACTIVE,@@@
+TX1765,CUST555,James#9,,34,test@yahoo.com,,Electronics,Shirt,3,2500,15000,Card,Rep A,PH,12/05/2025,12-May-25,Kano,Acitve,@@@
+TX1766,CUST708,James#9,Male,25,user@gmail.com,8012345678,Electroncs,Laptop,10,₦5000,99999999,Transfer,Rep A,Abuja,12/05/2025,12/05/2025,Kano,Actve,
+TX1767,CUST928, Aisha Bello ,Male,45,,234-801-234-5678,Fashion,Laptop,-2,NGN 5000,-5000,Crdit Card,Rep B,Ikeja,12/05/2025,"May 12, 2025",LAGOS,Acitve,
+TX1768,CUST833,John Smith,,45,user@gmail.com,(080)12345678,Electronics,Shirt,2,$50,-5000,Card,Rep C,Ikeja,12/05/2025,,Lagos,Active,***
+TX1769,CUST248,Mary_45,Male,999,test@yahoo.com,2.34801E+12,Electronic,Rice,1,"5,000",5000,Transfer,,Abuja,12-May-25,12/05/2025,lagos,ACTIVE,###
+TX1770,CUST837,John123,Male,45,user@gmail.com,(080)12345678,Groceries,Laptop,5,2500,-5000,Transfer,Rep B,Kano,12/05/2025,12/05/2025,LAGOS,Actve,***
+TX1771,CUST525,Mary_45,Male,999,test@yahoo.com,,Electronic,Laptop,1,2500,-5000, Cash ,Rep A,Ikeja,"May 12, 2025",12/05/2025,Port Harcourt,Acitve,***
+TX1772,CUST579,Mary_45,,34,,2.34801E+12,Electroncs,TV,5,NGN 5000,25000,Card,,Kano,12/05/2025,"May 12, 2025",lagos,Acitve,***
+TX1773,CUST431,Chinedu Okafor,Female,25,user@gmail.com,234-801-234-5678,Electronic,Rice,1,"5,000",-5000,CreditCard,Rep C,PH,12/05/2025,,lagos,Acitve,???
+TX1774,CUST899, Aisha Bello ,Female,150,user@gmail.com,8012345678,,Rice,10,2500,99999999,Crdit Card,Rep B,Ikeja,"May 12, 2025",,Lagos,Acitve,
+TX1775,CUST734, Aisha Bello ,,150,test@yahoo.com,(080)12345678,Electrnics,Laptop,5,$50,25000,Credit Card,Rep A,Kano,12/05/2025,12-May-25,Kano,active,???
+TX1776,CUST481,James Brown,,25,test@yahoo.com,8012345678,Electronics,Shirt,3,NGN 5000,-5000,Transfer,Rep A,Ikeja,12/05/2025,12-May-25,Port Harcourt,Actve,###
+TX1777,CUST709,Mary Johnson,Male,150,user@gmail.com,8012345678,Electronics,TV,1,NGN 5000,5000,Crdit Card,,PH,"May 12, 2025","May 12, 2025",lagos,ACTIVE,
+TX1778,CUST958, Aisha Bello ,Female,34,user@gmail.com,2.34801E+12,Electrnics,Laptop,5,NGN 5000,99999999,CreditCard,,Ikeja,"May 12, 2025",12/05/2025,Lagos,Active,@@@
+TX1779,CUST940,James Brown,Male,25,user@gmail.com,2.34801E+12,Electrnics,Phone,5,"5,000",-5000,Crdit Card,Rep B,Kano,12-May-25,12-May-25,LaGoS,Active,###
+TX1780,CUST850,John123,Female,45,user@gmail.com,(080)12345678,Groceries,Phone,2,$50,10000,Transfer,Rep A,Kano,12-May-25,12-May-25,Port Harcourt,Acitve,***
+TX1781,CUST658,Chinedu Okafor,Male,5,test@yahoo.com,2.34801E+12,,Rice,10,NGN 5000,50000,Card,Rep B,Kano,12/05/2025,"May 12, 2025",Port Harcourt,active,
+TX1782,CUST622, Aisha Bello ,Female,999,,(080)12345678,Electronic,Laptop,2,$50,99999999,Crdit Card,Rep C,PH,12/05/2025,"May 12, 2025",LaGoS,ACTIVE,###
+TX1783,CUST758,Mary Johnson,Female,150,,8012345678,Electrnics,Phone,10,$50,-5000,Card,Rep B,Kano,"May 12, 2025",,Lagos,active,###
+TX1784,CUST801,James#9,Female,5,user@gmail.com,2.34801E+12,,Shirt,-2,2500,-5000,Crdit Card,Rep B,Kano,12-May-25,12/05/2025,Port Harcourt,Actve,###
+TX1785,CUST932,Mary Johnson,,45,,,Groceries,Rice,3,2500,99999999,Transfer,Rep A,Abuja,12/05/2025,"May 12, 2025",LaGoS,Acitve,@@@
+TX1786,CUST602,James#9,Female,45,,234-801-234-5678,Electronic,Laptop,10,NGN 5000,-5000,Crdit Card,Rep A,PH,12/05/2025,,Kano,Active,???
+TX1787,CUST336,James#9,,34,user@gmail.com,234-801-234-5678,Electronics,Rice,3,2500,-5000, Cash ,Rep A,Kano,12/05/2025,12/05/2025,lagos,active,***
+TX1788,CUST913,Mary_45,Female,999,test@yahoo.com,234-801-234-5678,Electronic,TV,10,₦5000,50000,Transfer,,PH,12/05/2025,"May 12, 2025",LaGoS,active,***
+TX1789,CUST930,Mary_45,Female,34,test@yahoo.com,,,Rice,5,2500,25000,CreditCard,Rep B,Kano,12/05/2025,12/05/2025, Abuja ,Active,
+TX1790,CUST228,James#9,Female,999,user@gmail.com,234-801-234-5678,Electronics,Rice,1,2500,99999999,Card,Rep C,PH,12/05/2025,"May 12, 2025",LaGoS,Actve,
+TX1791,CUST633,John123,Male,150,test@yahoo.com,(080)12345678,Electronic,TV,1,NGN 5000,-5000,Credit Card,,Abuja,"May 12, 2025",12/05/2025, Abuja ,Acitve,@@@
+TX1792,CUST832,James#9,Male,999,,2.34801E+12,Groceries,TV,2,"5,000",99999999,CreditCard,,Abuja,12/05/2025,12/05/2025, Abuja ,Actve,***
+TX1793,CUST116,James#9,Male,5,test@yahoo.com,234-801-234-5678,Electronics,TV,-2,2500,-5000,Card,,Kano,12/05/2025,"May 12, 2025",lagos,active,
+TX1794,CUST177,Mary_45,,34,test@yahoo.com,8012345678,Electronics,Shirt,5,2500,-5000,Card,Rep C,Kano,"May 12, 2025",12-May-25,Kano,ACTIVE,
+TX1795,CUST287,John123,Male,999,,,Electrnics,Laptop,3,2500,15000,Card,Rep A,Abuja,12/05/2025,12/05/2025,Kano,Actve,@@@
+TX1796,CUST356,Mary Johnson,Female,999,user@gmail.com,(080)12345678,Groceries,Rice,2,NGN 5000,99999999,Transfer,Rep A,Kano,12/05/2025,12/05/2025, Abuja ,ACTIVE,@@@
+TX1797,CUST355,James#9,Male,25,test@yahoo.com,,Electroncs,Phone,1,NGN 5000,-5000, Cash ,Rep A,Abuja,"May 12, 2025","May 12, 2025",Lagos,Actve,
+TX1798,CUST349, Aisha Bello ,,5,test@yahoo.com,(080)12345678,Groceries,Shirt,1,₦5000,5000,Transfer,Rep C,Ikeja,12-May-25,"May 12, 2025",Port Harcourt,Actve,???
+TX1799,CUST106, Aisha Bello ,Male,34,user@gmail.com,234-801-234-5678,Electronics,Rice,5,NGN 5000,-5000, Cash ,,Abuja,12-May-25,12/05/2025,Port Harcourt,active,@@@
+TX1000,CUST914,Chinedu Okafor,Female,150,,234-801-234-5678,Electronic,Shirt,3,"5,000",-5000,Card,Rep C,Kano,12/05/2025,,LAGOS,Active,###
+TX1801,CUST283,James#9,Male,999,,,Electronic,Rice,3,NGN 5000,-5000,Crdit Card,Rep C,PH,12/05/2025,12-May-25, Abuja ,Acitve,***
+TX1802,CUST179,Mary Johnson,Male,999,user@gmail.com,8012345678,Electronics,Rice,10,₦5000,50000,Transfer,,PH,12/05/2025,12-May-25,lagos,Active,###
+TX1803,CUST215,Chinedu Okafor,Female,45,user@gmail.com,(080)12345678,,Laptop,3,$50,-5000,Credit Card,Rep A,Kano,"May 12, 2025",12-May-25,Lagos,Active,???
+TX1804,CUST744,John Smith,,5,user@gmail.com,2.34801E+12,Groceries,Rice,10,"5,000",99999999,Crdit Card,Rep C,Ikeja,12/05/2025,12-May-25,lagos,Active,@@@
+TX1805,CUST797, Aisha Bello ,,5,user@gmail.com,,Electronics,TV,1,NGN 5000,99999999,Transfer,Rep A,PH,12/05/2025,12/05/2025,Port Harcourt,active,
+TX1806,CUST325,Mary_45,Male,25,,,Groceries,Rice,1,$50,99999999,Crdit Card,,Ikeja,12-May-25,12/05/2025,Port Harcourt,Acitve,###
+TX1807,CUST138,John123,,25,test@yahoo.com,2.34801E+12,Fashion,Rice,1,$50,99999999,Crdit Card,Rep A,Kano,12/05/2025,12-May-25,Port Harcourt,Actve,***
+TX1808,CUST535,John Smith,Male,999,test@yahoo.com,2.34801E+12,,Laptop,1,NGN 5000,99999999, Cash ,Rep A,Kano,12/05/2025,12/05/2025,LAGOS,Acitve,@@@
+TX1809,CUST956,John123,Male,150,user@gmail.com,8012345678,Electronics,Laptop,2,₦5000,99999999,Credit Card,,PH,12/05/2025,12-May-25,Kano,Actve,
+TX1810,CUST339,Mary Johnson,,150,user@gmail.com,2.34801E+12,,Phone,10,NGN 5000,50000,Credit Card,Rep A,Kano,12-May-25,12/05/2025,Lagos,Active,@@@
+TX1811,CUST431, Aisha Bello ,Male,34,user@gmail.com,2.34801E+12,Fashion,Phone,1,$50,99999999, Cash ,Rep B,Abuja,"May 12, 2025",12/05/2025,Lagos,Acitve,***
+TX1812,CUST330,John Smith,Female,150,,2.34801E+12,Groceries,TV,2,₦5000,10000,Credit Card,Rep B,PH,12/05/2025,12/05/2025, Abuja ,Acitve,@@@
+TX1813,CUST254,John Smith,Female,5,test@yahoo.com,8012345678,Electronics,TV,10,"5,000",99999999,Transfer,Rep C,Kano,12/05/2025,,lagos,Active,###
+TX1814,CUST941,John Smith,Female,45,test@yahoo.com,234-801-234-5678,Electronics,TV,3,2500,15000,Card,Rep B,PH,12/05/2025,12-May-25,Kano,Active,###
+TX1815,CUST217,Mary_45,Male,25,user@gmail.com,2.34801E+12,Groceries,Rice,3,"5,000",99999999, Cash ,Rep A,PH,"May 12, 2025","May 12, 2025",LaGoS,Acitve,
+TX1816,CUST187,Mary_45,,45,,234-801-234-5678,Electronics,Laptop,2,NGN 5000,-5000,CreditCard,Rep A,Abuja,12/05/2025,12/05/2025,lagos,Acitve,***
+TX1817,CUST948,John Smith,Female,5,,,,TV,5,2500,99999999,Credit Card,,Ikeja,12/05/2025,12/05/2025,lagos,Acitve,***
+TX1818,CUST872,Mary Johnson,,999,,8012345678,Fashion,Laptop,3,$50,15000,Credit Card,Rep B,PH,12-May-25,,Kano,ACTIVE,***
+TX1819,CUST753, Aisha Bello ,Female,25,,8012345678,Electronics,Phone,5,₦5000,-5000,Credit Card,,Abuja,"May 12, 2025",12-May-25,Port Harcourt,Acitve,
+TX1820,CUST119,Mary Johnson,Male,5,test@yahoo.com,8012345678,Electrnics,Rice,2,$50,10000,Transfer,Rep B,Abuja,12/05/2025,"May 12, 2025",Kano,active,
+TX1821,CUST161,John123,Male,150,test@yahoo.com,8012345678,Electronics,Phone,2,2500,99999999,CreditCard,Rep A,PH,12/05/2025,12-May-25,LAGOS,Acitve,
+TX1822,CUST726,James#9,,999,user@gmail.com,,Groceries,Rice,1,$50,-5000, Cash ,,Kano,12/05/2025,,Lagos,active,
+TX1823,CUST423, Aisha Bello ,Male,45,test@yahoo.com,2.34801E+12,Electroncs,Shirt,2,2500,99999999,Transfer,Rep C,Abuja,12-May-25,,lagos,active,
+TX1824,CUST218,James#9,Female,999,,,Electroncs,TV,2,2500,-5000,Crdit Card,Rep A,Abuja,12/05/2025,, Abuja ,Actve,???
+TX1825,CUST485,Mary Johnson,Male,34,test@yahoo.com,234-801-234-5678,,Phone,2,$50,10000,Credit Card,Rep B,Ikeja,12-May-25,12/05/2025,lagos,Acitve,###
+TX1826,CUST260, Aisha Bello ,,5,test@yahoo.com,,Fashion,Laptop,5,"5,000",-5000,Crdit Card,Rep C,PH,12-May-25,12/05/2025, Abuja ,Acitve,###
+TX1827,CUST376,Chinedu Okafor,Male,25,user@gmail.com,8012345678,Fashion,Phone,5,2500,25000,Card,,PH,12/05/2025,"May 12, 2025",LaGoS,Active,???
+TX1828,CUST504,Mary Johnson,,45,user@gmail.com,8012345678,Groceries,TV,5,2500,99999999,Transfer,,Abuja,12-May-25,12/05/2025,Port Harcourt,active,@@@
+TX1829,CUST358,John123,,150,user@gmail.com,234-801-234-5678,Electronic,TV,-2,₦5000,99999999,Credit Card,Rep B,Abuja,"May 12, 2025",12-May-25,LAGOS,Acitve,###
+TX1830,CUST703,John123,Female,25,,234-801-234-5678,Electrnics,Phone,5,"5,000",99999999,Card,Rep B,Ikeja,"May 12, 2025","May 12, 2025",LaGoS,ACTIVE,***
+TX1831,CUST150, Aisha Bello ,Male,150,,(080)12345678,Electroncs,Rice,5,2500,-5000,Card,Rep B,Ikeja,"May 12, 2025",,Port Harcourt,Acitve,
+TX1832,CUST429,Mary_45,,34,user@gmail.com,2.34801E+12,,Rice,1,"5,000",5000,Transfer,,Ikeja,12-May-25,,Port Harcourt,Acitve,###
+TX1833,CUST540,John Smith,Male,150,,8012345678,Groceries,Phone,10,₦5000,99999999,Transfer,,Ikeja,12-May-25,12/05/2025, Abuja ,active,***
+TX1834,CUST807,James#9,,150,,2.34801E+12,Groceries,Shirt,10,2500,99999999,Credit Card,Rep A,Kano,12/05/2025,"May 12, 2025",LaGoS,active,
+TX1835,CUST194,Chinedu Okafor,Female,34,,(080)12345678,Electronics,Rice,1,"5,000",-5000,Crdit Card,Rep C,PH,12/05/2025,12/05/2025,LaGoS,Actve,???
+TX1836,CUST623,John Smith,,34,test@yahoo.com,(080)12345678,Electrnics,Rice,2,$50,99999999,Crdit Card,Rep A,Ikeja,12/05/2025,12/05/2025,Port Harcourt,Actve,
+TX1837,CUST804,Mary_45,Male,34,test@yahoo.com,2.34801E+12,Electronics,TV,10,₦5000,-5000, Cash ,Rep B,Kano,"May 12, 2025",12/05/2025,Port Harcourt,Active,***
+TX1838,CUST351,Mary_45,Male,45,,,Electronic,Shirt,1,₦5000,-5000,CreditCard,Rep B,Kano,"May 12, 2025","May 12, 2025",LAGOS,Actve,***
+TX1839,CUST377,John123,Female,150,,(080)12345678,Electrnics,Laptop,-2,"5,000",-10000,Crdit Card,,Abuja,12/05/2025,12/05/2025,Lagos,Actve,###
+TX1840,CUST198,John Smith,Male,5,user@gmail.com,(080)12345678,Electronics,Shirt,2,"5,000",-5000,Crdit Card,Rep C,Ikeja,12/05/2025,12/05/2025,Port Harcourt,ACTIVE,
+TX1841,CUST327,Chinedu Okafor,Male,999,test@yahoo.com,8012345678,Electronic,Shirt,10,NGN 5000,99999999,Card,Rep B,PH,12-May-25,12/05/2025,LAGOS,ACTIVE,###
+TX1842,CUST602, Aisha Bello ,,34,test@yahoo.com,2.34801E+12,Electroncs,Rice,2,₦5000,99999999,CreditCard,Rep C,Kano,12/05/2025,12/05/2025, Abuja ,ACTIVE,???
+TX1843,CUST121, Aisha Bello ,Male,999,test@yahoo.com,234-801-234-5678,Electronic,Laptop,1,"5,000",5000,Crdit Card,Rep C,Abuja,"May 12, 2025",,LAGOS,Active,
+TX1844,CUST330,James Brown,Male,150,user@gmail.com,234-801-234-5678,,Shirt,3,$50,-5000,Card,Rep C,Abuja,12/05/2025,,lagos,Active,@@@
+TX1845,CUST611,Mary Johnson,Male,5,,,Electronic,Laptop,1,₦5000,-5000,Transfer,Rep A,Kano,12/05/2025,"May 12, 2025",Kano,active,###
+TX1846,CUST259,James#9,,45,user@gmail.com,234-801-234-5678,Electrnics,TV,3,NGN 5000,15000,Card,Rep B,Abuja,"May 12, 2025",12-May-25, Abuja ,Active,***
+TX1847,CUST148,James#9,Male,5,user@gmail.com,8012345678,Electronic,Shirt,-2,$50,-5000,Card,,Ikeja,12-May-25,12/05/2025,lagos,Actve,???
+TX1848,CUST477,Mary_45,Male,999,test@yahoo.com,2.34801E+12,Fashion,Phone,2,NGN 5000,-5000, Cash ,Rep C,Abuja,"May 12, 2025",,Kano,Acitve,***
+TX1849,CUST119,Mary_45,Female,150,user@gmail.com,234-801-234-5678,Electrnics,Laptop,5,₦5000,25000,Credit Card,,Abuja,12-May-25,,lagos,ACTIVE,***
+TX1000,CUST790,John Smith,Female,45,user@gmail.com,234-801-234-5678,Groceries,Phone,2,NGN 5000,99999999,Crdit Card,,Kano,12/05/2025,12-May-25,Port Harcourt,ACTIVE,###
+TX1851,CUST340,Chinedu Okafor,Male,999,test@yahoo.com,2.34801E+12,Electronics,Shirt,2,NGN 5000,10000,Crdit Card,Rep B,Ikeja,12-May-25,12-May-25,Port Harcourt,Active,###
+TX1852,CUST817,Chinedu Okafor,Female,999,,234-801-234-5678,Fashion,Rice,10,2500,-5000,Credit Card,Rep B,Kano,12/05/2025,12/05/2025,LAGOS,active,***
+TX1853,CUST594,John123,,45,user@gmail.com,,Fashion,Laptop,3,NGN 5000,99999999,Crdit Card,,Kano,12-May-25,"May 12, 2025", Abuja ,ACTIVE,
+TX1854,CUST100,Mary Johnson,Male,999,,8012345678,Groceries,Phone,-2,2500,-10000,Crdit Card,,Ikeja,"May 12, 2025",12/05/2025,lagos,Actve,???
+TX1855,CUST326,James#9,Male,34,test@yahoo.com,8012345678,Electronic,Rice,10,2500,-5000, Cash ,,PH,"May 12, 2025",12-May-25,LAGOS,ACTIVE,
+TX1856,CUST502,Mary Johnson,,999,user@gmail.com,(080)12345678,Electronic,Laptop,2,₦5000,-5000, Cash ,Rep C,Abuja,12-May-25,,lagos,active,
+TX1857,CUST755, Aisha Bello ,Female,34,user@gmail.com,8012345678,,Rice,3,NGN 5000,15000,Card,,Abuja,12/05/2025,12/05/2025,LAGOS,ACTIVE,
+TX1858,CUST301,John123,Female,34,,8012345678,Electrnics,Rice,3,2500,-5000,Transfer,,Abuja,12/05/2025,12/05/2025,Port Harcourt,Acitve,***
+TX1859,CUST721,Mary Johnson,Female,150,,2.34801E+12,,TV,5,₦5000,99999999,Credit Card,Rep C,Kano,12/05/2025,"May 12, 2025",Lagos,ACTIVE,
+TX1860,CUST309,Mary Johnson,,150,,8012345678,Fashion,Phone,3,2500,15000,CreditCard,,Ikeja,12-May-25,"May 12, 2025",LaGoS,Active,***
+TX1861,CUST111,John Smith,,999,,2.34801E+12,,Phone,1,₦5000,99999999,CreditCard,,Ikeja,12-May-25,12/05/2025,Kano,Acitve,
+TX1862,CUST304,James#9,Male,45,test@yahoo.com,234-801-234-5678,Groceries,Shirt,10,$50,50000,Transfer,Rep C,Kano,12/05/2025,, Abuja ,ACTIVE,
+TX1863,CUST337,Chinedu Okafor,Male,999,,2.34801E+12,Electronic,Shirt,2,$50,10000,CreditCard,Rep A,Abuja,12/05/2025,12-May-25,Lagos,Active,???
+TX1864,CUST605, Aisha Bello ,Female,45,test@yahoo.com,,Groceries,Phone,10,2500,-5000,Credit Card,Rep A,Ikeja,12/05/2025,12/05/2025,LAGOS,active,
+TX1865,CUST627,James#9,,150,test@yahoo.com,,,TV,2,₦5000,99999999,CreditCard,Rep B,Ikeja,12/05/2025,12/05/2025,LaGoS,Actve,###
+TX1866,CUST391,James Brown,,5,user@gmail.com,(080)12345678,Electroncs,TV,2,"5,000",99999999,Credit Card,,Kano,12/05/2025,"May 12, 2025",Kano,active,###
+TX1867,CUST409,Chinedu Okafor,,45,user@gmail.com,(080)12345678,Groceries,Rice,10,NGN 5000,-5000,Transfer,Rep A,Abuja,"May 12, 2025","May 12, 2025",Lagos,Active,???
+TX1868,CUST487,James Brown,Female,34,test@yahoo.com,8012345678,Electronics,Rice,5,NGN 5000,99999999,Credit Card,,PH,12/05/2025,12-May-25,LAGOS,Acitve,???
+TX1869,CUST863,Mary_45,Male,5,,8012345678,Groceries,TV,10,₦5000,50000,Transfer,Rep B,Abuja,12/05/2025,12/05/2025,lagos,active,
+TX1870,CUST829, Aisha Bello ,Female,45,user@gmail.com,8012345678,Electronic,TV,5,₦5000,25000,Transfer,Rep A,Kano,12-May-25,,LAGOS,Actve,
+TX1871,CUST397,Chinedu Okafor,Male,25,test@yahoo.com,8012345678,Electronic,TV,-2,₦5000,99999999,Credit Card,Rep B,Ikeja,12-May-25,12/05/2025,lagos,Active,
+TX1872,CUST728,Chinedu Okafor,,25,user@gmail.com,8012345678,Electronics,TV,2,2500,99999999,Card,,PH,12/05/2025,12/05/2025,LaGoS,ACTIVE,???
+TX1873,CUST278,John123,Male,25,user@gmail.com,,,Laptop,5,₦5000,-5000,CreditCard,,Kano,"May 12, 2025",12/05/2025,LaGoS,active,@@@
+TX1874,CUST429,James Brown,,45,,(080)12345678,Electroncs,Phone,10,NGN 5000,99999999,Transfer,Rep A,Abuja,12/05/2025,12/05/2025,Kano,Actve,@@@
+TX1875,CUST787,John Smith,,5,test@yahoo.com,2.34801E+12,Electronics,TV,5,$50,25000,Crdit Card,Rep C,Ikeja,"May 12, 2025","May 12, 2025",lagos,Acitve,
+TX1876,CUST590,James Brown,,5,test@yahoo.com,234-801-234-5678,Electroncs,Phone,2,"5,000",99999999,Transfer,Rep B,PH,12/05/2025,,Lagos,active,###
+TX1877,CUST703,Chinedu Okafor,Female,45,user@gmail.com,8012345678,Electroncs,Rice,1,₦5000,5000, Cash ,Rep A,PH,12/05/2025,,LaGoS,active,???
+TX1878,CUST780,James#9,,34,test@yahoo.com,,Electronics,Laptop,2,2500,99999999,Crdit Card,Rep B,PH,12/05/2025,12/05/2025,LaGoS,Acitve,***
+TX1879,CUST982,John123,Male,5,test@yahoo.com,(080)12345678,Groceries,Rice,-2,NGN 5000,-10000,Transfer,Rep B,Abuja,12/05/2025,12/05/2025,LAGOS,Active,@@@
+TX1880,CUST598,James#9,Male,150,user@gmail.com,(080)12345678,Electrnics,TV,3,"5,000",15000,Credit Card,Rep C,Kano,12/05/2025,12/05/2025,Port Harcourt,Active,
+TX1881,CUST986,Mary_45,Female,150,test@yahoo.com,8012345678,Electronics,TV,-2,$50,-5000,CreditCard,Rep C,Abuja,12-May-25,12/05/2025,Kano,ACTIVE,@@@
+TX1882,CUST338,Chinedu Okafor,Female,5,user@gmail.com,,Electroncs,Phone,1,"5,000",5000,Crdit Card,Rep A,PH,12/05/2025,"May 12, 2025",Kano,active,@@@
+TX1883,CUST759,Mary Johnson,Female,25,test@yahoo.com,(080)12345678,Fashion,Laptop,5,NGN 5000,99999999, Cash ,Rep A,PH,12/05/2025,12/05/2025,LaGoS,Acitve,
+TX1884,CUST792, Aisha Bello ,Male,5,,2.34801E+12,Electronic,Laptop,-2,₦5000,99999999,CreditCard,,Kano,12-May-25,12-May-25,LAGOS,Active,@@@
+TX1885,CUST861,James#9,Female,34,,,Electronics,TV,2,2500,99999999, Cash ,Rep C,Abuja,12/05/2025,12-May-25,LAGOS,active,***
+TX1886,CUST810,John123,Male,999,test@yahoo.com,,Fashion,Shirt,3,NGN 5000,15000, Cash ,Rep C,PH,12/05/2025,, Abuja ,Acitve,***
+TX1887,CUST274,John Smith,Male,999,test@yahoo.com,8012345678,Fashion,Phone,1,NGN 5000,5000,Card,Rep C,Kano,"May 12, 2025","May 12, 2025",Lagos,Active,
+TX1888,CUST821,John123,,25,user@gmail.com,8012345678,Electronic,Shirt,5,"5,000",99999999,Transfer,,Kano,12/05/2025,12-May-25,lagos,active,@@@
+TX1889,CUST237,James#9,,34,user@gmail.com,(080)12345678,Fashion,Phone,10,NGN 5000,50000,Credit Card,Rep C,Abuja,12/05/2025,"May 12, 2025",lagos,active,
+TX1890,CUST933,Mary_45,,5,test@yahoo.com,8012345678,Electronics,TV,2,₦5000,99999999,CreditCard,Rep C,Kano,12-May-25,12/05/2025,Lagos,ACTIVE,###
+TX1891,CUST624,John Smith,Male,25,user@gmail.com,234-801-234-5678,Fashion,Phone,5,$50,-5000, Cash ,Rep C,PH,12/05/2025,"May 12, 2025",Kano,Acitve,###
+TX1892,CUST479,Mary_45,,25,user@gmail.com,,Electroncs,Shirt,5,$50,25000,Transfer,Rep C,Abuja,12/05/2025,12-May-25,LaGoS,Actve,???
+TX1893,CUST778, Aisha Bello ,,45,test@yahoo.com,2.34801E+12,Electroncs,TV,10,"5,000",99999999,CreditCard,Rep A,Ikeja,12/05/2025,"May 12, 2025", Abuja ,Active,***
+TX1894,CUST217,Mary Johnson,Female,5,,(080)12345678,Fashion,Shirt,5,NGN 5000,-5000,Crdit Card,Rep A,Kano,"May 12, 2025",12/05/2025,Kano,Active,###
+TX1895,CUST263,James#9,,34,,8012345678,Electroncs,Shirt,-2,"5,000",-10000,CreditCard,Rep B,Ikeja,"May 12, 2025",12/05/2025,Kano,Acitve,???
+TX1896,CUST328,Chinedu Okafor,Male,150,user@gmail.com,2.34801E+12,Electroncs,Laptop,1,NGN 5000,5000, Cash ,,Ikeja,"May 12, 2025",,Lagos,Acitve,***
+TX1897,CUST457,Chinedu Okafor,Female,5,test@yahoo.com,(080)12345678,Fashion,TV,5,NGN 5000,25000,Transfer,Rep C,PH,12-May-25,12/05/2025,Lagos,Actve,
+TX1898,CUST729,John123,,45,,234-801-234-5678,Electronics,Rice,10,2500,99999999, Cash ,,PH,12/05/2025,12/05/2025,Kano,ACTIVE,***
+TX1899,CUST260,John123,Female,45,test@yahoo.com,(080)12345678,Electronics,Rice,2,2500,99999999,Crdit Card,Rep B,Abuja,"May 12, 2025",, Abuja ,ACTIVE,???
+TX1000,CUST564,Chinedu Okafor,,5,test@yahoo.com,2.34801E+12,Fashion,Rice,10,2500,50000,Crdit Card,,Kano,12/05/2025,"May 12, 2025",lagos,Acitve,
+TX1901,CUST362,John Smith,,25,test@yahoo.com,,Electrnics,Phone,3,₦5000,-5000,Crdit Card,Rep A,Kano,12/05/2025,12/05/2025,Kano,ACTIVE,@@@
+TX1902,CUST564,Chinedu Okafor,,5,test@yahoo.com,2.34801E+12,,Rice,-2,NGN 5000,99999999,Credit Card,,PH,"May 12, 2025",12/05/2025,LAGOS,Actve,***
+TX1903,CUST828,James Brown,Male,150,,2.34801E+12,Electronic,TV,10,₦5000,50000,Card,Rep C,Abuja,12/05/2025,12-May-25, Abuja ,Actve,***
+TX1904,CUST903,Mary_45,Male,5,test@yahoo.com,8012345678,Electroncs,Rice,2,$50,-5000,Credit Card,Rep B,PH,12/05/2025,12/05/2025,lagos,Acitve,
+TX1905,CUST312,Mary Johnson,,999,test@yahoo.com,2.34801E+12,Groceries,Phone,10,2500,-5000,Credit Card,Rep C,PH,12/05/2025,12-May-25,LAGOS,active,###
+TX1906,CUST814, Aisha Bello ,,45,,2.34801E+12,,Rice,2,NGN 5000,99999999,Card,Rep A,Kano,12/05/2025,12/05/2025,LAGOS,Actve,@@@
+TX1907,CUST674, Aisha Bello ,Male,45,test@yahoo.com,(080)12345678,,Phone,-2,$50,99999999,Transfer,Rep B,Kano,12-May-25,,Port Harcourt,active,???
+TX1908,CUST394,James#9,,5,,2.34801E+12,Electrnics,TV,1,"5,000",-5000,Credit Card,Rep B,Ikeja,12/05/2025,"May 12, 2025",Port Harcourt,Active,
+TX1909,CUST650,John123,,25,user@gmail.com,,Fashion,Phone,1,"5,000",-5000,Transfer,Rep C,PH,12/05/2025,12-May-25,LAGOS,Actve,
+TX1910,CUST658,Chinedu Okafor,,999,user@gmail.com,,Electronics,Shirt,-2,2500,99999999,Transfer,Rep B,Abuja,12/05/2025,12-May-25,Kano,Actve,
+TX1911,CUST407,Mary Johnson,,5,,8012345678,Electrnics,TV,2,NGN 5000,-5000,Credit Card,Rep A,Kano,12-May-25,12/05/2025,Lagos,Acitve,***
+TX1912,CUST864,Chinedu Okafor,,25,,2.34801E+12,Electrnics,Phone,2,"5,000",10000,Crdit Card,Rep B,Kano,12/05/2025,12/05/2025,LaGoS,active,***
+TX1913,CUST363,John123,Male,999,test@yahoo.com,2.34801E+12,Groceries,Shirt,3,"5,000",-5000,Transfer,Rep C,Ikeja,12/05/2025,12/05/2025, Abuja ,active,???
+TX1914,CUST830,James Brown,,45,user@gmail.com,234-801-234-5678,Fashion,TV,1,$50,99999999,Crdit Card,,Abuja,12/05/2025,12-May-25,LaGoS,active,***
+TX1915,CUST174,James#9,,25,user@gmail.com,8012345678,Groceries,Shirt,-2,2500,-5000,Card,,Kano,12/05/2025,12/05/2025,lagos,Actve,@@@
+TX1916,CUST842,Mary Johnson,Male,150,,8012345678,Groceries,Shirt,-2,2500,-5000,Credit Card,,Kano,12-May-25,12/05/2025,LAGOS,Actve,???
+TX1917,CUST328,John123,,5,,234-801-234-5678,Electronic,Rice,5,$50,99999999,Card,Rep B,Kano,12/05/2025,12/05/2025,Lagos,ACTIVE,@@@
+TX1918,CUST811,Mary Johnson,,5,,8012345678,Electroncs,Shirt,3,NGN 5000,15000,Credit Card,Rep C,Kano,12/05/2025,12/05/2025,lagos,Actve,???
+TX1919,CUST157,James#9,,45,user@gmail.com,234-801-234-5678,Groceries,Shirt,1,$50,-5000,Crdit Card,,Ikeja,"May 12, 2025",12-May-25,Port Harcourt,Acitve,
+TX1920,CUST500,Chinedu Okafor,,25,test@yahoo.com,2.34801E+12,Electroncs,Laptop,2,NGN 5000,10000, Cash ,Rep A,PH,12/05/2025,12/05/2025,Port Harcourt,Acitve,***
+TX1921,CUST237,Mary Johnson,Female,45,test@yahoo.com,(080)12345678,Fashion,Shirt,5,NGN 5000,25000,Card,,Kano,12/05/2025,12/05/2025,Kano,active,@@@
+TX1922,CUST458,James Brown,Male,34,,234-801-234-5678,,Phone,3,$50,-5000,Crdit Card,Rep A,Abuja,"May 12, 2025",12/05/2025,lagos,active,###
+TX1923,CUST981,John123,,999,,2.34801E+12,Groceries,Rice,-2,$50,-5000,Credit Card,Rep C,Ikeja,"May 12, 2025",12/05/2025,LAGOS,active,
+TX1924,CUST261,John Smith,Female,5,,8012345678,,TV,3,₦5000,-5000,Crdit Card,,Abuja,12-May-25,12-May-25,Kano,Actve,###
+TX1925,CUST963,James#9,Male,999,user@gmail.com,2.34801E+12,Electronic,Phone,3,₦5000,99999999,Credit Card,Rep B,PH,12/05/2025,12/05/2025,LAGOS,Acitve,@@@
+TX1926,CUST556,John Smith,,25,user@gmail.com,2.34801E+12,,Shirt,2,₦5000,-5000,CreditCard,Rep B,PH,12/05/2025,12-May-25,LAGOS,Actve,###
+TX1927,CUST529,Mary_45,Male,34,test@yahoo.com,,Electronic,TV,10,"5,000",99999999, Cash ,,PH,12/05/2025,,Port Harcourt,Active,@@@
+TX1928,CUST789,James Brown,Male,25,test@yahoo.com,8012345678,,Shirt,10,₦5000,-5000, Cash ,Rep C,Ikeja,12/05/2025,,Kano,Actve,???
+TX1929,CUST824,John Smith,Male,5,test@yahoo.com,8012345678,Fashion,Shirt,2,"5,000",-5000,Transfer,Rep A,Kano,12-May-25,"May 12, 2025",LAGOS,Active,@@@
+TX1930,CUST528,James#9,Female,150,,234-801-234-5678,Electronics,Laptop,-2,₦5000,99999999,Transfer,,Ikeja,"May 12, 2025","May 12, 2025",Kano,ACTIVE,###
+TX1931,CUST448,James Brown,,34,test@yahoo.com,,,Laptop,10,"5,000",99999999,Crdit Card,Rep C,Abuja,12/05/2025,"May 12, 2025",LaGoS,Actve,
+TX1932,CUST113,James#9,Male,150,,8012345678,Groceries,TV,3,$50,-5000,Transfer,Rep A,Abuja,12-May-25,12/05/2025,lagos,Active,
+TX1933,CUST635,Mary Johnson,,25,user@gmail.com,(080)12345678,Electroncs,Laptop,1,2500,-5000,CreditCard,Rep A,Kano,12-May-25,12/05/2025, Abuja ,ACTIVE,###
+TX1934,CUST334,Chinedu Okafor,Male,5,test@yahoo.com,,Electronic,Rice,1,"5,000",-5000,Credit Card,Rep A,Ikeja,12/05/2025,12-May-25,Port Harcourt,Active,???
+TX1935,CUST479,James#9,,150,,,Electroncs,Laptop,5,₦5000,99999999, Cash ,Rep B,Abuja,12/05/2025,, Abuja ,Actve,???
+TX1936,CUST274, Aisha Bello ,Male,150,,,Electronic,Phone,5,₦5000,99999999, Cash ,Rep B,PH,12-May-25,12/05/2025, Abuja ,ACTIVE,***
+TX1937,CUST373,Mary_45,Female,25,test@yahoo.com,8012345678,Fashion,Laptop,-2,$50,-5000,CreditCard,Rep C,Kano,12-May-25,12/05/2025,Port Harcourt,Actve,***
+TX1938,CUST349,James Brown,,34,user@gmail.com,,Fashion,Rice,3,NGN 5000,99999999,Credit Card,,PH,12/05/2025,,Lagos,Acitve,***
+TX1939,CUST264, Aisha Bello ,Female,45,,234-801-234-5678,Electronic,TV,3,$50,15000,Card,Rep A,Ikeja,12-May-25,12-May-25,Kano,active,???
+TX1940,CUST927,Mary Johnson,,5,user@gmail.com,,Electroncs,TV,1,"5,000",-5000,Card,Rep A,PH,"May 12, 2025","May 12, 2025",Lagos,ACTIVE,###
+TX1941,CUST937,Mary_45,,45,user@gmail.com,2.34801E+12,Electronics,Rice,1,"5,000",5000,Credit Card,Rep C,Abuja,12-May-25,,Port Harcourt,Actve,@@@
+TX1942,CUST680,Chinedu Okafor,Male,34,user@gmail.com,234-801-234-5678,Electronic,TV,5,"5,000",-5000,CreditCard,Rep A,Ikeja,12/05/2025,"May 12, 2025",lagos,ACTIVE,
+TX1943,CUST718,James Brown,,150,,234-801-234-5678,Electronics,TV,-2,"5,000",99999999,Transfer,Rep C,PH,12/05/2025,,Kano,active,???
+TX1944,CUST822, Aisha Bello ,,45,user@gmail.com,(080)12345678,,Phone,2,NGN 5000,99999999,Transfer,Rep C,Abuja,12-May-25,12/05/2025,Port Harcourt,Actve,***
+TX1945,CUST884,John Smith,Male,5,user@gmail.com,,Electronic,TV,3,$50,-5000,Transfer,Rep C,PH,"May 12, 2025",, Abuja ,Actve,***
+TX1946,CUST532,John123,,45,,2.34801E+12,Electroncs,Phone,-2,₦5000,-10000,Credit Card,Rep C,Ikeja,12-May-25,12/05/2025, Abuja ,Active,###
+TX1947,CUST148,Mary_45,Male,25,,,Electronics,Shirt,2,"5,000",-5000,Credit Card,Rep B,Ikeja,"May 12, 2025",12/05/2025,LAGOS,active,???
+TX1948,CUST939,Chinedu Okafor,Male,45,test@yahoo.com,,Electronics,Rice,3,$50,15000,Crdit Card,Rep B,Kano,"May 12, 2025",,Port Harcourt,active,###
+TX1949,CUST639,Mary Johnson,Female,5,,(080)12345678,Electronics,Shirt,2,₦5000,10000,Card,Rep A,PH,12/05/2025,12/05/2025,LaGoS,Active,###
+TX1000,CUST706,Chinedu Okafor,,34,,(080)12345678,Electronics,TV,3,2500,99999999,Card,Rep A,Ikeja,12-May-25,,Lagos,Acitve,???
+TX1951,CUST513,Mary Johnson,Male,5,test@yahoo.com,(080)12345678,Electroncs,Rice,2,₦5000,99999999,Transfer,,Kano,12/05/2025,12/05/2025,Kano,Acitve,
+TX1952,CUST388, Aisha Bello ,Female,34,test@yahoo.com,(080)12345678,Fashion,Shirt,5,NGN 5000,99999999,Crdit Card,Rep C,Kano,12/05/2025,12/05/2025,lagos,Acitve,???
+TX1953,CUST128,John Smith,,150,user@gmail.com,,Fashion,Rice,2,₦5000,99999999,Card,,Kano,12/05/2025,12/05/2025,lagos,Actve,???
+TX1954,CUST729,Mary Johnson,Male,25,test@yahoo.com,2.34801E+12,Electrnics,Shirt,-2,NGN 5000,99999999, Cash ,Rep C,Abuja,12/05/2025,12-May-25,lagos,active,???
+TX1955,CUST577,James#9,Male,25,user@gmail.com,(080)12345678,Electrnics,Laptop,5,NGN 5000,99999999,Card,Rep C,Ikeja,12/05/2025,"May 12, 2025", Abuja ,Acitve,
+TX1956,CUST148,John Smith,Male,25,user@gmail.com,2.34801E+12,Electronics,Laptop,1,NGN 5000,5000,Credit Card,Rep C,PH,12/05/2025,12-May-25,Kano,ACTIVE,@@@
+TX1957,CUST360, Aisha Bello ,,25,user@gmail.com,2.34801E+12,Electroncs,Phone,2,NGN 5000,10000,Crdit Card,Rep C,Kano,12/05/2025,"May 12, 2025",LAGOS,active,###
+TX1958,CUST267,James Brown,Male,45,,,Electroncs,TV,2,2500,99999999,Credit Card,,Abuja,12/05/2025,,Port Harcourt,Actve,
+TX1959,CUST121,James#9,Male,45,,(080)12345678,Electroncs,Shirt,2,NGN 5000,-5000, Cash ,Rep A,PH,"May 12, 2025",12/05/2025,lagos,Actve,@@@
+TX1960,CUST580, Aisha Bello ,Female,999,test@yahoo.com,8012345678,Electrnics,Shirt,-2,"5,000",-10000, Cash ,Rep C,PH,12/05/2025,,LAGOS,Acitve,
+TX1961,CUST968,Mary_45,,34,test@yahoo.com,8012345678,Electrnics,Phone,10,NGN 5000,99999999,CreditCard,Rep C,PH,"May 12, 2025",12/05/2025,LAGOS,Active,###
+TX1962,CUST634,Mary_45,Female,150,user@gmail.com,234-801-234-5678,Electrnics,Laptop,3,"5,000",-5000,Crdit Card,,PH,12/05/2025,12/05/2025, Abuja ,Active,###
+TX1963,CUST823,Mary Johnson,Male,34,test@yahoo.com,(080)12345678,Groceries,TV,2,NGN 5000,99999999,Card,Rep A,Ikeja,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,???
+TX1964,CUST238,James Brown,Male,25,test@yahoo.com,234-801-234-5678,Groceries,Laptop,-2,$50,-5000,Credit Card,Rep A,Ikeja,12/05/2025,12/05/2025,LaGoS,Active,???
+TX1965,CUST884,Mary Johnson,,45,user@gmail.com,234-801-234-5678,Groceries,TV,5,₦5000,99999999,CreditCard,Rep A,Ikeja,"May 12, 2025","May 12, 2025", Abuja ,Acitve,
+TX1966,CUST854,James Brown,Male,150,user@gmail.com,2.34801E+12,Electronics,Rice,2,NGN 5000,-5000,Transfer,Rep B,PH,12/05/2025,"May 12, 2025",Port Harcourt,active,***
+TX1967,CUST372,John123,Male,25,user@gmail.com,,Fashion,TV,2,2500,-5000,Card,Rep B,Ikeja,12-May-25,12/05/2025,lagos,active,@@@
+TX1968,CUST519,Mary_45,Male,150,user@gmail.com,8012345678,Groceries,Phone,2,$50,10000,CreditCard,Rep A,PH,12/05/2025,12/05/2025,LaGoS,Active,???
+TX1969,CUST460,James#9,Female,5,user@gmail.com,2.34801E+12,Fashion,Shirt,1,$50,99999999,Credit Card,Rep A,Kano,12/05/2025,12/05/2025,Lagos,Acitve,???
+TX1970,CUST527,Mary_45,Female,5,user@gmail.com,8012345678,Electroncs,Laptop,5,NGN 5000,99999999,Crdit Card,Rep B,Ikeja,12/05/2025,,lagos,ACTIVE,@@@
+TX1971,CUST272,James#9,Male,150,,,Electroncs,TV,10,$50,-5000,Crdit Card,Rep B,Kano,"May 12, 2025",12-May-25,Kano,Active,###
+TX1972,CUST746,Mary_45,Male,45,,,,Phone,10,2500,-5000,CreditCard,,Ikeja,12-May-25,12/05/2025,LAGOS,Actve,***
+TX1973,CUST248,Mary Johnson,Female,999,user@gmail.com,,Electrnics,Shirt,10,2500,-5000,CreditCard,Rep A,Ikeja,"May 12, 2025",12-May-25,LAGOS,Acitve,***
+TX1974,CUST122,John123,Male,34,user@gmail.com,(080)12345678,Electronic,Phone,5,NGN 5000,99999999,Card,Rep C,Ikeja,12-May-25,"May 12, 2025",LaGoS,Active,***
+TX1975,CUST821,John123,Female,45,,8012345678,Groceries,TV,1,$50,99999999, Cash ,,Kano,"May 12, 2025","May 12, 2025",lagos,Actve,###
+TX1976,CUST974,James Brown,Female,25,test@yahoo.com,234-801-234-5678,Electronics,Shirt,3,"5,000",99999999,Transfer,Rep C,Ikeja,12-May-25,12/05/2025,Port Harcourt,ACTIVE,***
+TX1977,CUST268,Mary_45,Male,25,user@gmail.com,(080)12345678,Electroncs,Laptop,-2,2500,99999999,Crdit Card,Rep A,Abuja,12/05/2025,"May 12, 2025",Kano,Actve,###
+TX1978,CUST509,Mary Johnson,,999,user@gmail.com,8012345678,Electrnics,Rice,2,₦5000,99999999,Crdit Card,Rep A,Kano,"May 12, 2025",12-May-25,Port Harcourt,Acitve,???
+TX1979,CUST393,Mary_45,Female,45,user@gmail.com,(080)12345678,Electrnics,Rice,2,NGN 5000,99999999,CreditCard,Rep C,PH,12-May-25,12/05/2025,LAGOS,Acitve,@@@
+TX1980,CUST679,Mary Johnson,Male,150,user@gmail.com,8012345678,Electronics,Phone,-2,2500,99999999, Cash ,Rep C,Kano,"May 12, 2025",12/05/2025,Lagos,active,@@@
+TX1981,CUST319, Aisha Bello ,,5,,2.34801E+12,Electrnics,Rice,-2,"5,000",99999999,Card,Rep A,PH,"May 12, 2025",12/05/2025,lagos,Actve,***
+TX1982,CUST871,John Smith,Male,34,,2.34801E+12,Electroncs,TV,3,"5,000",99999999,Credit Card,Rep C,Abuja,12-May-25,,Kano,Active,@@@
+TX1983,CUST355,Mary Johnson,Male,150,,234-801-234-5678,Electronic,Phone,2,₦5000,99999999,Crdit Card,,PH,12/05/2025,12/05/2025,Kano,Acitve,???
+TX1984,CUST101,Mary Johnson,Male,999,test@yahoo.com,8012345678,,Shirt,10,2500,50000,Card,Rep C,Kano,"May 12, 2025",12-May-25,Lagos,ACTIVE,***
+TX1985,CUST840,John Smith,,25,user@gmail.com,8012345678,Electroncs,Shirt,-2,$50,99999999,Credit Card,Rep B,Ikeja,12/05/2025,12/05/2025, Abuja ,ACTIVE,???
+TX1986,CUST379,John Smith,,34,user@gmail.com,2.34801E+12,Electronics,Phone,-2,NGN 5000,-5000,Crdit Card,Rep B,Ikeja,12/05/2025,12/05/2025,LAGOS,Active,***
+TX1987,CUST696,John123,Male,5,,2.34801E+12,Electrnics,Phone,10,2500,-5000,CreditCard,,Ikeja,12/05/2025,12-May-25, Abuja ,Acitve,***
+TX1988,CUST582,John Smith,,150,user@gmail.com,234-801-234-5678,,Phone,3,2500,99999999,Credit Card,Rep A,Ikeja,"May 12, 2025",12/05/2025,Port Harcourt,Actve,
+TX1989,CUST662,Mary Johnson,,999,,8012345678,Electrnics,Shirt,10,₦5000,99999999,Crdit Card,Rep C,Kano,"May 12, 2025","May 12, 2025", Abuja ,ACTIVE,???
+TX1990,CUST629,Chinedu Okafor,Male,999,,8012345678,Electronic,Shirt,5,₦5000,99999999,Transfer,,Ikeja,12/05/2025,"May 12, 2025",Kano,ACTIVE,???
+TX1991,CUST237,Chinedu Okafor,,5,user@gmail.com,8012345678,Electronic,Rice,2,₦5000,10000,Crdit Card,Rep B,Ikeja,12-May-25,12/05/2025,LAGOS,Actve,***
+TX1992,CUST655,Mary Johnson,Female,150,,8012345678,Groceries,Rice,5,$50,25000,Card,Rep C,Ikeja,12/05/2025,12/05/2025, Abuja ,Active,@@@
+TX1993,CUST712,James#9,,5,user@gmail.com,234-801-234-5678,Electrnics,Shirt,10,NGN 5000,50000,Card,Rep A,Ikeja,12-May-25,"May 12, 2025",Port Harcourt,Active,***
+TX1994,CUST552,John Smith,Male,34,user@gmail.com,(080)12345678,Electronic,Laptop,1,2500,99999999, Cash ,Rep A,PH,12-May-25,12/05/2025, Abuja ,Actve,***
+TX1995,CUST509,John123,Male,45,user@gmail.com,8012345678,Fashion,Phone,5,2500,99999999,Card,Rep B,Ikeja,12-May-25,12/05/2025,LAGOS,ACTIVE,@@@
+TX1996,CUST301,Mary_45,,34,,2.34801E+12,Electronics,Shirt,2,"5,000",99999999,Card,Rep B,Kano,12-May-25,12/05/2025, Abuja ,Acitve,@@@
+TX1997,CUST532, Aisha Bello ,Female,150,test@yahoo.com,,Electronic,Shirt,2,₦5000,10000,Transfer,Rep A,Ikeja,"May 12, 2025","May 12, 2025",Lagos,Active,
+TX1998,CUST454,John Smith,Male,45,test@yahoo.com,234-801-234-5678,Electroncs,Phone,2,2500,99999999,Card,Rep C,Kano,12/05/2025,12/05/2025,Lagos,Active,
+TX1999,CUST387, Aisha Bello ,Female,5,,2.34801E+12,Groceries,TV,10,$50,50000,Credit Card,Rep C,PH,12/05/2025,,Kano,active,???
+TX1000,CUST283,James#9,Male,45,user@gmail.com,(080)12345678,Fashion,TV,3,₦5000,15000,Credit Card,Rep A,PH,"May 12, 2025",12/05/2025,Port Harcourt,Acitve,***
+TX2001,CUST977,John Smith,Female,45,,2.34801E+12,,Shirt,-2,NGN 5000,99999999,Transfer,Rep A,Abuja,12-May-25,,Lagos,active,@@@
+TX2002,CUST410,James Brown,,25,user@gmail.com,(080)12345678,Electronic,Shirt,-2,2500,-5000,Credit Card,Rep C,Ikeja,12/05/2025,12/05/2025, Abuja ,Actve,
+TX2003,CUST395,Chinedu Okafor,Female,25,,2.34801E+12,,TV,3,₦5000,99999999,Transfer,Rep A,PH,"May 12, 2025",12/05/2025,LaGoS,Active,###
+TX2004,CUST279,John Smith,Male,5,test@yahoo.com,2.34801E+12,,Laptop,3,$50,-5000, Cash ,,Kano,12/05/2025,12-May-25,lagos,ACTIVE,***
+TX2005,CUST280,James Brown,Male,45,test@yahoo.com,234-801-234-5678,Electrnics,Shirt,-2,2500,-5000, Cash ,Rep A,PH,"May 12, 2025",12-May-25,Kano,ACTIVE,***
+TX2006,CUST578,Mary Johnson,Male,5,test@yahoo.com,(080)12345678,,Laptop,-2,2500,-5000,Transfer,,PH,"May 12, 2025",,Lagos,Active,###
+TX2007,CUST456,Chinedu Okafor,Female,34,,8012345678,Electronic,Rice,2,"5,000",10000, Cash ,Rep C,Abuja,"May 12, 2025",12-May-25, Abuja ,ACTIVE,***
+TX2008,CUST279,John123,,5,user@gmail.com,8012345678,Groceries,Phone,5,$50,99999999,Crdit Card,Rep C,PH,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,???
+TX2009,CUST192,John123,Female,150,test@yahoo.com,234-801-234-5678,,Shirt,5,₦5000,-5000,Credit Card,Rep C,Kano,12-May-25,,Port Harcourt,Active,###
+TX2010,CUST860,James Brown,Male,34,,2.34801E+12,Fashion,Shirt,-2,2500,-5000,Card,,Ikeja,12/05/2025,12/05/2025,LaGoS,ACTIVE,###
+TX2011,CUST941,John123,,150,user@gmail.com,8012345678,Electronics,Phone,-2,"5,000",99999999,Card,,Abuja,"May 12, 2025",12/05/2025,Kano,Acitve,@@@
+TX2012,CUST344,Mary_45,Female,5,user@gmail.com,2.34801E+12,,Shirt,1,2500,-5000,CreditCard,Rep B,PH,12/05/2025,12/05/2025, Abuja ,Active,@@@
+TX2013,CUST876,Mary_45,Female,34,user@gmail.com,(080)12345678,Electrnics,Phone,3,2500,-5000,Transfer,Rep B,Abuja,12/05/2025,"May 12, 2025",LAGOS,active,###
+TX2014,CUST232,Chinedu Okafor,Female,45,test@yahoo.com,8012345678,Electronic,Rice,10,$50,50000,CreditCard,Rep C,Abuja,12-May-25,12/05/2025, Abuja ,ACTIVE,
+TX2015,CUST111,Mary Johnson,,999,test@yahoo.com,8012345678,Electroncs,Rice,1,"5,000",5000, Cash ,Rep B,PH,12/05/2025,12/05/2025,Kano,ACTIVE,
+TX2016,CUST392,John123,Female,999,user@gmail.com,,Electronics,Phone,1,2500,5000,CreditCard,Rep A,Kano,12/05/2025,"May 12, 2025",Port Harcourt,ACTIVE,@@@
+TX2017,CUST543,Mary Johnson,,5,test@yahoo.com,2.34801E+12,Electrnics,Laptop,1,"5,000",5000,Credit Card,Rep A,Abuja,12-May-25,12/05/2025,LaGoS,Active,###
+TX2018,CUST180,John123,Male,25,user@gmail.com,8012345678,Electronic,Laptop,2,₦5000,-5000,Crdit Card,,Abuja,12/05/2025,12-May-25,Port Harcourt,Acitve,###
+TX2019,CUST109,John123,,999,user@gmail.com,2.34801E+12,Groceries,Rice,-2,NGN 5000,-5000,CreditCard,Rep B,Abuja,"May 12, 2025","May 12, 2025",LaGoS,active,###
+TX2020,CUST467,James#9,Female,25,test@yahoo.com,,Electronics,Shirt,2,"5,000",10000,Crdit Card,Rep A,Kano,12/05/2025,,Kano,Actve,???
+TX2021,CUST717,James Brown,Female,999,,(080)12345678,Groceries,Phone,1,2500,5000, Cash ,Rep C,Kano,"May 12, 2025",, Abuja ,Active,***
+TX2022,CUST835, Aisha Bello ,Male,150,,234-801-234-5678,Groceries,TV,1,$50,99999999, Cash ,,PH,"May 12, 2025",,Lagos,active,###
+TX2023,CUST513,John Smith,Female,5,user@gmail.com,2.34801E+12,Electroncs,TV,2,"5,000",-5000, Cash ,,Kano,12/05/2025,"May 12, 2025", Abuja ,active,
+TX2024,CUST703,James#9,Female,25,test@yahoo.com,,Electroncs,Phone,3,2500,-5000,Transfer,Rep A,Kano,12/05/2025,"May 12, 2025",LaGoS,Acitve,@@@
+TX2025,CUST492, Aisha Bello ,Female,5,test@yahoo.com,8012345678,Groceries,Rice,-2,NGN 5000,-5000,Crdit Card,Rep B,Abuja,12-May-25,"May 12, 2025",LAGOS,active,@@@
+TX2026,CUST870,James#9,Female,5,test@yahoo.com,8012345678,,TV,5,$50,25000,Card,,Ikeja,12/05/2025,12/05/2025, Abuja ,ACTIVE,@@@
+TX2027,CUST669,James Brown,Male,25,,2.34801E+12,Fashion,Shirt,3,"5,000",-5000,Crdit Card,Rep A,Kano,12/05/2025,12/05/2025,lagos,active,???
+TX2028,CUST730, Aisha Bello ,Female,45,user@gmail.com,,Electronic,TV,3,₦5000,-5000,Card,Rep B,Ikeja,12-May-25,12/05/2025,Port Harcourt,Active,###
+TX2029,CUST426,Chinedu Okafor,Female,150,user@gmail.com,(080)12345678,Electronic,Rice,-2,"5,000",99999999,Card,Rep A,Abuja,12/05/2025,,Port Harcourt,ACTIVE,@@@
+TX2030,CUST519,Mary Johnson,Male,5,test@yahoo.com,8012345678,Groceries,Phone,5,"5,000",99999999,CreditCard,Rep B,Ikeja,12/05/2025,12/05/2025,Kano,Acitve,
+TX2031,CUST896,John Smith,,34,user@gmail.com,,Electrnics,Shirt,5,$50,25000,Credit Card,Rep B,PH,"May 12, 2025",,Lagos,Active,???
+TX2032,CUST816,James Brown,Female,25,user@gmail.com,,,TV,10,₦5000,50000, Cash ,Rep B,PH,"May 12, 2025",12-May-25,Port Harcourt,Acitve,***
+TX2033,CUST366,James#9,Male,25,user@gmail.com,8012345678,Electrnics,Laptop,10,2500,99999999, Cash ,Rep B,Abuja,12/05/2025,12/05/2025,Lagos,active,@@@
+TX2034,CUST637,John123,,25,user@gmail.com,(080)12345678,Electronics,Shirt,1,2500,99999999,CreditCard,Rep A,Abuja,"May 12, 2025",,LAGOS,Active,***
+TX2035,CUST316,Chinedu Okafor,,999,,8012345678,Electronic,Rice,10,$50,99999999,Credit Card,Rep B,Kano,"May 12, 2025","May 12, 2025",Kano,active,@@@
+TX2036,CUST674,James Brown,Male,25,test@yahoo.com,(080)12345678,,Shirt,-2,"5,000",-10000,Transfer,Rep C,Ikeja,"May 12, 2025","May 12, 2025",LAGOS,Acitve,???
+TX2037,CUST577,James Brown,,34,,(080)12345678,Electrnics,Rice,1,"5,000",5000,Card,Rep A,Kano,12/05/2025,12-May-25, Abuja ,ACTIVE,???
+TX2038,CUST789,Chinedu Okafor,Female,45,user@gmail.com,8012345678,Electroncs,Laptop,2,2500,-5000,Credit Card,Rep B,Kano,12-May-25,,lagos,Active,###
+TX2039,CUST749, Aisha Bello ,Female,999,user@gmail.com,(080)12345678,Fashion,Laptop,5,₦5000,99999999, Cash ,,Abuja,"May 12, 2025",12-May-25,LAGOS,ACTIVE,
+TX2040,CUST982,James#9,Female,25,test@yahoo.com,(080)12345678,Fashion,TV,-2,$50,99999999,Crdit Card,Rep B,Ikeja,12-May-25,12-May-25, Abuja ,active,###
+TX2041,CUST995,Chinedu Okafor,,150,test@yahoo.com,2.34801E+12,Electronic,Laptop,1,₦5000,5000,CreditCard,Rep C,Abuja,"May 12, 2025","May 12, 2025",Lagos,active,???
+TX2042,CUST741,Chinedu Okafor,Female,999,,234-801-234-5678,Electrnics,TV,1,"5,000",-5000,CreditCard,Rep B,PH,12-May-25,"May 12, 2025",Port Harcourt,Acitve,
+TX2043,CUST689,John123,,25,test@yahoo.com,234-801-234-5678,Fashion,Rice,-2,NGN 5000,-10000,Card,,Abuja,12/05/2025,12/05/2025,Kano,Actve,***
+TX2044,CUST238, Aisha Bello ,,5,user@gmail.com,8012345678,Electrnics,Rice,10,"5,000",-5000,Credit Card,Rep B,PH,12-May-25,12/05/2025, Abuja ,ACTIVE,
+TX2045,CUST613,Mary_45,Male,45,user@gmail.com,,Electroncs,Rice,10,2500,50000,Transfer,Rep A,Kano,12-May-25,12/05/2025, Abuja ,Actve,***
+TX2046,CUST468,Mary Johnson,,45,user@gmail.com,2.34801E+12,Electroncs,Rice,-2,"5,000",99999999,CreditCard,,Abuja,12-May-25,12/05/2025,LAGOS,active,###
+TX2047,CUST735,John123,Male,25,,,,Phone,1,$50,-5000,Card,Rep A,Kano,12/05/2025,,Kano,active,***
+TX2048,CUST747,Mary_45,Male,150,test@yahoo.com,(080)12345678,Electrnics,Laptop,2,2500,10000, Cash ,Rep C,Kano,12/05/2025,,Kano,active,
+TX2049,CUST663,Mary Johnson,,25,,(080)12345678,Electronics,TV,1,2500,-5000,Crdit Card,Rep B,Ikeja,12/05/2025,, Abuja ,active,***
+TX1000,CUST368,John Smith,Female,150,test@yahoo.com,234-801-234-5678,Electroncs,Phone,10,NGN 5000,99999999,Crdit Card,,Ikeja,12/05/2025,12/05/2025,lagos,ACTIVE,
+TX2051,CUST536,James Brown,Female,999,,(080)12345678,Electronic,TV,-2,"5,000",-10000,Card,,Ikeja,"May 12, 2025",12/05/2025,lagos,Actve,
+TX2052,CUST748,Mary Johnson,,150,user@gmail.com,2.34801E+12,Electronic,Rice,2,NGN 5000,-5000,Credit Card,,PH,12/05/2025,12-May-25,lagos,Actve,???
+TX2053,CUST377,James#9,Male,5,,8012345678,Fashion,Laptop,1,"5,000",5000,Card,Rep B,PH,12/05/2025,12-May-25,Kano,active,###
+TX2054,CUST473,James Brown,Male,45,user@gmail.com,2.34801E+12,Electroncs,Shirt,5,$50,-5000, Cash ,Rep B,Ikeja,12/05/2025,12-May-25,Port Harcourt,Actve,@@@
+TX2055,CUST931,Mary Johnson,Female,25,,,Electronic,Rice,3,$50,-5000,Crdit Card,Rep B,Abuja,12-May-25,12/05/2025,Kano,ACTIVE,###
+TX2056,CUST549,Mary Johnson,Male,150,test@yahoo.com,(080)12345678,Electrnics,Phone,1,$50,99999999,CreditCard,Rep C,Kano,12/05/2025,12/05/2025,Kano,Acitve,
+TX2057,CUST712,James Brown,Female,999,user@gmail.com,(080)12345678,Electronic,Rice,3,₦5000,15000,Credit Card,,Kano,12/05/2025,12/05/2025,LaGoS,Actve,@@@
+TX2058,CUST254,James#9,Male,25,,(080)12345678,Fashion,TV,3,"5,000",99999999,CreditCard,,Kano,12-May-25,,Lagos,Active,
+TX2059,CUST345,James#9,Male,34,user@gmail.com,234-801-234-5678,Fashion,Laptop,2,₦5000,99999999,CreditCard,Rep B,Abuja,12-May-25,12-May-25,lagos,Active,
+TX2060,CUST649,John123,,999,,,Electronics,Laptop,10,"5,000",99999999,Card,,PH,12/05/2025,"May 12, 2025", Abuja ,Actve,???
+TX2061,CUST151, Aisha Bello ,Male,5,user@gmail.com,8012345678,Electroncs,Phone,1,$50,-5000,Crdit Card,Rep B,Ikeja,12-May-25,12/05/2025,Kano,Active,###
+TX2062,CUST112,James#9,Female,999,user@gmail.com,2.34801E+12,Electroncs,Phone,-2,2500,99999999,Crdit Card,Rep B,Ikeja,12-May-25,12-May-25,lagos,Acitve,@@@
+TX2063,CUST391,James#9,Female,25,user@gmail.com,8012345678,Electroncs,Phone,10,2500,-5000,Credit Card,Rep A,Kano,12/05/2025,"May 12, 2025",LaGoS,Active,???
+TX2064,CUST973,John123,,5,test@yahoo.com,(080)12345678,Groceries,TV,10,₦5000,50000,Crdit Card,Rep C,Kano,12/05/2025,12-May-25, Abuja ,active,###
+TX2065,CUST258,Mary_45,Female,999,user@gmail.com,234-801-234-5678,Groceries,Rice,5,2500,99999999,Transfer,,Kano,12/05/2025,12/05/2025, Abuja ,active,
+TX2066,CUST540,James Brown,Female,34,test@yahoo.com,8012345678,,Shirt,2,₦5000,-5000,Card,Rep A,Kano,12-May-25,12/05/2025, Abuja ,Active,@@@
+TX2067,CUST333,James#9,Male,25,test@yahoo.com,2.34801E+12,Electrnics,TV,10,2500,50000,Crdit Card,,Kano,"May 12, 2025",12/05/2025, Abuja ,ACTIVE,***
+TX2068,CUST383,John Smith,,999,test@yahoo.com,,Groceries,Laptop,10,"5,000",50000,Transfer,Rep C,Abuja,"May 12, 2025","May 12, 2025",Kano,Acitve,???
+TX2069,CUST963,Chinedu Okafor,,999,,(080)12345678,Electroncs,Rice,5,NGN 5000,25000,Transfer,,Ikeja,12/05/2025,"May 12, 2025", Abuja ,Active,???
+TX2070,CUST208,John123,Female,45,user@gmail.com,2.34801E+12,Electrnics,Rice,1,2500,5000,Card,Rep C,Ikeja,12/05/2025,"May 12, 2025",LaGoS,active,***
+TX2071,CUST957,James#9,Female,150,test@yahoo.com,2.34801E+12,Fashion,Shirt,2,"5,000",99999999, Cash ,Rep C,Kano,12-May-25,"May 12, 2025",LAGOS,ACTIVE,
+TX2072,CUST321,James#9,Male,150,user@gmail.com,2.34801E+12,Electronic,Phone,1,NGN 5000,-5000,Credit Card,Rep C,Kano,"May 12, 2025","May 12, 2025", Abuja ,Actve,
+TX2073,CUST533,Chinedu Okafor,Male,34,,8012345678,Fashion,Shirt,3,₦5000,-5000,Credit Card,Rep A,Abuja,12/05/2025,12/05/2025,Kano,Acitve,@@@
+TX2074,CUST725,Mary_45,Male,150,test@yahoo.com,(080)12345678,Groceries,Laptop,2,$50,-5000,Transfer,Rep C,Abuja,12/05/2025,12-May-25,Port Harcourt,Active,@@@
+TX2075,CUST905,Chinedu Okafor,,999,test@yahoo.com,(080)12345678,Electronics,Rice,3,NGN 5000,99999999,Transfer,,Kano,12/05/2025,12-May-25,Lagos,active,@@@
+TX2076,CUST328, Aisha Bello ,Female,999,test@yahoo.com,2.34801E+12,,TV,1,NGN 5000,-5000,Card,,PH,12-May-25,12-May-25,LaGoS,ACTIVE,???
+TX2077,CUST199, Aisha Bello ,,34,test@yahoo.com,8012345678,Electronic,Rice,3,NGN 5000,-5000,Transfer,Rep A,Ikeja,"May 12, 2025",12/05/2025,lagos,Actve,***
+TX2078,CUST247,Chinedu Okafor,Male,45,test@yahoo.com,,Electroncs,TV,1,$50,99999999,Credit Card,,Abuja,12-May-25,12/05/2025,lagos,active,
+TX2079,CUST368,Chinedu Okafor,Male,45,user@gmail.com,(080)12345678,Electrnics,Rice,-2,₦5000,-5000,Credit Card,Rep A,PH,12/05/2025,"May 12, 2025",Port Harcourt,Actve,
+TX2080,CUST936,James Brown,Female,150,user@gmail.com,,,Shirt,-2,₦5000,99999999,Credit Card,,Ikeja,"May 12, 2025",12/05/2025, Abuja ,Actve,
+TX2081,CUST320, Aisha Bello ,Male,999,test@yahoo.com,8012345678,Electronics,TV,2,2500,10000,CreditCard,Rep C,PH,12/05/2025,12-May-25,LaGoS,active,***
+TX2082,CUST724,Chinedu Okafor,,999,test@yahoo.com,2.34801E+12,Electroncs,Laptop,-2,₦5000,-5000,Credit Card,Rep B,Abuja,"May 12, 2025",,Lagos,Acitve,***
+TX2083,CUST600,John123,Female,5,test@yahoo.com,2.34801E+12,Groceries,Rice,3,₦5000,-5000,CreditCard,,Abuja,12/05/2025,12-May-25,Port Harcourt,Actve,@@@
+TX2084,CUST391,Chinedu Okafor,Female,5,user@gmail.com,8012345678,Groceries,TV,2,NGN 5000,99999999,Card,Rep B,Ikeja,12/05/2025,, Abuja ,Acitve,
+TX2085,CUST448,John123,Male,25,user@gmail.com,234-801-234-5678,Groceries,Shirt,2,₦5000,99999999,Credit Card,,PH,12/05/2025,"May 12, 2025", Abuja ,Active,???
+TX2086,CUST952,Chinedu Okafor,Female,999,test@yahoo.com,,,Shirt,2,2500,99999999,CreditCard,Rep B,PH,12-May-25,12/05/2025,LaGoS,ACTIVE,@@@
+TX2087,CUST596,James#9,,25,,(080)12345678,Electronic,Shirt,10,₦5000,99999999,Credit Card,Rep B,PH,12-May-25,12-May-25,lagos,active,@@@
+TX2088,CUST829,John Smith,,45,user@gmail.com,8012345678,Electrnics,Phone,2,₦5000,-5000,Credit Card,Rep A,Ikeja,12/05/2025,"May 12, 2025",lagos,Actve,***
+TX2089,CUST836, Aisha Bello ,Female,999,user@gmail.com,2.34801E+12,Fashion,Laptop,1,2500,5000,Card,Rep B,Kano,12/05/2025,12-May-25,LAGOS,Active,
+TX2090,CUST701,Chinedu Okafor,Female,34,user@gmail.com,(080)12345678,Electroncs,Rice,3,NGN 5000,99999999,Credit Card,Rep A,Abuja,12/05/2025,"May 12, 2025",Kano,ACTIVE,###
+TX2091,CUST485,Mary Johnson,Male,999,test@yahoo.com,,Electronic,Shirt,1,₦5000,-5000,Credit Card,,Abuja,12-May-25,12/05/2025,Kano,Acitve,###
+TX2092,CUST281,Mary_45,,999,,(080)12345678,Electrnics,Shirt,5,NGN 5000,25000,CreditCard,Rep A,Abuja,12/05/2025,12/05/2025,Kano,ACTIVE,@@@
+TX2093,CUST518,Mary_45,,34,user@gmail.com,8012345678,Electrnics,TV,-2,$50,-5000,Card,Rep A,PH,"May 12, 2025",12/05/2025,Lagos,active,???
+TX2094,CUST825,James#9,,150,test@yahoo.com,(080)12345678,Electronic,TV,1,"5,000",-5000,Transfer,,Kano,12-May-25,12/05/2025, Abuja ,active,###
+TX2095,CUST454,Mary Johnson,Male,45,test@yahoo.com,(080)12345678,Electronics,Rice,3,$50,-5000,Card,Rep A,Ikeja,12/05/2025,12-May-25,LAGOS,active,***
+TX2096,CUST302,John Smith,,150,,8012345678,Electronic,Laptop,2,2500,10000,Crdit Card,Rep C,Ikeja,12-May-25,12/05/2025,Kano,ACTIVE,???
+TX2097,CUST542,James Brown,Male,34,user@gmail.com,2.34801E+12,Electronic,Shirt,3,"5,000",99999999,Crdit Card,Rep C,Kano,12/05/2025,,Kano,Actve,@@@
+TX2098,CUST563,James#9,,45,test@yahoo.com,2.34801E+12,,Phone,2,NGN 5000,10000, Cash ,Rep C,PH,"May 12, 2025",,Lagos,Acitve,###
+TX2099,CUST758,Mary Johnson,,999,user@gmail.com,(080)12345678,Electronic,Rice,2,$50,10000,Card,,Kano,12-May-25,"May 12, 2025",lagos,Acitve,@@@
+TX1000,CUST409,Mary Johnson,Male,999,test@yahoo.com,(080)12345678,Electrnics,Phone,10,NGN 5000,50000,CreditCard,Rep C,Ikeja,12/05/2025,"May 12, 2025",Lagos,ACTIVE,###
+TX1607,CUST470,James#9,Female,45,test@yahoo.com,2.34801E+12,Electrnics,Shirt,5,2500,99999999,Transfer,Rep C,Abuja,12/05/2025,"May 12, 2025", Abuja ,Active,
+TX1715,CUST229,Mary_45,Female,45,user@gmail.com,(080)12345678,Fashion,TV,3,2500,99999999,CreditCard,Rep A,Ikeja,12/05/2025,12/05/2025,Kano,Actve,
+TX1603,CUST231,Mary Johnson,Male,34,user@gmail.com,234-801-234-5678,Groceries,Laptop,10,"5,000",50000,CreditCard,,Abuja,12/05/2025,"May 12, 2025",lagos,Actve,???
+TX1271,CUST702,Mary_45,Male,45,user@gmail.com,8012345678,Fashion,Shirt,5,2500,99999999,Transfer,Rep C,Abuja,12/05/2025,12-May-25,Port Harcourt,active,
+TX1631,CUST626,John Smith,,150,test@yahoo.com,234-801-234-5678,Electronics,Phone,-2,NGN 5000,99999999,Crdit Card,Rep B,PH,12/05/2025,"May 12, 2025",lagos,Acitve,###
+TX2095,CUST454,Mary Johnson,Male,45,test@yahoo.com,(080)12345678,Electronics,Rice,3,$50,-5000,Card,Rep A,Ikeja,12/05/2025,12-May-25,LAGOS,active,***
+TX1615,CUST484,Chinedu Okafor,Male,5,test@yahoo.com,(080)12345678,Electroncs,Laptop,3,₦5000,15000,Transfer,Rep B,Ikeja,12/05/2025,"May 12, 2025",Port Harcourt,ACTIVE,
+TX1746,CUST507,Mary_45,Female,34,user@gmail.com,234-801-234-5678,,Rice,2,$50,99999999,Transfer,,PH,12/05/2025,"May 12, 2025", Abuja ,active,@@@
+TX1807,CUST138,John123,,25,test@yahoo.com,2.34801E+12,Fashion,Rice,1,$50,99999999,Crdit Card,Rep A,Kano,12/05/2025,12-May-25,Port Harcourt,Actve,***
+TX1056,CUST976, Aisha Bello ,,999,user@gmail.com,234-801-234-5678,Electrnics,TV,10,$50,99999999,Credit Card,Rep A,Kano,12/05/2025,12/05/2025,lagos,Active,
+TX1000,CUST953,John123,,5,test@yahoo.com,234-801-234-5678,Electroncs,Rice,-2,2500,-5000,Card,Rep A,Abuja,12/05/2025,"May 12, 2025",Port Harcourt,Active,###
+TX1247,CUST765,James Brown,Male,25,user@gmail.com,(080)12345678,Electroncs,TV,5,₦5000,99999999,CreditCard,,Abuja,"May 12, 2025",12/05/2025,Port Harcourt,Active,###
+TX1112,CUST318, Aisha Bello ,,150,,8012345678,Fashion,Phone,10,₦5000,50000, Cash ,Rep C,PH,"May 12, 2025",12/05/2025,Lagos,active,
+TX1988,CUST582,John Smith,,150,user@gmail.com,234-801-234-5678,,Phone,3,2500,99999999,Credit Card,Rep A,Ikeja,"May 12, 2025",12/05/2025,Port Harcourt,Actve,
+TX1066,CUST635,James#9,Female,34,test@yahoo.com,234-801-234-5678,Electronics,TV,-2,"5,000",-10000,Transfer,Rep C,Kano,"May 12, 2025",12-May-25, Abuja ,ACTIVE,???
+TX1653,CUST309,John Smith,,5,,2.34801E+12,Electrnics,TV,2,₦5000,99999999, Cash ,,Kano,12/05/2025,"May 12, 2025",Port Harcourt,active,###
+TX2047,CUST735,John123,Male,25,,,,Phone,1,$50,-5000,Card,Rep A,Kano,12/05/2025,,Kano,active,***
+TX2093,CUST518,Mary_45,,34,user@gmail.com,8012345678,Electrnics,TV,-2,$50,-5000,Card,Rep A,PH,"May 12, 2025",12/05/2025,Lagos,active,???
+TX2083,CUST600,John123,Female,5,test@yahoo.com,2.34801E+12,Groceries,Rice,3,₦5000,-5000,CreditCard,,Abuja,12/05/2025,12-May-25,Port Harcourt,Actve,@@@
+TX1212,CUST916,Chinedu Okafor,,45,test@yahoo.com,8012345678,Electronics,TV,10,"5,000",-5000,Credit Card,Rep A,Ikeja,12-May-25,"May 12, 2025",Port Harcourt,Active,***
+TX1831,CUST150, Aisha Bello ,Male,150,,(080)12345678,Electroncs,Rice,5,2500,-5000,Card,Rep B,Ikeja,"May 12, 2025",,Port Harcourt,Acitve,
+TX1398,CUST171,Chinedu Okafor,Male,999,,,Electronic,Laptop,3,$50,99999999,Crdit Card,Rep B,Ikeja,12-May-25,12/05/2025,Port Harcourt,Acitve,###
+TX1727,CUST672, Aisha Bello ,Male,34,,8012345678,Electronics,Shirt,10,2500,99999999,CreditCard,Rep B,Ikeja,"May 12, 2025",12-May-25,Kano,ACTIVE,***
+TX1344,CUST788,Mary Johnson,,150,,,Fashion,Phone,1,$50,-5000,Credit Card,Rep C,Abuja,12-May-25,12/05/2025,lagos,Actve,???
+TX1905,CUST312,Mary Johnson,,999,test@yahoo.com,2.34801E+12,Groceries,Phone,10,2500,-5000,Credit Card,Rep C,PH,12/05/2025,12-May-25,LAGOS,active,###
+TX1131,CUST247,Mary Johnson,,150,user@gmail.com,2.34801E+12,Fashion,Rice,10,2500,99999999,Transfer,Rep C,Abuja,"May 12, 2025",12/05/2025, Abuja ,Acitve,
+TX1939,CUST264, Aisha Bello ,Female,45,,234-801-234-5678,Electronic,TV,3,$50,15000,Card,Rep A,Ikeja,12-May-25,12-May-25,Kano,active,???
+TX1799,CUST106, Aisha Bello ,Male,34,user@gmail.com,234-801-234-5678,Electronics,Rice,5,NGN 5000,-5000, Cash ,,Abuja,12-May-25,12/05/2025,Port Harcourt,active,@@@
+TX1809,CUST956,John123,Male,150,user@gmail.com,8012345678,Electronics,Laptop,2,₦5000,99999999,Credit Card,,PH,12/05/2025,12-May-25,Kano,Actve,
+TX1238,CUST308,James Brown,,45,user@gmail.com,234-801-234-5678,Electronics,Laptop,5,₦5000,-5000,Credit Card,Rep C,Ikeja,12/05/2025,12/05/2025,Kano,Actve,@@@
+TX1000,CUST511,Mary Johnson,Male,150,user@gmail.com,234-801-234-5678,Groceries,Rice,-2,$50,-10000, Cash ,Rep A,PH,"May 12, 2025","May 12, 2025",lagos,Active,###
+TX1685,CUST315,James Brown,Male,25,,(080)12345678,Electronics,TV,3,2500,15000,CreditCard,,Kano,12/05/2025,,Lagos,Acitve,###
+TX2049,CUST663,Mary Johnson,,25,,(080)12345678,Electronics,TV,1,2500,-5000,Crdit Card,Rep B,Ikeja,12/05/2025,, Abuja ,active,***
+TX1899,CUST260,John123,Female,45,test@yahoo.com,(080)12345678,Electronics,Rice,2,2500,99999999,Crdit Card,Rep B,Abuja,"May 12, 2025",, Abuja ,ACTIVE,???
+TX1643,CUST597,Mary Johnson,Male,34,user@gmail.com,,Fashion,Phone,-2,2500,-10000, Cash ,,Abuja,12-May-25,"May 12, 2025",Lagos,ACTIVE,@@@
+TX1359,CUST790,Chinedu Okafor,Female,34,user@gmail.com,(080)12345678,Fashion,Rice,2,2500,-5000, Cash ,Rep C,Ikeja,12-May-25,"May 12, 2025",LaGoS,active,
+TX1485,CUST691,John123,,999,test@yahoo.com,(080)12345678,Electronics,Phone,2,2500,10000, Cash ,Rep C,Abuja,12/05/2025,"May 12, 2025",Port Harcourt,Acitve,
+TX1140,CUST970,James#9,,5,,(080)12345678,Groceries,Phone,5,2500,99999999,Credit Card,Rep B,Abuja,12-May-25,,LAGOS,Acitve,
+TX1575,CUST326,Mary Johnson,Male,999,user@gmail.com,,Electrnics,Rice,-2,₦5000,99999999,CreditCard,Rep A,Kano,"May 12, 2025",12/05/2025,Lagos,Acitve,###
+TX1893,CUST778, Aisha Bello ,,45,test@yahoo.com,2.34801E+12,Electroncs,TV,10,"5,000",99999999,CreditCard,Rep A,Ikeja,12/05/2025,"May 12, 2025", Abuja ,Active,***
+TX1872,CUST728,Chinedu Okafor,,25,user@gmail.com,8012345678,Electronics,TV,2,2500,99999999,Card,,PH,12/05/2025,12/05/2025,LaGoS,ACTIVE,???
+TX1663,CUST239, Aisha Bello ,Female,5,user@gmail.com,2.34801E+12,Fashion,Laptop,3,₦5000,-5000,Credit Card,Rep A,Abuja,12/05/2025,12/05/2025,Kano,Active,***
+TX1879,CUST982,John123,Male,5,test@yahoo.com,(080)12345678,Groceries,Rice,-2,NGN 5000,-10000,Transfer,Rep B,Abuja,12/05/2025,12/05/2025,LAGOS,Active,@@@
+TX1582,CUST347,James Brown,Female,150,,2.34801E+12,Electrnics,Laptop,3,2500,99999999,Transfer,,PH,12/05/2025,12/05/2025,LAGOS,ACTIVE,@@@
+TX1340,CUST348,James#9,Male,999,,8012345678,Electroncs,TV,1,NGN 5000,99999999,Credit Card,,PH,12/05/2025,12/05/2025, Abuja ,Actve,???
+TX1159,CUST480,Chinedu Okafor,Female,999,user@gmail.com,8012345678,Electroncs,TV,3,NGN 5000,-5000,Credit Card,Rep C,Abuja,"May 12, 2025",,lagos,ACTIVE,***
+TX1954,CUST729,Mary Johnson,Male,25,test@yahoo.com,2.34801E+12,Electrnics,Shirt,-2,NGN 5000,99999999, Cash ,Rep C,Abuja,12/05/2025,12-May-25,lagos,active,???
+TX2094,CUST825,James#9,,150,test@yahoo.com,(080)12345678,Electronic,TV,1,"5,000",-5000,Transfer,,Kano,12-May-25,12/05/2025, Abuja ,active,###
+TX1911,CUST407,Mary Johnson,,5,,8012345678,Electrnics,TV,2,NGN 5000,-5000,Credit Card,Rep A,Kano,12-May-25,12/05/2025,Lagos,Acitve,***
+TX1291,CUST923,Chinedu Okafor,,45,user@gmail.com,,Electronics,Shirt,1,2500,-5000,Credit Card,Rep A,Abuja,12-May-25,12-May-25,Kano,Acitve,@@@
+TX1066,CUST635,James#9,Female,34,test@yahoo.com,234-801-234-5678,Electronics,TV,-2,"5,000",-10000,Transfer,Rep C,Kano,"May 12, 2025",12-May-25, Abuja ,ACTIVE,???
+TX1081,CUST951,Mary Johnson,Female,45,,2.34801E+12,Electrnics,Phone,-2,2500,-10000,CreditCard,,PH,12-May-25,12-May-25,LaGoS,ACTIVE,***
+TX1419,CUST255,John123,Male,34,user@gmail.com,8012345678,Electroncs,Phone,2,₦5000,10000,CreditCard,,Kano,12-May-25,12-May-25,Lagos,ACTIVE,###
+TX1010,CUST524,James#9,Male,999,,,Electroncs,Shirt,1,"5,000",99999999,Card,,Kano,12/05/2025,12-May-25,Lagos,Acitve,???
+TX1163,CUST333,James Brown,Female,25,user@gmail.com,2.34801E+12,,Shirt,1,₦5000,99999999,Crdit Card,Rep A,PH,12/05/2025,12/05/2025,Lagos,ACTIVE,###
+TX1573,CUST504,Mary_45,Male,150,,(080)12345678,Electrnics,Phone,3,NGN 5000,15000,Crdit Card,Rep C,Ikeja,12-May-25,12/05/2025,Lagos,Active,
+TX1756,CUST792,John123,,5,,(080)12345678,,Phone,1,2500,5000,Card,Rep B,Abuja,12-May-25,12-May-25,Kano,active,###
+TX1491,CUST759,John123,Male,34,,(080)12345678,,TV,2,NGN 5000,10000,Crdit Card,Rep A,Ikeja,12-May-25,,LAGOS,Actve,???
+TX2029,CUST426,Chinedu Okafor,Female,150,user@gmail.com,(080)12345678,Electronic,Rice,-2,"5,000",99999999,Card,Rep A,Abuja,12/05/2025,,Port Harcourt,ACTIVE,@@@
+TX1938,CUST349,James Brown,,34,user@gmail.com,,Fashion,Rice,3,NGN 5000,99999999,Credit Card,,PH,12/05/2025,,Lagos,Acitve,***
+TX1253,CUST316, Aisha Bello ,Female,34,,,Electrnics,Rice,1,$50,99999999,Card,Rep A,Abuja,12/05/2025,, Abuja ,Actve,###
+TX1242,CUST726,Chinedu Okafor,,25,,2.34801E+12,Groceries,Rice,3,₦5000,-5000,CreditCard,Rep B,Kano,12/05/2025,12/05/2025, Abuja ,ACTIVE,###
+TX1242,CUST726,Chinedu Okafor,,25,,2.34801E+12,Groceries,Rice,3,₦5000,-5000,CreditCard,Rep B,Kano,12/05/2025,12/05/2025, Abuja ,ACTIVE,###
+TX1766,CUST708,James#9,Male,25,user@gmail.com,8012345678,Electroncs,Laptop,10,₦5000,99999999,Transfer,Rep A,Abuja,12/05/2025,12/05/2025,Kano,Actve,
+TX2063,CUST391,James#9,Female,25,user@gmail.com,8012345678,Electroncs,Phone,10,2500,-5000,Credit Card,Rep A,Kano,12/05/2025,"May 12, 2025",LaGoS,Active,???
+TX1154,CUST712,James Brown,Male,999,test@yahoo.com,2.34801E+12,Electronic,TV,1,₦5000,-5000,Crdit Card,,Abuja,12/05/2025,"May 12, 2025",Lagos,Active,???
+TX1014,CUST607,James#9,Male,25,user@gmail.com,(080)12345678,Electroncs,Phone,1,2500,99999999,Crdit Card,Rep C,PH,12/05/2025,12/05/2025,Port Harcourt,ACTIVE,
+TX1154,CUST712,James Brown,Male,999,test@yahoo.com,2.34801E+12,Electronic,TV,1,₦5000,-5000,Crdit Card,,Abuja,12/05/2025,"May 12, 2025",Lagos,Active,???
+TX1761,CUST595,John123,Male,5,,234-801-234-5678,Groceries,Shirt,1,"5,000",-5000,Credit Card,Rep B,Abuja,12/05/2025,12-May-25,LAGOS,active,
+TX1104,CUST341,John123,Male,45,,,Fashion,Phone,5,₦5000,-5000,Card,Rep C,Kano,12/05/2025,12/05/2025,lagos,active,###
+TX1204,CUST529,James Brown,Male,34,,234-801-234-5678,Electrnics,Shirt,1,NGN 5000,-5000,CreditCard,Rep C,Kano,12/05/2025,12/05/2025,Port Harcourt,Active,
+TX1418,CUST134,Chinedu Okafor,,150,test@yahoo.com,2.34801E+12,,Rice,5,2500,25000, Cash ,Rep C,Kano,12-May-25,,Kano,Acitve,???
+TX2038,CUST789,Chinedu Okafor,Female,45,user@gmail.com,8012345678,Electroncs,Laptop,2,2500,-5000,Credit Card,Rep B,Kano,12-May-25,,lagos,Active,###
+TX1784,CUST801,James#9,Female,5,user@gmail.com,2.34801E+12,,Shirt,-2,2500,-5000,Crdit Card,Rep B,Kano,12-May-25,12/05/2025,Port Harcourt,Actve,###
+TX1457,CUST499,Mary Johnson,,34,test@yahoo.com,(080)12345678,,TV,1,$50,99999999,Crdit Card,Rep A,Abuja,12-May-25,12/05/2025,Lagos,active,???
+TX1171,CUST227,John Smith,Female,25,user@gmail.com,,Electrnics,Laptop,1,2500,-5000,CreditCard,Rep B,PH,12/05/2025,,LaGoS,Actve,***
+TX1677,CUST878,John123,Male,999,test@yahoo.com,,Groceries,Laptop,1,2500,-5000,Transfer,Rep B,Abuja,12-May-25,12-May-25, Abuja ,ACTIVE,###
+TX1789,CUST930,Mary_45,Female,34,test@yahoo.com,,,Rice,5,2500,25000,CreditCard,Rep B,Kano,12/05/2025,12/05/2025, Abuja ,Active,
+TX1947,CUST148,Mary_45,Male,25,,,Electronics,Shirt,2,"5,000",-5000,Credit Card,Rep B,Ikeja,"May 12, 2025",12/05/2025,LAGOS,active,???
